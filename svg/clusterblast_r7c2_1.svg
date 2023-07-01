@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="0,40 6,40 11,35 6,30 0,30 0,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_419547.T0&lt;/b&gt;&lt;br&gt;CopciAB 419547.T0&lt;br&gt;Location: 1623445 - 1623880" locus_tag="CopciAB_419547.T0" class="clusterblast-orf" id="dummy-2_q0_0_all"  />
+<polygon points="59,40 63,40 68,35 63,30 59,30 59,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_476959.T0&lt;/b&gt;&lt;br&gt;CopciAB 476959.T0&lt;br&gt;Location: 1625642 - 1625995" locus_tag="CopciAB_476959.T0" class="clusterblast-orf" id="dummy-2_q1_0_all"  />
+<polygon points="71,35 76,30 97,30 97,40 76,40 71,35 " style="fill:#15d863; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_363200.T0&lt;/b&gt;&lt;br&gt;CopciAB 363200.T0&lt;br&gt;Location: 1626078 - 1627074" locus_tag="CopciAB_363200.T0" class="clusterblast-orf" id="dummy-2_q2_0_all"  />
+<polygon points="122,40 126,35 122,30 122,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_1001580.T0&lt;/b&gt;&lt;br&gt;CopciAB 1001580.T0&lt;br&gt;Location: 1627996 - 1628155" locus_tag="CopciAB_1001580.T0" class="clusterblast-orf" id="dummy-2_q3_0_all"  />
+<polygon points="138,35 143,30 250,30 250,40 143,40 138,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_1001581.T0&lt;/b&gt;&lt;br&gt;CopciAB 1001581.T0&lt;br&gt;Location: 1628601 - 1632753" locus_tag="CopciAB_1001581.T0" class="clusterblast-orf" id="dummy-2_q4_0_all"  />
+<polygon points="254,40 309,40 314,35 309,30 254,30 254,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_1001582.T0&lt;/b&gt;&lt;br&gt;CopciAB 1001582.T0&lt;br&gt;Location: 1632910 - 1635157" locus_tag="CopciAB_1001582.T0" class="clusterblast-orf" id="dummy-2_q5_0_all"  />
+<polygon points="326,35 330,30 330,40 326,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_1001583.T0&lt;/b&gt;&lt;br&gt;CopciAB 1001583.T0&lt;br&gt;Location: 1635569 - 1635731" locus_tag="CopciAB_1001583.T0" class="clusterblast-orf" id="dummy-2_q6_0_all"  />
+<polygon points="341,40 370,40 375,35 370,30 341,30 341,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_443341.T0&lt;/b&gt;&lt;br&gt;CopciAB 443341.T0&lt;br&gt;Location: 1636156 - 1637423" locus_tag="CopciAB_443341.T0" class="clusterblast-orf" id="dummy-2_q7_0_all"  />
+<polygon points="391,40 396,40 401,35 396,30 391,30 391,40 " style="fill:#1563d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_362075.T0&lt;/b&gt;&lt;br&gt;CopciAB 362075.T0&lt;br&gt;Location: 1637990 - 1638388" locus_tag="CopciAB_362075.T0" class="clusterblast-orf" id="dummy-2_q8_0_all"  />
+<polygon points="400,40 419,40 424,35 419,30 400,30 400,40 " style="fill:#1563d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_362075.T1&lt;/b&gt;&lt;br&gt;CopciAB 362075.T1&lt;br&gt;Location: 1638331 - 1639232" locus_tag="CopciAB_362075.T1" class="clusterblast-orf" id="dummy-2_q9_0_all"  />
+<polygon points="433,40 521,40 526,35 521,30 433,30 433,40 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_495583.T0&lt;/b&gt;&lt;br&gt;CopciAB 495583.T0&lt;br&gt;Location: 1639579 - 1643041" locus_tag="CopciAB_495583.T0" class="clusterblast-orf" id="dummy-2_q10_0_all"  />
+<polygon points="532,35 537,30 600,30 600,40 537,40 532,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_495582.T0&lt;/b&gt;&lt;br&gt;CopciAB 495582.T0&lt;br&gt;Location: 1643258 - 1645778" locus_tag="CopciAB_495582.T0" class="clusterblast-orf" id="dummy-2_q11_0_all"  />
+<polygon points="569,35 570,30 570,40 569,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_495582.T1&lt;/b&gt;&lt;br&gt;CopciAB 495582.T1&lt;br&gt;Location: 1644616 - 1644651" locus_tag="CopciAB_495582.T1" class="clusterblast-orf" id="dummy-2_q12_0_all"  />
+<polygon points="641,40 658,40 663,35 658,30 641,30 641,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_1001584.T0&lt;/b&gt;&lt;br&gt;CopciAB 1001584.T0&lt;br&gt;Location: 1647295 - 1648121" locus_tag="CopciAB_1001584.T0" class="clusterblast-orf" id="dummy-2_q13_0_all"  />
+<polygon points="674,40 726,40 731,35 726,30 674,30 674,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_466786.T0&lt;/b&gt;&lt;br&gt;CopciAB 466786.T0&lt;br&gt;Location: 1648529 - 1650649" locus_tag="CopciAB_466786.T0" class="clusterblast-orf" id="dummy-2_q14_0_all"  />
+<polygon points="737,35 742,30 772,30 772,40 742,40 737,35 " style="fill:#b1d815; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_540189.T0&lt;/b&gt;&lt;br&gt;CopciAB 540189.T0&lt;br&gt;Location: 1650866 - 1652186" locus_tag="CopciAB_540189.T0" class="clusterblast-orf" id="dummy-2_q15_0_all"  />
+<polygon points="776,40 780,35 776,30 776,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_1001585.T0&lt;/b&gt;&lt;br&gt;CopciAB 1001585.T0&lt;br&gt;Location: 1652335 - 1652476" locus_tag="CopciAB_1001585.T0" class="clusterblast-orf" id="dummy-2_q16_0_all"  />
+</g>
+<g label="NW_020939753" description="NW_020939753 (344483-365726): Sparassis crispa DNA, contig 000006F, whole gen... (36% of genes show similarity), terpene" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area.html?record=NW_020939753&amp;start=344483&amp;end=365726" target="_blank">NW_020939753 (344483-365726)</a>: Sparassis crispa DNA, contig 000006F, whole gen... (36% of genes show similarity), terpene</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a2_000"  >
+<polygon points="136,85 141,80 154,80 154,90 141,90 136,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SCP_0701370&lt;/b&gt;&lt;br&gt;37S ribosomal protein S12, mitochondrial&lt;br&gt;Location: 363885 - 363243" locus_tag="SCP_0701370" class="clusterblast-orf" id="dummy-2_h2_1_0"  />
+</g>
+<g id="a2_001"  >
+<polygon points="158,90 187,90 192,85 187,80 158,80 158,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SCP_0701360&lt;/b&gt;&lt;br&gt;predicted protein&lt;br&gt;Location: 363089 - 361799" locus_tag="SCP_0701360" class="clusterblast-orf" id="dummy-2_h2_1_1"  />
+</g>
+<g id="a2_002"  >
+<polygon points="204,85 209,80 222,80 222,90 209,90 204,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SCP_0701350&lt;/b&gt;&lt;br&gt;predicted protein&lt;br&gt;Location: 361383 - 360714" locus_tag="SCP_0701350" class="clusterblast-orf" id="dummy-2_h2_1_2"  />
+</g>
+<g id="a2_003"  >
+<polygon points="245,90 280,90 285,85 280,80 245,80 245,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SCP_0701340&lt;/b&gt;&lt;br&gt;D-amino-acid oxidase&lt;br&gt;Location: 359852 - 358372" locus_tag="SCP_0701340" class="clusterblast-orf" id="dummy-2_h2_1_3"  />
+</g>
+<g id="a2_004"  >
+<polygon points="288,85 293,80 300,80 300,90 293,90 288,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SCP_0701330&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 358233 - 357787" locus_tag="SCP_0701330" class="clusterblast-orf" id="dummy-2_h2_1_4"  />
+</g>
+<g id="a2_005"  >
+<polygon points="312,90 332,90 337,85 332,80 312,80 312,90 " style="fill:#15d863; stroke-width:1; stroke:black; " description="&lt;b&gt;SCP_0701320&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 357363 - 356433&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CopciAB_363200.T0&lt;/b&gt;&lt;br&gt;Percentage identity: 45&lt;br&gt;Percentage coverage: 70&lt;br&gt;BLAST bit score: 139&lt;br&gt;E-value: 8.64e-38" locus_tag="SCP_0701320" class="clusterblast-orf" id="dummy-2_h2_1_5"  />
+</g>
+<g id="a2_006"  >
+<polygon points="339,85 344,80 349,80 349,90 344,90 339,85 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;SCP_0701310&lt;/b&gt;&lt;br&gt;Succinate dehydrogenase assembly factor 1, mitochondrial&lt;br&gt;Location: 356339 - 355968&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CopciAB_476959.T0&lt;/b&gt;&lt;br&gt;Percentage identity: 64&lt;br&gt;Percentage coverage: 90&lt;br&gt;BLAST bit score: 123&lt;br&gt;E-value: 2.63e-36" locus_tag="SCP_0701310" class="clusterblast-orf" id="dummy-2_h2_1_6"  />
+</g>
+<g id="a2_007"  >
+<polygon points="356,90 384,90 389,85 384,80 356,80 356,90 " style="fill:#1563d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SCP_0701300&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 355726 - 354484&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CopciAB_362075.T0&lt;/b&gt;&lt;br&gt;Percentage identity: 53&lt;br&gt;Percentage coverage: 97&lt;br&gt;BLAST bit score: 105&lt;br&gt;E-value: 1.23e-26&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CopciAB_362075.T1&lt;/b&gt;&lt;br&gt;Percentage identity: 68&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 327&lt;br&gt;E-value: 4.62e-111" locus_tag="SCP_0701300" class="clusterblast-orf" id="dummy-2_h2_1_7"  />
+</g>
+<g id="a2_008"  >
+<polygon points="397,90 483,90 488,85 483,80 397,80 397,90 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SCP_0701290&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 354184 - 350803&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CopciAB_495583.T0&lt;/b&gt;&lt;br&gt;Percentage identity: 43&lt;br&gt;Percentage coverage: 104&lt;br&gt;BLAST bit score: 612&lt;br&gt;E-value: 5.88e-206" locus_tag="SCP_0701290" class="clusterblast-orf" id="dummy-2_h2_1_8"  />
+</g>
+<g id="a2_009"  >
+<polygon points="520,85 525,80 597,80 597,90 525,90 520,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SCP_0701280&lt;/b&gt;&lt;br&gt;Saccharolysin&lt;br&gt;Location: 349610 - 346752" locus_tag="SCP_0701280" class="clusterblast-orf" id="dummy-2_h2_1_9"  />
+</g>
+<g id="a2_0010"  >
+<polygon points="628,90 638,90 643,85 638,80 628,80 628,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SCP_0701270&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 345606 - 345049" locus_tag="SCP_0701270" class="clusterblast-orf" id="dummy-2_h2_1_10"  />
+</g>
+</svg>

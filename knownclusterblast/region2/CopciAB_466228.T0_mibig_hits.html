@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>KGO40484.1</td>
+              <td>Major_facilitator_superfamily_domain,_general_substrate_transporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001205/1">BGC0001205</a></td>
+              <td>Polyketide</td>
+              <td>34.0</td>
+              <td>94.9</td>
+              <td>267.0</td>
+              <td>6.23e-83</td>
+          </tr>
+    
+          <tr>
+              <td>QMS79048.1</td>
+              <td>putative_transporter_C1039.04</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002198/1">BGC0002198</a></td>
+              <td>NRP</td>
+              <td>35.0</td>
+              <td>90.8</td>
+              <td>253.0</td>
+              <td>7.92e-78</td>
+          </tr>
+    
+          <tr>
+              <td>SKB24651.1</td>
+              <td></td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002455/1">BGC0002455</a></td>
+              <td>Polyketide</td>
+              <td>33.0</td>
+              <td>60.0</td>
+              <td>164.0</td>
+              <td>6.8e-45</td>
+          </tr>
+    
+          <tr>
+              <td>BCJ07549.1</td>
+              <td>MFS_transporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002379/1">BGC0002379</a></td>
+              <td>NRP</td>
+              <td>29.0</td>
+              <td>67.8</td>
+              <td>155.0</td>
+              <td>8.12e-42</td>
+          </tr>
+    
+          <tr>
+              <td>ADC45550.1</td>
+              <td>anion/cation_symporter</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000093/1">BGC0000093</a></td>
+              <td>Polyketide</td>
+              <td>27.0</td>
+              <td>84.6</td>
+              <td>146.0</td>
+              <td>2.14e-38</td>
+          </tr>
+    
+          <tr>
+              <td>MAA_10050</td>
+              <td>vitamin_H_transporter,_putative</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000337/1">BGC0000337</a></td>
+              <td>NRP</td>
+              <td>25.0</td>
+              <td>78.6</td>
+              <td>121.0</td>
+              <td>6.29e-30</td>
+          </tr>
+    
+          <tr>
+              <td>PLB46274.1</td>
+              <td>putative_allantoate_permease</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001712/1">BGC0001712</a></td>
+              <td>Other</td>
+              <td>22.0</td>
+              <td>87.5</td>
+              <td>114.0</td>
+              <td>1.04e-26</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

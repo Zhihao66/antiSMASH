@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="0,40 39,40 44,35 39,30 0,30 0,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_28133.T0&lt;/b&gt;&lt;br&gt;CopciAB 28133.T0&lt;br&gt;Location: 1246341 - 1247339" locus_tag="CopciAB_28133.T0" class="clusterblast-orf" id="dummy-2_q0_0_all"  />
+<polygon points="110,40 136,40 141,35 136,30 110,30 110,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_507443.T1&lt;/b&gt;&lt;br&gt;CopciAB 507443.T1&lt;br&gt;Location: 1248813 - 1249523" locus_tag="CopciAB_507443.T1" class="clusterblast-orf" id="dummy-2_q1_0_all"  />
+<polygon points="128,40 149,40 154,35 149,30 128,30 128,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_507443.T0&lt;/b&gt;&lt;br&gt;CopciAB 507443.T0&lt;br&gt;Location: 1249225 - 1249819" locus_tag="CopciAB_507443.T0" class="clusterblast-orf" id="dummy-2_q2_0_all"  />
+<polygon points="166,35 171,30 244,30 244,40 171,40 166,35 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_358611.T0&lt;/b&gt;&lt;br&gt;CopciAB 358611.T0&lt;br&gt;Location: 1250094 - 1251834" locus_tag="CopciAB_358611.T0" class="clusterblast-orf" id="dummy-2_q3_0_all"  />
+<polygon points="262,35 267,30 359,30 359,40 267,40 262,35 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_358644.T0&lt;/b&gt;&lt;br&gt;CopciAB 358644.T0&lt;br&gt;Location: 1252258 - 1254446" locus_tag="CopciAB_358644.T0" class="clusterblast-orf" id="dummy-2_q4_0_all"  />
+<polygon points="403,35 408,30 501,30 501,40 408,40 403,35 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_438053.T0&lt;/b&gt;&lt;br&gt;CopciAB 438053.T0&lt;br&gt;Location: 1255431 - 1257642" locus_tag="CopciAB_438053.T0" class="clusterblast-orf" id="dummy-2_q5_0_all"  />
+<polygon points="516,40 775,40 780,35 775,30 516,30 516,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_438054.T0&lt;/b&gt;&lt;br&gt;CopciAB 438054.T0&lt;br&gt;Location: 1257977 - 1263925" locus_tag="CopciAB_438054.T0" class="clusterblast-orf" id="dummy-2_q6_0_all"  />
+</g>
+<g label="NW_006267366" description="NW_006267366 (1141250-1156888): Agaricus bisporus var. bisporus H97 unplaced ... (100% of genes show similarity), siderophore" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area.html?record=NW_006267366&amp;start=1141250&amp;end=1156888" target="_blank">NW_006267366 (1141250-1156888)</a>: Agaricus bisporus var. bisporus H97 unplaced ... (100% of genes show similarity), siderophore</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a2_000"  >
+<polygon points="202,90 242,90 247,85 242,80 202,80 202,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;AGABI2DRAFT_66531&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1143415 - 1144430&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CopciAB_507443.T1&lt;/b&gt;&lt;br&gt;Percentage identity: 67&lt;br&gt;Percentage coverage: 89&lt;br&gt;BLAST bit score: 135&lt;br&gt;E-value: 5.06e-39&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CopciAB_507443.T0&lt;/b&gt;&lt;br&gt;Percentage identity: 59&lt;br&gt;Percentage coverage: 93&lt;br&gt;BLAST bit score: 155&lt;br&gt;E-value: 6.96e-46" locus_tag="AGABI2DRAFT_66531" class="clusterblast-orf" id="dummy-2_h2_1_0"  />
+</g>
+<g id="a2_001"  >
+<polygon points="250,85 255,80 314,80 314,90 255,90 250,85 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;AGABI2DRAFT_218205&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1144508 - 1145953&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CopciAB_358611.T0&lt;/b&gt;&lt;br&gt;Percentage identity: 34&lt;br&gt;Percentage coverage: 106&lt;br&gt;BLAST bit score: 222&lt;br&gt;E-value: 1.33e-64" locus_tag="AGABI2DRAFT_218205" class="clusterblast-orf" id="dummy-2_h2_1_1"  />
+</g>
+<g id="a2_002"  >
+<polygon points="327,85 332,80 425,80 425,90 332,90 327,85 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;AGABI2DRAFT_218206&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1146251 - 1148447&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CopciAB_358644.T0&lt;/b&gt;&lt;br&gt;Percentage identity: 55&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 660&lt;br&gt;E-value: 7.27e-232&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CopciAB_438053.T0&lt;/b&gt;&lt;br&gt;Percentage identity: 39&lt;br&gt;Percentage coverage: 98&lt;br&gt;BLAST bit score: 432&lt;br&gt;E-value: 3.72e-142" locus_tag="AGABI2DRAFT_218206" class="clusterblast-orf" id="dummy-2_h2_1_2"  />
+</g>
+<g id="a2_003"  >
+<polygon points="480,85 485,80 577,80 577,90 485,90 480,85 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;AGABI2DRAFT_183956&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1149691 - 1151888&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CopciAB_358644.T0&lt;/b&gt;&lt;br&gt;Percentage identity: 41&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 441&lt;br&gt;E-value: 9.58e-146&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CopciAB_438053.T0&lt;/b&gt;&lt;br&gt;Percentage identity: 59&lt;br&gt;Percentage coverage: 98&lt;br&gt;BLAST bit score: 749&lt;br&gt;E-value: 2.15e-266" locus_tag="AGABI2DRAFT_183956" class="clusterblast-orf" id="dummy-2_h2_1_3"  />
+</g>
+</svg>

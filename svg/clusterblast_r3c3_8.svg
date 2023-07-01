@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="118,40 154,40 159,35 154,30 118,30 118,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_485193.T0&lt;/b&gt;&lt;br&gt;CopciAB 485193.T0&lt;br&gt;Location: 1414810 - 1416979" locus_tag="CopciAB_485193.T0" class="clusterblast-orf" id="dummy-3_q0_0_all"  />
+<polygon points="168,40 181,40 186,35 181,30 168,30 168,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_452092.T0&lt;/b&gt;&lt;br&gt;CopciAB 452092.T0&lt;br&gt;Location: 1417417 - 1418394" locus_tag="CopciAB_452092.T0" class="clusterblast-orf" id="dummy-3_q1_0_all"  />
+<polygon points="195,35 200,30 216,30 216,40 200,40 195,35 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_462760.T0&lt;/b&gt;&lt;br&gt;CopciAB 462760.T0&lt;br&gt;Location: 1418847 - 1419955" locus_tag="CopciAB_462760.T0" class="clusterblast-orf" id="dummy-3_q2_0_all"  />
+<polygon points="232,35 237,30 253,30 253,40 237,40 232,35 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_438130.T0&lt;/b&gt;&lt;br&gt;CopciAB 438130.T0&lt;br&gt;Location: 1420793 - 1421920" locus_tag="CopciAB_438130.T0" class="clusterblast-orf" id="dummy-3_q3_0_all"  />
+<polygon points="263,35 268,30 289,30 289,40 268,40 263,35 " style="fill:#1597d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_438131.T0&lt;/b&gt;&lt;br&gt;CopciAB 438131.T0&lt;br&gt;Location: 1422451 - 1423833" locus_tag="CopciAB_438131.T0" class="clusterblast-orf" id="dummy-3_q4_0_all"  />
+<polygon points="293,40 305,40 310,35 305,30 293,30 293,40 " style="fill:#9715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_30507.T0&lt;/b&gt;&lt;br&gt;CopciAB 30507.T0&lt;br&gt;Location: 1424014 - 1424912" locus_tag="CopciAB_30507.T0" class="clusterblast-orf" id="dummy-3_q5_0_all"  />
+<polygon points="325,40 331,40 336,35 331,30 325,30 325,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_1000673.T0&lt;/b&gt;&lt;br&gt;CopciAB 1000673.T0&lt;br&gt;Location: 1425727 - 1426280" locus_tag="CopciAB_1000673.T0" class="clusterblast-orf" id="dummy-3_q6_0_all"  />
+<polygon points="338,40 353,40 358,35 353,30 338,30 338,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_1000674.T0&lt;/b&gt;&lt;br&gt;CopciAB 1000674.T0&lt;br&gt;Location: 1426398 - 1427484" locus_tag="CopciAB_1000674.T0" class="clusterblast-orf" id="dummy-3_q7_0_all"  />
+<polygon points="365,40 384,40 389,35 384,30 365,30 365,40 " style="fill:#d89715; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_30510.T0&lt;/b&gt;&lt;br&gt;CopciAB 30510.T0&lt;br&gt;Location: 1427831 - 1429089" locus_tag="CopciAB_30510.T0" class="clusterblast-orf" id="dummy-3_q8_0_all"  />
+<polygon points="407,35 412,30 475,30 475,40 412,40 407,35 " style="fill:#15d897; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_358591.T0&lt;/b&gt;&lt;br&gt;CopciAB 358591.T0&lt;br&gt;Location: 1430058 - 1433651" locus_tag="CopciAB_358591.T0" class="clusterblast-orf" id="dummy-3_q9_0_all"  />
+<polygon points="480,40 487,40 492,35 487,30 480,30 480,40 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_438138.T0&lt;/b&gt;&lt;br&gt;CopciAB 438138.T0&lt;br&gt;Location: 1433887 - 1434547" locus_tag="CopciAB_438138.T0" class="clusterblast-orf" id="dummy-3_q10_0_all"  />
+<polygon points="501,40 530,40 535,35 530,30 501,30 501,40 " style="fill:#d81597; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_485202.T0&lt;/b&gt;&lt;br&gt;CopciAB 485202.T0&lt;br&gt;Location: 1435028 - 1436789" locus_tag="CopciAB_485202.T0" class="clusterblast-orf" id="dummy-3_q11_0_all"  />
+<polygon points="545,35 550,30 661,30 661,40 550,40 545,35 " style="fill:#97d815; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_358738.T0&lt;/b&gt;&lt;br&gt;CopciAB 358738.T0&lt;br&gt;Location: 1437350 - 1443453" locus_tag="CopciAB_358738.T0" class="clusterblast-orf" id="dummy-3_q12_0_all"  />
+</g>
+<g label="NZ_HE578946" description="NZ_HE578946 (412309-455905): Metakosakonia massiliensis JC163 strain type str... (4% of genes show similarity), arylpolyene" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area.html?record=NZ_HE578946&amp;start=412309&amp;end=455905" target="_blank">NZ_HE578946 (412309-455905)</a>: Metakosakonia massiliensis JC163 strain type str... (4% of genes show similarity), arylpolyene</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a3_000"  >
+<polygon points="0,85 5,80 13,80 13,90 5,90 0,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12385&lt;/b&gt;&lt;br&gt;MurR/RpiR family transcriptional regulator&lt;br&gt;Location: 413452 - 414183" locus_tag="ENTHG_RS12385" class="clusterblast-orf" id="dummy-3_h3_8_0"  />
+</g>
+<g id="a3_001"  >
+<polygon points="18,90 26,90 31,85 26,80 18,80 18,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12390&lt;/b&gt;&lt;br&gt;hemolysin III family protein&lt;br&gt;Location: 414442 - 415101" locus_tag="ENTHG_RS12390" class="clusterblast-orf" id="dummy-3_h3_8_1"  />
+</g>
+<g id="a3_002"  >
+<polygon points="32,85 37,80 50,80 50,90 37,90 32,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12395&lt;/b&gt;&lt;br&gt;tRNA-modifying protein YgfZ&lt;br&gt;Location: 415150 - 416133" locus_tag="ENTHG_RS12395" class="clusterblast-orf" id="dummy-3_h3_8_2"  />
+</g>
+<g id="a3_003"  >
+<polygon points="55,90 55,90 60,85 55,80 55,80 55,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12400&lt;/b&gt;&lt;br&gt;FAD assembly factor SdhE&lt;br&gt;Location: 416382 - 416648" locus_tag="ENTHG_RS12400" class="clusterblast-orf" id="dummy-3_h3_8_3"  />
+</g>
+<g id="a3_004"  >
+<polygon points="60,90 63,90 68,85 63,80 60,80 60,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12405&lt;/b&gt;&lt;br&gt;membrane protein&lt;br&gt;Location: 416629 - 417045" locus_tag="ENTHG_RS12405" class="clusterblast-orf" id="dummy-3_h3_8_4"  />
+</g>
+<g id="a3_005"  >
+<polygon points="68,85 73,80 78,80 78,90 73,90 68,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12410&lt;/b&gt;&lt;br&gt;flavodoxin FldB&lt;br&gt;Location: 417048 - 417569" locus_tag="ENTHG_RS12410" class="clusterblast-orf" id="dummy-3_h3_8_5"  />
+</g>
+<g id="a3_006"  >
+<polygon points="79,90 91,90 96,85 91,80 79,80 79,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12415&lt;/b&gt;&lt;br&gt;site-specific tyrosine recombinase XerD&lt;br&gt;Location: 417671 - 418567" locus_tag="ENTHG_RS12415" class="clusterblast-orf" id="dummy-3_h3_8_6"  />
+</g>
+<g id="a3_007"  >
+<polygon points="97,90 105,90 110,85 105,80 97,80 97,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12420&lt;/b&gt;&lt;br&gt;bifunctional protein-disulfide isomerase/oxidoreductase DsbC&lt;br&gt;Location: 418592 - 419305" locus_tag="ENTHG_RS12420" class="clusterblast-orf" id="dummy-3_h3_8_7"  />
+</g>
+<g id="a3_008"  >
+<polygon points="111,90 138,90 143,85 138,80 111,80 111,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12425&lt;/b&gt;&lt;br&gt;single-stranded-DNA-specific exonuclease RecJ&lt;br&gt;Location: 419311 - 421044" locus_tag="ENTHG_RS12425" class="clusterblast-orf" id="dummy-3_h3_8_8"  />
+</g>
+<g id="a3_009"  >
+<polygon points="145,90 161,90 166,85 161,80 145,80 145,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12430&lt;/b&gt;&lt;br&gt;peptide chain release factor 2&lt;br&gt;Location: 421135 - 422233" locus_tag="ENTHG_RS12430" class="clusterblast-orf" id="dummy-3_h3_8_9"  />
+</g>
+<g id="a3_0010"  >
+<polygon points="166,90 190,90 195,85 190,80 166,80 166,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12435&lt;/b&gt;&lt;br&gt;lysine--tRNA ligase&lt;br&gt;Location: 422243 - 423760" locus_tag="ENTHG_RS12435" class="clusterblast-orf" id="dummy-3_h3_8_10"  />
+</g>
+<g id="a3_0011"  >
+<polygon points="196,85 201,80 206,80 206,90 201,90 196,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12440&lt;/b&gt;&lt;br&gt;isopentenyl-diphosphate Delta-isomerase&lt;br&gt;Location: 423807 - 424355" locus_tag="ENTHG_RS12440" class="clusterblast-orf" id="dummy-3_h3_8_11"  />
+</g>
+<g id="a3_0012"  >
+<polygon points="208,85 213,80 236,80 236,90 213,90 208,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12445&lt;/b&gt;&lt;br&gt;UbiD family decarboxylase&lt;br&gt;Location: 424475 - 425953" locus_tag="ENTHG_RS12445" class="clusterblast-orf" id="dummy-3_h3_8_12"  />
+</g>
+<g id="a3_0013"  >
+<polygon points="241,90 253,90 258,85 253,80 241,80 241,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12450&lt;/b&gt;&lt;br&gt;LysR family transcriptional regulator&lt;br&gt;Location: 426170 - 427069" locus_tag="ENTHG_RS12450" class="clusterblast-orf" id="dummy-3_h3_8_13"  />
+</g>
+<g id="a3_0014"  >
+<polygon points="267,90 275,90 280,85 275,80 267,80 267,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12455&lt;/b&gt;&lt;br&gt;peptidoglycan DD-metalloendopeptidase family protein&lt;br&gt;Location: 427578 - 428249" locus_tag="ENTHG_RS12455" class="clusterblast-orf" id="dummy-3_h3_8_14"  />
+</g>
+<g id="a3_0015"  >
+<polygon points="287,85 292,80 301,80 301,90 292,90 287,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12465&lt;/b&gt;&lt;br&gt;ankryin&lt;br&gt;Location: 428644 - 429360" locus_tag="ENTHG_RS12465" class="clusterblast-orf" id="dummy-3_h3_8_15"  />
+</g>
+<g id="a3_0016"  >
+<polygon points="301,85 306,80 328,80 328,90 306,90 301,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12470&lt;/b&gt;&lt;br&gt;DUF2974 domain-containing protein&lt;br&gt;Location: 429383 - 430789" locus_tag="ENTHG_RS12470" class="clusterblast-orf" id="dummy-3_h3_8_16"  />
+</g>
+<g id="a3_0017"  >
+<polygon points="345,85 350,80 357,80 357,90 350,90 345,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12475&lt;/b&gt;&lt;br&gt;4'-phosphopantetheinyl transferase AcpT&lt;br&gt;Location: 431660 - 432307" locus_tag="ENTHG_RS12475" class="clusterblast-orf" id="dummy-3_h3_8_17"  />
+</g>
+<g id="a3_0018"  >
+<polygon points="357,85 362,80 380,80 380,90 362,90 357,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12480&lt;/b&gt;&lt;br&gt;beta-ketoacyl-ACP synthase&lt;br&gt;Location: 432310 - 433538" locus_tag="ENTHG_RS12480" class="clusterblast-orf" id="dummy-3_h3_8_18"  />
+</g>
+<g id="a3_0019"  >
+<polygon points="380,85 385,80 394,80 394,90 385,90 380,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12485&lt;/b&gt;&lt;br&gt;3-oxoacyl-ACP reductase FabG&lt;br&gt;Location: 433535 - 434266" locus_tag="ENTHG_RS12485" class="clusterblast-orf" id="dummy-3_h3_8_19"  />
+</g>
+<g id="a3_0020"  >
+<polygon points="394,85 399,80 403,80 403,90 399,90 394,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12490&lt;/b&gt;&lt;br&gt;3-hydroxy-fatty acyl-ACP dehydratase&lt;br&gt;Location: 434263 - 434739" locus_tag="ENTHG_RS12490" class="clusterblast-orf" id="dummy-3_h3_8_20"  />
+</g>
+<g id="a3_0021"  >
+<polygon points="403,85 408,80 425,80 425,90 408,90 403,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12495&lt;/b&gt;&lt;br&gt;beta-ketoacyl-[acyl-carrier-protein] synthase family protein&lt;br&gt;Location: 434736 - 435905" locus_tag="ENTHG_RS12495" class="clusterblast-orf" id="dummy-3_h3_8_21"  />
+</g>
+<g id="a3_0022"  >
+<polygon points="425,85 430,80 436,80 436,90 430,90 425,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12500&lt;/b&gt;&lt;br&gt;DUF3261 domain-containing protein&lt;br&gt;Location: 435907 - 436488" locus_tag="ENTHG_RS12500" class="clusterblast-orf" id="dummy-3_h3_8_22"  />
+</g>
+<g id="a3_0023"  >
+<polygon points="436,85 441,80 480,80 480,90 441,90 436,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12505&lt;/b&gt;&lt;br&gt;MMPL family transporter&lt;br&gt;Location: 436485 - 438803" locus_tag="ENTHG_RS12505" class="clusterblast-orf" id="dummy-3_h3_8_23"  />
+</g>
+<g id="a3_0024"  >
+<polygon points="479,85 484,80 491,80 491,90 484,90 479,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12510&lt;/b&gt;&lt;br&gt;outer membrane lipoprotein carrier protein LolA&lt;br&gt;Location: 438775 - 439380" locus_tag="ENTHG_RS12510" class="clusterblast-orf" id="dummy-3_h3_8_24"  />
+</g>
+<g id="a3_0025"  >
+<polygon points="491,85 496,80 499,80 499,90 496,90 491,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12515&lt;/b&gt;&lt;br&gt;acyl-CoA thioesterase&lt;br&gt;Location: 439380 - 439799" locus_tag="ENTHG_RS12515" class="clusterblast-orf" id="dummy-3_h3_8_25"  />
+</g>
+<g id="a3_0026"  >
+<polygon points="499,85 504,80 531,80 531,90 504,90 499,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12520&lt;/b&gt;&lt;br&gt;glycosyltransferase family 2 protein&lt;br&gt;Location: 439802 - 441493" locus_tag="ENTHG_RS12520" class="clusterblast-orf" id="dummy-3_h3_8_26"  />
+</g>
+<g id="a3_0027"  >
+<polygon points="531,85 536,80 537,80 537,90 536,90 531,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12525&lt;/b&gt;&lt;br&gt;hydroxymyristoyl-ACP dehydratase&lt;br&gt;Location: 441484 - 441837" locus_tag="ENTHG_RS12525" class="clusterblast-orf" id="dummy-3_h3_8_27"  />
+</g>
+<g id="a3_0028"  >
+<polygon points="537,85 542,80 563,80 563,90 542,90 537,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12530&lt;/b&gt;&lt;br&gt;acyl-CoA synthetase&lt;br&gt;Location: 441824 - 443184" locus_tag="ENTHG_RS12530" class="clusterblast-orf" id="dummy-3_h3_8_28"  />
+</g>
+<g id="a3_0029"  >
+<polygon points="563,85 568,80 573,80 573,90 568,90 563,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12535&lt;/b&gt;&lt;br&gt;DNA gyrase subunit B&lt;br&gt;Location: 443181 - 443723" locus_tag="ENTHG_RS12535" class="clusterblast-orf" id="dummy-3_h3_8_29"  />
+</g>
+<g id="a3_0030"  >
+<polygon points="574,85 579,80 579,80 579,90 579,90 574,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12540&lt;/b&gt;&lt;br&gt;acyl carrier protein&lt;br&gt;Location: 443762 - 444013" locus_tag="ENTHG_RS12540" class="clusterblast-orf" id="dummy-3_h3_8_30"  />
+</g>
+<g id="a3_0031"  >
+<polygon points="579,85 584,80 584,80 584,90 584,90 579,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12545&lt;/b&gt;&lt;br&gt;acyl carrier protein&lt;br&gt;Location: 444023 - 444280" locus_tag="ENTHG_RS12545" class="clusterblast-orf" id="dummy-3_h3_8_31"  />
+</g>
+<g id="a3_0032"  >
+<polygon points="583,85 588,80 599,80 599,90 588,90 583,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12550&lt;/b&gt;&lt;br&gt;1-acyl-sn-glycerol-3-phosphate acyltransferase&lt;br&gt;Location: 444261 - 445076" locus_tag="ENTHG_RS12550" class="clusterblast-orf" id="dummy-3_h3_8_32"  />
+</g>
+<g id="a3_0033"  >
+<polygon points="599,85 604,80 612,80 612,90 604,90 599,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12555&lt;/b&gt;&lt;br&gt;beta-ketoacyl synthase chain length factor&lt;br&gt;Location: 445073 - 445795" locus_tag="ENTHG_RS12555" class="clusterblast-orf" id="dummy-3_h3_8_33"  />
+</g>
+<g id="a3_0034"  >
+<polygon points="613,85 618,80 633,80 633,90 618,90 613,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12560&lt;/b&gt;&lt;br&gt;methyltransferase domain-containing protein&lt;br&gt;Location: 445814 - 446872" locus_tag="ENTHG_RS12560" class="clusterblast-orf" id="dummy-3_h3_8_34"  />
+</g>
+<g id="a3_0035"  >
+<polygon points="635,85 640,80 642,80 642,90 640,90 635,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12565&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 446972 - 447361" locus_tag="ENTHG_RS12565" class="clusterblast-orf" id="dummy-3_h3_8_35"  />
+</g>
+<g id="a3_0036"  >
+<polygon points="680,90 685,90 690,85 685,80 680,80 680,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12570&lt;/b&gt;&lt;br&gt;citrate lyase holo-[acyl-carrier protein] synthase&lt;br&gt;Location: 449347 - 449907" locus_tag="ENTHG_RS12570" class="clusterblast-orf" id="dummy-3_h3_8_36"  />
+</g>
+<g id="a3_0037"  >
+<polygon points="691,85 696,80 710,80 710,90 696,90 691,85 " style="fill:#97d815; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12575&lt;/b&gt;&lt;br&gt;sensor domain-containing diguanylate cyclase&lt;br&gt;Location: 449954 - 450952&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CopciAB_358738.T0&lt;/b&gt;&lt;br&gt;Percentage identity: 39&lt;br&gt;Percentage coverage: 10&lt;br&gt;BLAST bit score: 103&lt;br&gt;E-value: 1.54e-21" locus_tag="ENTHG_RS12575" class="clusterblast-orf" id="dummy-3_h3_8_37"  />
+</g>
+<g id="a3_0038"  >
+<polygon points="714,90 725,90 730,85 725,80 714,80 714,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12580&lt;/b&gt;&lt;br&gt;aldo/keto reductase family oxidoreductase&lt;br&gt;Location: 451133 - 451996" locus_tag="ENTHG_RS12580" class="clusterblast-orf" id="dummy-3_h3_8_38"  />
+</g>
+<g id="a3_0039"  >
+<polygon points="732,85 737,80 753,80 753,90 737,90 732,85 " style="fill:#15d897; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12585&lt;/b&gt;&lt;br&gt;PLP-dependent transferase&lt;br&gt;Location: 452089 - 453231&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CopciAB_358591.T0&lt;/b&gt;&lt;br&gt;Percentage identity: 40&lt;br&gt;Percentage coverage: 41&lt;br&gt;BLAST bit score: 243&lt;br&gt;E-value: 3.3e-70" locus_tag="ENTHG_RS12585" class="clusterblast-orf" id="dummy-3_h3_8_39"  />
+</g>
+<g id="a3_0040"  >
+<polygon points="754,85 759,80 780,80 780,90 759,90 754,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ENTHG_RS12590&lt;/b&gt;&lt;br&gt;pyridoxal-phosphate dependent enzyme&lt;br&gt;Location: 453241 - 454611" locus_tag="ENTHG_RS12590" class="clusterblast-orf" id="dummy-3_h3_8_40"  />
+</g>
+</svg>

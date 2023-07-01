@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="20,40 27,40 32,35 27,30 20,30 20,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_504759.T0&lt;/b&gt;&lt;br&gt;CopciAB 504759.T0&lt;br&gt;Location: 1509256 - 1510298" locus_tag="CopciAB_504759.T0" class="clusterblast-orf" id="dummy-2_q0_0_all"  />
+<polygon points="35,35 40,30 49,30 49,40 40,40 35,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_537377.T0&lt;/b&gt;&lt;br&gt;CopciAB 537377.T0&lt;br&gt;Location: 1510525 - 1511745" locus_tag="CopciAB_537377.T0" class="clusterblast-orf" id="dummy-2_q1_0_all"  />
+<polygon points="54,35 59,30 69,30 69,40 59,40 54,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_537378.T0&lt;/b&gt;&lt;br&gt;CopciAB 537378.T0&lt;br&gt;Location: 1512155 - 1513440" locus_tag="CopciAB_537378.T0" class="clusterblast-orf" id="dummy-2_q2_0_all"  />
+<polygon points="71,35 76,30 104,30 104,40 76,40 71,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_384835.T0&lt;/b&gt;&lt;br&gt;CopciAB 384835.T0&lt;br&gt;Location: 1513673 - 1516469" locus_tag="CopciAB_384835.T0" class="clusterblast-orf" id="dummy-2_q3_0_all"  />
+<polygon points="110,35 115,30 124,30 124,40 115,40 110,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_461698.T0&lt;/b&gt;&lt;br&gt;CopciAB 461698.T0&lt;br&gt;Location: 1517066 - 1518223" locus_tag="CopciAB_461698.T0" class="clusterblast-orf" id="dummy-2_q4_0_all"  />
+<polygon points="133,40 144,40 149,35 144,30 133,30 133,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_451236.T0&lt;/b&gt;&lt;br&gt;CopciAB 451236.T0&lt;br&gt;Location: 1519026 - 1520375" locus_tag="CopciAB_451236.T0" class="clusterblast-orf" id="dummy-2_q5_0_all"  />
+<polygon points="155,40 176,40 181,35 176,30 155,30 155,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_2218.T0&lt;/b&gt;&lt;br&gt;CopciAB 2218.T0&lt;br&gt;Location: 1520900 - 1523225" locus_tag="CopciAB_2218.T0" class="clusterblast-orf" id="dummy-2_q6_0_all"  />
+<polygon points="186,35 191,30 211,30 211,40 191,40 186,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_492579.T0&lt;/b&gt;&lt;br&gt;CopciAB 492579.T0&lt;br&gt;Location: 1523632 - 1525781" locus_tag="CopciAB_492579.T0" class="clusterblast-orf" id="dummy-2_q7_0_all"  />
+<polygon points="213,40 215,40 220,35 215,30 213,30 213,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_436846.T0&lt;/b&gt;&lt;br&gt;CopciAB 436846.T0&lt;br&gt;Location: 1525955 - 1526547" locus_tag="CopciAB_436846.T0" class="clusterblast-orf" id="dummy-2_q8_0_all"  />
+<polygon points="220,35 225,30 242,30 242,40 225,40 220,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_2422.T0&lt;/b&gt;&lt;br&gt;CopciAB 2422.T0&lt;br&gt;Location: 1526572 - 1528450" locus_tag="CopciAB_2422.T0" class="clusterblast-orf" id="dummy-2_q9_0_all"  />
+<polygon points="243,40 275,40 280,35 275,30 243,30 243,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_2409.T0&lt;/b&gt;&lt;br&gt;CopciAB 2409.T0&lt;br&gt;Location: 1528581 - 1531800" locus_tag="CopciAB_2409.T0" class="clusterblast-orf" id="dummy-2_q10_0_all"  />
+<polygon points="283,35 288,30 343,30 343,40 288,40 283,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_483887.T0&lt;/b&gt;&lt;br&gt;CopciAB 483887.T0&lt;br&gt;Location: 1532016 - 1537237" locus_tag="CopciAB_483887.T0" class="clusterblast-orf" id="dummy-2_q11_0_all"  />
+<polygon points="344,40 346,40 351,35 346,30 344,30 344,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_461705.T0&lt;/b&gt;&lt;br&gt;CopciAB 461705.T0&lt;br&gt;Location: 1537347 - 1537914" locus_tag="CopciAB_461705.T0" class="clusterblast-orf" id="dummy-2_q12_0_all"  />
+<polygon points="351,35 356,30 443,30 443,40 356,40 351,35 " style="fill:#15d863; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_354233.T0&lt;/b&gt;&lt;br&gt;CopciAB 354233.T0&lt;br&gt;Location: 1537957 - 1545917" locus_tag="CopciAB_354233.T0" class="clusterblast-orf" id="dummy-2_q13_0_all"  />
+<polygon points="451,40 468,40 473,35 468,30 451,30 451,40 " style="fill:#1563d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_492586.T0&lt;/b&gt;&lt;br&gt;CopciAB 492586.T0&lt;br&gt;Location: 1546654 - 1548569" locus_tag="CopciAB_492586.T0" class="clusterblast-orf" id="dummy-2_q14_0_all"  />
+<polygon points="477,40 481,40 486,35 481,30 477,30 477,40 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_411041.T0&lt;/b&gt;&lt;br&gt;CopciAB 411041.T0&lt;br&gt;Location: 1548867 - 1549655" locus_tag="CopciAB_411041.T0" class="clusterblast-orf" id="dummy-2_q15_0_all"  />
+<polygon points="487,35 492,30 563,30 563,40 492,40 487,35 " style="fill:#b1d815; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_451244.T0&lt;/b&gt;&lt;br&gt;CopciAB 451244.T0&lt;br&gt;Location: 1549751 - 1556369" locus_tag="CopciAB_451244.T0" class="clusterblast-orf" id="dummy-2_q16_0_all"  />
+<polygon points="566,35 571,30 580,30 580,40 571,40 566,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_2587.T0&lt;/b&gt;&lt;br&gt;CopciAB 2587.T0&lt;br&gt;Location: 1556658 - 1557807" locus_tag="CopciAB_2587.T0" class="clusterblast-orf" id="dummy-2_q17_0_all"  />
+<polygon points="583,40 590,40 595,35 590,30 583,30 583,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_492590.T0&lt;/b&gt;&lt;br&gt;CopciAB 492590.T0&lt;br&gt;Location: 1558077 - 1559177" locus_tag="CopciAB_492590.T0" class="clusterblast-orf" id="dummy-2_q18_0_all"  />
+<polygon points="598,40 611,40 616,35 611,30 598,30 598,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_353895.T0&lt;/b&gt;&lt;br&gt;CopciAB 353895.T0&lt;br&gt;Location: 1559378 - 1560921" locus_tag="CopciAB_353895.T0" class="clusterblast-orf" id="dummy-2_q19_0_all"  />
+<polygon points="617,35 622,30 659,30 659,40 622,40 617,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_492592.T0&lt;/b&gt;&lt;br&gt;CopciAB 492592.T0&lt;br&gt;Location: 1561059 - 1564721" locus_tag="CopciAB_492592.T0" class="clusterblast-orf" id="dummy-2_q20_0_all"  />
+<polygon points="662,40 664,35 662,30 662,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_2714.T0&lt;/b&gt;&lt;br&gt;CopciAB 2714.T0&lt;br&gt;Location: 1564919 - 1565171" locus_tag="CopciAB_2714.T0" class="clusterblast-orf" id="dummy-2_q21_0_all"  />
+<polygon points="664,35 669,30 670,30 670,40 669,40 664,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_354058.T0&lt;/b&gt;&lt;br&gt;CopciAB 354058.T0&lt;br&gt;Location: 1565167 - 1565693" locus_tag="CopciAB_354058.T0" class="clusterblast-orf" id="dummy-2_q22_0_all"  />
+<polygon points="672,40 705,40 710,35 705,30 672,30 672,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_353952.T0&lt;/b&gt;&lt;br&gt;CopciAB 353952.T0&lt;br&gt;Location: 1565806 - 1569136" locus_tag="CopciAB_353952.T0" class="clusterblast-orf" id="dummy-2_q23_0_all"  />
+<polygon points="712,40 721,40 726,35 721,30 712,30 712,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_436853.T0&lt;/b&gt;&lt;br&gt;CopciAB 436853.T0&lt;br&gt;Location: 1569318 - 1570506" locus_tag="CopciAB_436853.T0" class="clusterblast-orf" id="dummy-2_q24_0_all"  />
+<polygon points="733,40 743,40 748,35 743,30 733,30 733,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_461716.T0&lt;/b&gt;&lt;br&gt;CopciAB 461716.T0&lt;br&gt;Location: 1571129 - 1572388" locus_tag="CopciAB_461716.T0" class="clusterblast-orf" id="dummy-2_q25_0_all"  />
+<polygon points="757,40 759,35 757,30 757,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_1000404.T0&lt;/b&gt;&lt;br&gt;CopciAB 1000404.T0&lt;br&gt;Location: 1573184 - 1573358" locus_tag="CopciAB_1000404.T0" class="clusterblast-orf" id="dummy-2_q26_0_all"  />
+</g>
+<g label="NZ_CP039374" description="NZ_CP039374 (1070855-1141104): Halomonas titanicae strain ANRCS81 chromosome,... (8% of genes show similarity), NRPS" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area.html?record=NZ_CP039374&amp;start=1070855&amp;end=1141104" target="_blank">NZ_CP039374 (1070855-1141104)</a>: Halomonas titanicae strain ANRCS81 chromosome,... (8% of genes show similarity), NRPS</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a2_000"  >
+<polygon points="0,90 11,90 16,85 11,80 0,80 0,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;E8A47_RS05080&lt;/b&gt;&lt;br&gt;DUF3375 family protein&lt;br&gt;Location: 1140443 - 1138986" locus_tag="E8A47_RS05080" class="clusterblast-orf" id="dummy-2_h2_2_0"  />
+</g>
+<g id="a2_001"  >
+<polygon points="16,90 18,90 23,85 18,80 16,80 16,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;E8A47_RS05075&lt;/b&gt;&lt;br&gt;DUF4194 domain-containing protein&lt;br&gt;Location: 1138989 - 1138381" locus_tag="E8A47_RS05075" class="clusterblast-orf" id="dummy-2_h2_2_1"  />
+</g>
+<g id="a2_002"  >
+<polygon points="23,90 57,90 62,85 57,80 23,80 23,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;E8A47_RS05070&lt;/b&gt;&lt;br&gt;ATP-dependent exonuclease SbcCD, C subunit-like protein&lt;br&gt;Location: 1138391 - 1134999" locus_tag="E8A47_RS05070" class="clusterblast-orf" id="dummy-2_h2_2_2"  />
+</g>
+<g id="a2_003"  >
+<polygon points="62,90 71,90 76,85 71,80 62,80 62,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;E8A47_RS05065&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1135002 - 1133803" locus_tag="E8A47_RS05065" class="clusterblast-orf" id="dummy-2_h2_2_3"  />
+</g>
+<g id="a2_004"  >
+<polygon points="77,90 79,85 77,80 77,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;E8A47_RS05060&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1133717 - 1133523" locus_tag="E8A47_RS05060" class="clusterblast-orf" id="dummy-2_h2_2_4"  />
+</g>
+<g id="a2_005"  >
+<polygon points="80,85 83,80 83,90 80,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;E8A47_RS05055&lt;/b&gt;&lt;br&gt;HigA family addiction module antidote protein&lt;br&gt;Location: 1133467 - 1133186" locus_tag="E8A47_RS05055" class="clusterblast-orf" id="dummy-2_h2_2_5"  />
+</g>
+<g id="a2_006"  >
+<polygon points="83,85 86,80 86,90 83,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;E8A47_RS05050&lt;/b&gt;&lt;br&gt;plasmid maintenance system killer&lt;br&gt;Location: 1133177 - 1132899" locus_tag="E8A47_RS05050" class="clusterblast-orf" id="dummy-2_h2_2_6"  />
+</g>
+<g id="a2_007"  >
+<polygon points="87,85 92,80 106,80 106,90 92,90 87,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;E8A47_RS05045&lt;/b&gt;&lt;br&gt;cyclic peptide export ABC transporter&lt;br&gt;Location: 1132863 - 1131208" locus_tag="E8A47_RS05045" class="clusterblast-orf" id="dummy-2_h2_2_7"  />
+</g>
+<g id="a2_008"  >
+<polygon points="111,90 116,90 121,85 116,80 111,80 111,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;E8A47_RS05040&lt;/b&gt;&lt;br&gt;GNAT family N-acetyltransferase&lt;br&gt;Location: 1130796 - 1129873" locus_tag="E8A47_RS05040" class="clusterblast-orf" id="dummy-2_h2_2_8"  />
+</g>
+<g id="a2_009"  >
+<polygon points="122,90 131,90 136,85 131,80 122,80 122,90 " style="fill:#1563d8; stroke-width:1; stroke:black; " description="&lt;b&gt;E8A47_RS05035&lt;/b&gt;&lt;br&gt;lysine N(6)-hydroxylase/L-ornithine N(5)-oxygenase family protein&lt;br&gt;Location: 1129849 - 1128557&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CopciAB_492586.T0&lt;/b&gt;&lt;br&gt;Percentage identity: 32&lt;br&gt;Percentage coverage: 97&lt;br&gt;BLAST bit score: 247&lt;br&gt;E-value: 2.22e-74" locus_tag="E8A47_RS05035" class="clusterblast-orf" id="dummy-2_h2_2_9"  />
+</g>
+<g id="a2_0010"  >
+<polygon points="138,90 143,90 148,85 143,80 138,80 138,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;E8A47_RS05030&lt;/b&gt;&lt;br&gt;N(5)-hydroxyornithine transformylase PvdF&lt;br&gt;Location: 1128382 - 1127546" locus_tag="E8A47_RS05030" class="clusterblast-orf" id="dummy-2_h2_2_10"  />
+</g>
+<g id="a2_0011"  >
+<polygon points="155,90 165,90 170,85 165,80 155,80 155,90 " style="fill:#1563d8; stroke-width:1; stroke:black; " description="&lt;b&gt;E8A47_RS05025&lt;/b&gt;&lt;br&gt;lysine N(6)-hydroxylase/L-ornithine N(5)-oxygenase family protein&lt;br&gt;Location: 1126907 - 1125612&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CopciAB_492586.T0&lt;/b&gt;&lt;br&gt;Percentage identity: 33&lt;br&gt;Percentage coverage: 97&lt;br&gt;BLAST bit score: 254&lt;br&gt;E-value: 7.07e-77" locus_tag="E8A47_RS05025" class="clusterblast-orf" id="dummy-2_h2_2_11"  />
+</g>
+<g id="a2_0012"  >
+<polygon points="171,90 177,90 182,85 177,80 171,80 171,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;E8A47_RS05020&lt;/b&gt;&lt;br&gt;alpha/beta hydrolase&lt;br&gt;Location: 1125546 - 1124614" locus_tag="E8A47_RS05020" class="clusterblast-orf" id="dummy-2_h2_2_12"  />
+</g>
+<g id="a2_0013"  >
+<polygon points="184,90 204,90 209,85 204,80 184,80 184,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;E8A47_RS05015&lt;/b&gt;&lt;br&gt;TonB-dependent siderophore receptor&lt;br&gt;Location: 1124449 - 1122275" locus_tag="E8A47_RS05015" class="clusterblast-orf" id="dummy-2_h2_2_13"  />
+</g>
+<g id="a2_0014"  >
+<polygon points="209,90 215,90 220,85 215,80 209,80 209,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;E8A47_RS05010&lt;/b&gt;&lt;br&gt;ABC transporter substrate-binding protein&lt;br&gt;Location: 1122254 - 1121316" locus_tag="E8A47_RS05010" class="clusterblast-orf" id="dummy-2_h2_2_14"  />
+</g>
+<g id="a2_0015"  >
+<polygon points="222,85 227,80 419,80 419,90 227,90 222,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;E8A47_RS05005&lt;/b&gt;&lt;br&gt;non-ribosomal peptide synthase/polyketide synthase&lt;br&gt;Location: 1121104 - 1104029" locus_tag="E8A47_RS05005" class="clusterblast-orf" id="dummy-2_h2_2_15"  />
+</g>
+<g id="a2_0016"  >
+<polygon points="419,85 424,80 457,80 457,90 424,90 419,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;E8A47_RS05000&lt;/b&gt;&lt;br&gt;amino acid adenylation domain-containing protein&lt;br&gt;Location: 1104027 - 1100695" locus_tag="E8A47_RS05000" class="clusterblast-orf" id="dummy-2_h2_2_16"  />
+</g>
+<g id="a2_0017"  >
+<polygon points="457,85 462,80 571,80 571,90 462,90 457,85 " style="fill:#15d863; stroke-width:1; stroke:black; " description="&lt;b&gt;E8A47_RS04995&lt;/b&gt;&lt;br&gt;amino acid adenylation domain-containing protein&lt;br&gt;Location: 1100698 - 1090856&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CopciAB_354233.T0&lt;/b&gt;&lt;br&gt;Percentage identity: 31&lt;br&gt;Percentage coverage: 27&lt;br&gt;BLAST bit score: 240&lt;br&gt;E-value: 3.74e-61" locus_tag="E8A47_RS04995" class="clusterblast-orf" id="dummy-2_h2_2_17"  />
+</g>
+<g id="a2_0018"  >
+<polygon points="571,85 576,80 583,80 583,90 576,90 571,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;E8A47_RS04990&lt;/b&gt;&lt;br&gt;TauD/TfdA family dioxygenase&lt;br&gt;Location: 1090804 - 1089803" locus_tag="E8A47_RS04990" class="clusterblast-orf" id="dummy-2_h2_2_18"  />
+</g>
+<g id="a2_0019"  >
+<polygon points="582,85 587,80 591,80 591,90 587,90 582,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;E8A47_RS04985&lt;/b&gt;&lt;br&gt;4'-phosphopantetheinyl transferase superfamily protein&lt;br&gt;Location: 1089870 - 1089058" locus_tag="E8A47_RS04985" class="clusterblast-orf" id="dummy-2_h2_2_19"  />
+</g>
+<g id="a2_0020"  >
+<polygon points="591,85 596,80 600,80 600,90 596,90 591,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;E8A47_RS04980&lt;/b&gt;&lt;br&gt;alpha/beta fold hydrolase&lt;br&gt;Location: 1089080 - 1088340" locus_tag="E8A47_RS04980" class="clusterblast-orf" id="dummy-2_h2_2_20"  />
+</g>
+<g id="a2_0021"  >
+<polygon points="599,85 602,80 602,90 599,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;E8A47_RS04975&lt;/b&gt;&lt;br&gt;MbtH family NRPS accessory protein&lt;br&gt;Location: 1088350 - 1088105" locus_tag="E8A47_RS04975" class="clusterblast-orf" id="dummy-2_h2_2_21"  />
+</g>
+<g id="a2_0022"  >
+<polygon points="605,85 608,80 608,90 605,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;E8A47_RS04970&lt;/b&gt;&lt;br&gt;DUF4880 domain-containing protein&lt;br&gt;Location: 1087849 - 1087643" locus_tag="E8A47_RS04970" class="clusterblast-orf" id="dummy-2_h2_2_22"  />
+</g>
+<g id="a2_0023"  >
+<polygon points="609,85 614,80 615,80 615,90 614,90 609,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;E8A47_RS04965&lt;/b&gt;&lt;br&gt;RNA polymerase factor sigma-70&lt;br&gt;Location: 1087501 - 1086992" locus_tag="E8A47_RS04965" class="clusterblast-orf" id="dummy-2_h2_2_23"  />
+</g>
+<g id="a2_0024"  >
+<polygon points="618,90 632,90 637,85 632,80 618,80 618,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;E8A47_RS04960&lt;/b&gt;&lt;br&gt;AAA family ATPase&lt;br&gt;Location: 1086736 - 1085105" locus_tag="E8A47_RS04960" class="clusterblast-orf" id="dummy-2_h2_2_24"  />
+</g>
+<g id="a2_0025"  >
+<polygon points="638,90 651,90 656,85 651,80 638,80 638,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;E8A47_RS04955&lt;/b&gt;&lt;br&gt;AAA family ATPase&lt;br&gt;Location: 1085036 - 1083465" locus_tag="E8A47_RS04955" class="clusterblast-orf" id="dummy-2_h2_2_25"  />
+</g>
+<g id="a2_0026"  >
+<polygon points="657,90 661,90 666,85 661,80 657,80 657,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;E8A47_RS04950&lt;/b&gt;&lt;br&gt;inositol monophosphatase&lt;br&gt;Location: 1083354 - 1082557" locus_tag="E8A47_RS04950" class="clusterblast-orf" id="dummy-2_h2_2_26"  />
+</g>
+<g id="a2_0027"  >
+<polygon points="668,90 672,90 677,85 672,80 668,80 668,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;E8A47_RS04945&lt;/b&gt;&lt;br&gt;ATP-binding cassette domain-containing protein&lt;br&gt;Location: 1082357 - 1081590" locus_tag="E8A47_RS04945" class="clusterblast-orf" id="dummy-2_h2_2_27"  />
+</g>
+<g id="a2_0028"  >
+<polygon points="679,90 683,90 688,85 683,80 679,80 679,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;E8A47_RS04940&lt;/b&gt;&lt;br&gt;siderophore-iron reductase FhuF&lt;br&gt;Location: 1081441 - 1080653" locus_tag="E8A47_RS04940" class="clusterblast-orf" id="dummy-2_h2_2_28"  />
+</g>
+<g id="a2_0029"  >
+<polygon points="688,85 693,80 707,80 707,90 693,90 688,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;E8A47_RS04935&lt;/b&gt;&lt;br&gt;multidrug ABC transporter permease/ATP-binding protein&lt;br&gt;Location: 1080628 - 1078976" locus_tag="E8A47_RS04935" class="clusterblast-orf" id="dummy-2_h2_2_29"  />
+</g>
+<g id="a2_0030"  >
+<polygon points="710,85 715,80 722,80 722,90 715,90 710,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;E8A47_RS04930&lt;/b&gt;&lt;br&gt;DUF1513 domain-containing protein&lt;br&gt;Location: 1078790 - 1077702" locus_tag="E8A47_RS04930" class="clusterblast-orf" id="dummy-2_h2_2_30"  />
+</g>
+<g id="a2_0031"  >
+<polygon points="722,85 727,80 734,80 734,90 727,90 722,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;E8A47_RS04925&lt;/b&gt;&lt;br&gt;imelysin family protein&lt;br&gt;Location: 1077698 - 1076673" locus_tag="E8A47_RS04925" class="clusterblast-orf" id="dummy-2_h2_2_31"  />
+</g>
+<g id="a2_0032"  >
+<polygon points="734,85 739,80 751,80 751,90 739,90 734,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;E8A47_RS04920&lt;/b&gt;&lt;br&gt;thiol oxidoreductase&lt;br&gt;Location: 1076649 - 1075180" locus_tag="E8A47_RS04920" class="clusterblast-orf" id="dummy-2_h2_2_32"  />
+</g>
+<g id="a2_0033"  >
+<polygon points="752,85 757,80 767,80 767,90 757,90 752,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;E8A47_RS04915&lt;/b&gt;&lt;br&gt;peptidase&lt;br&gt;Location: 1075088 - 1073799" locus_tag="E8A47_RS04915" class="clusterblast-orf" id="dummy-2_h2_2_33"  />
+</g>
+<g id="a2_0034"  >
+<polygon points="770,90 775,90 780,85 775,80 770,80 770,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;E8A47_RS04910&lt;/b&gt;&lt;br&gt;ArgP/LysG family DNA-binding transcriptional regulator&lt;br&gt;Location: 1073583 - 1072717" locus_tag="E8A47_RS04910" class="clusterblast-orf" id="dummy-2_h2_2_34"  />
+</g>
+</svg>

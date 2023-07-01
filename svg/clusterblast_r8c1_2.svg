@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="0,35 5,30 8,30 8,40 5,40 0,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_1001712.T0&lt;/b&gt;&lt;br&gt;CopciAB 1001712.T0&lt;br&gt;Location: 586560 - 586847" locus_tag="CopciAB_1001712.T0" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="28,35 33,30 37,30 37,40 33,40 28,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_1001713.T0&lt;/b&gt;&lt;br&gt;CopciAB 1001713.T0&lt;br&gt;Location: 587532 - 587851" locus_tag="CopciAB_1001713.T0" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="54,35 59,30 63,30 63,40 59,40 54,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_394838.T0&lt;/b&gt;&lt;br&gt;CopciAB 394838.T0&lt;br&gt;Location: 588442 - 588759" locus_tag="CopciAB_394838.T0" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="78,35 83,30 156,30 156,40 83,40 78,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_394836.T0&lt;/b&gt;&lt;br&gt;CopciAB 394836.T0&lt;br&gt;Location: 589253 - 591957" locus_tag="CopciAB_394836.T0" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="177,40 213,40 218,35 213,30 177,30 177,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_446855.T0&lt;/b&gt;&lt;br&gt;CopciAB 446855.T0&lt;br&gt;Location: 592682 - 594117" locus_tag="CopciAB_446855.T0" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="227,35 232,30 241,30 241,40 232,40 227,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_446854.T0&lt;/b&gt;&lt;br&gt;CopciAB 446854.T0&lt;br&gt;Location: 594430 - 594896" locus_tag="CopciAB_446854.T0" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="257,40 344,40 349,35 344,30 257,30 257,40 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_496600.T0&lt;/b&gt;&lt;br&gt;CopciAB 496600.T0&lt;br&gt;Location: 595458 - 598647" locus_tag="CopciAB_496600.T0" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+<polygon points="425,40 456,40 461,35 456,30 425,30 425,40 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_559321.T0&lt;/b&gt;&lt;br&gt;CopciAB 559321.T0&lt;br&gt;Location: 601279 - 602509" locus_tag="CopciAB_559321.T0" class="clusterblast-orf" id="dummy-1_q7_0_all"  />
+<polygon points="588,35 593,30 615,30 615,40 593,40 588,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_201950.T0&lt;/b&gt;&lt;br&gt;CopciAB 201950.T0&lt;br&gt;Location: 606898 - 607858" locus_tag="CopciAB_201950.T0" class="clusterblast-orf" id="dummy-1_q8_0_all"  />
+<polygon points="646,35 651,30 654,30 654,40 651,40 646,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_1001716.T0&lt;/b&gt;&lt;br&gt;CopciAB 1001716.T0&lt;br&gt;Location: 608937 - 609195" locus_tag="CopciAB_1001716.T0" class="clusterblast-orf" id="dummy-1_q9_0_all"  />
+<polygon points="711,40 775,40 780,35 775,30 711,30 711,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_496597.T0&lt;/b&gt;&lt;br&gt;CopciAB 496597.T0&lt;br&gt;Location: 611168 - 613550" locus_tag="CopciAB_496597.T0" class="clusterblast-orf" id="dummy-1_q10_0_all"  />
+</g>
+<g label="NW_003315662" description="NW_003315662 (828705-850120): Schizophyllum commune H4-8 unplaced genomic sca... (28% of genes show similarity), terpene" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area.html?record=NW_003315662&amp;start=828705&amp;end=850120" target="_blank">NW_003315662 (828705-850120)</a>: Schizophyllum commune H4-8 unplaced genomic sca... (28% of genes show similarity), terpene</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="120,85 125,80 168,80 168,90 125,90 120,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SCHCODRAFT_70627&lt;/b&gt;&lt;br&gt;uncharacterized protein&lt;br&gt;Location: 829676 - 831335" locus_tag="SCHCODRAFT_70627" class="clusterblast-orf" id="dummy-1_h1_2_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="191,90 196,90 201,85 196,80 191,80 191,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SCHCODRAFT_40518&lt;/b&gt;&lt;br&gt;uncharacterized protein&lt;br&gt;Location: 832141 - 832502" locus_tag="SCHCODRAFT_40518" class="clusterblast-orf" id="dummy-1_h1_2_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="237,90 262,90 267,85 262,80 237,80 237,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SCHCODRAFT_41081&lt;/b&gt;&lt;br&gt;uncharacterized protein&lt;br&gt;Location: 833721 - 834775" locus_tag="SCHCODRAFT_41081" class="clusterblast-orf" id="dummy-1_h1_2_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="282,85 287,80 368,80 368,90 287,90 282,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SCHCODRAFT_83379&lt;/b&gt;&lt;br&gt;uncharacterized protein&lt;br&gt;Location: 835307 - 838260" locus_tag="SCHCODRAFT_83379" class="clusterblast-orf" id="dummy-1_h1_2_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="381,85 386,80 421,80 421,90 386,90 381,85 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SCHCODRAFT_17515&lt;/b&gt;&lt;br&gt;uncharacterized protein&lt;br&gt;Location: 838706 - 840120&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CopciAB_559321.T0&lt;/b&gt;&lt;br&gt;Percentage identity: 79&lt;br&gt;Percentage coverage: 94&lt;br&gt;BLAST bit score: 555&lt;br&gt;E-value: 1.54e-198" locus_tag="SCHCODRAFT_17515" class="clusterblast-orf" id="dummy-1_h1_2_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="494,90 585,90 590,85 585,80 494,80 494,90 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;SCHCODRAFT_61044&lt;/b&gt;&lt;br&gt;uncharacterized protein&lt;br&gt;Location: 842630 - 845936&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CopciAB_496600.T0&lt;/b&gt;&lt;br&gt;Percentage identity: 59&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 821&lt;br&gt;E-value: 2.79e-289" locus_tag="SCHCODRAFT_61044" class="clusterblast-orf" id="dummy-1_h1_2_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="600,90 654,90 659,85 654,80 600,80 600,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SCHCODRAFT_61021&lt;/b&gt;&lt;br&gt;uncharacterized protein&lt;br&gt;Location: 846308 - 848354" locus_tag="SCHCODRAFT_61021" class="clusterblast-orf" id="dummy-1_h1_2_6"  />
+</g>
+</svg>

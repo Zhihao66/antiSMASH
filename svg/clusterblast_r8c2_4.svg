@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="61,40 72,40 77,35 72,30 61,30 61,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_469722.T0&lt;/b&gt;&lt;br&gt;CopciAB 469722.T0&lt;br&gt;Location: 649236 - 649961" locus_tag="CopciAB_469722.T0" class="clusterblast-orf" id="dummy-2_q0_0_all"  />
+<polygon points="118,35 123,30 158,30 158,40 123,40 118,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_201601.T0&lt;/b&gt;&lt;br&gt;CopciAB 201601.T0&lt;br&gt;Location: 651747 - 653564" locus_tag="CopciAB_201601.T0" class="clusterblast-orf" id="dummy-2_q1_0_all"  />
+<polygon points="160,35 165,30 201,30 201,40 165,40 160,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_469720.T0&lt;/b&gt;&lt;br&gt;CopciAB 469720.T0&lt;br&gt;Location: 653660 - 655465" locus_tag="CopciAB_469720.T0" class="clusterblast-orf" id="dummy-2_q2_0_all"  />
+<polygon points="207,35 212,30 291,30 291,40 212,40 207,35 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_541099.T0&lt;/b&gt;&lt;br&gt;CopciAB 541099.T0&lt;br&gt;Location: 655733 - 659479" locus_tag="CopciAB_541099.T0" class="clusterblast-orf" id="dummy-2_q3_0_all"  />
+<polygon points="308,35 313,30 355,30 355,40 313,40 308,35 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_420898.T0&lt;/b&gt;&lt;br&gt;CopciAB 420898.T0&lt;br&gt;Location: 660230 - 662345" locus_tag="CopciAB_420898.T0" class="clusterblast-orf" id="dummy-2_q4_0_all"  />
+<polygon points="379,40 401,40 406,35 401,30 379,30 379,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_394772.T0&lt;/b&gt;&lt;br&gt;CopciAB 394772.T0&lt;br&gt;Location: 663413 - 664616" locus_tag="CopciAB_394772.T0" class="clusterblast-orf" id="dummy-2_q5_0_all"  />
+<polygon points="429,35 434,30 476,30 476,40 434,40 429,35 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_201523.T0&lt;/b&gt;&lt;br&gt;CopciAB 201523.T0&lt;br&gt;Location: 665622 - 667713" locus_tag="CopciAB_201523.T0" class="clusterblast-orf" id="dummy-2_q6_0_all"  />
+<polygon points="497,40 512,40 517,35 512,30 497,30 497,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_469716.T0&lt;/b&gt;&lt;br&gt;CopciAB 469716.T0&lt;br&gt;Location: 668642 - 669560" locus_tag="CopciAB_469716.T0" class="clusterblast-orf" id="dummy-2_q7_0_all"  />
+<polygon points="500,40 504,35 500,30 500,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_469716.T1&lt;/b&gt;&lt;br&gt;CopciAB 469716.T1&lt;br&gt;Location: 668777 - 668971" locus_tag="CopciAB_469716.T1" class="clusterblast-orf" id="dummy-2_q8_0_all"  />
+<polygon points="525,35 530,30 552,30 552,40 530,40 525,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_469715.T0&lt;/b&gt;&lt;br&gt;CopciAB 469715.T0&lt;br&gt;Location: 669921 - 671113" locus_tag="CopciAB_469715.T0" class="clusterblast-orf" id="dummy-2_q9_0_all"  />
+<polygon points="571,35 576,30 588,30 588,40 576,40 571,35 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_420887.T0&lt;/b&gt;&lt;br&gt;CopciAB 420887.T0&lt;br&gt;Location: 671972 - 672696" locus_tag="CopciAB_420887.T0" class="clusterblast-orf" id="dummy-2_q10_0_all"  />
+<polygon points="611,40 713,40 718,35 713,30 611,30 611,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_469713.T0&lt;/b&gt;&lt;br&gt;CopciAB 469713.T0&lt;br&gt;Location: 673718 - 678512" locus_tag="CopciAB_469713.T0" class="clusterblast-orf" id="dummy-2_q11_0_all"  />
+</g>
+<g label="CM008254" description="CM008254 (756849-791607): Phellinus noxius strain FFPRI411160 chromosome 4, w... (16% of genes show similarity), terpene" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area.html?record=CM008254&amp;start=756849&amp;end=791607" target="_blank">CM008254 (756849-791607)</a>: Phellinus noxius strain FFPRI411160 chromosome 4, w... (16% of genes show similarity), terpene</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a2_000"  >
+<polygon points="0,85 5,80 21,80 21,90 5,90 0,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;PNOK_0437300&lt;/b&gt;&lt;br&gt;terpenoid synthase&lt;br&gt;Location: 756850 - 757804" locus_tag="PNOK_0437300" class="clusterblast-orf" id="dummy-2_h2_4_0"  />
+</g>
+<g id="a2_001"  >
+<polygon points="129,85 134,80 159,80 159,90 134,90 129,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;PNOK_0437400&lt;/b&gt;&lt;br&gt;terpenoid synthase&lt;br&gt;Location: 762603 - 763968" locus_tag="PNOK_0437400" class="clusterblast-orf" id="dummy-2_h2_4_1"  />
+</g>
+<g id="a2_002"  >
+<polygon points="237,90 241,90 246,85 241,80 237,80 237,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;PNOK_0437500&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 767422 - 767836" locus_tag="PNOK_0437500" class="clusterblast-orf" id="dummy-2_h2_4_2"  />
+</g>
+<g id="a2_003"  >
+<polygon points="260,85 265,80 289,80 289,90 265,90 260,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;PNOK_0437600&lt;/b&gt;&lt;br&gt;terpenoid synthase&lt;br&gt;Location: 768458 - 769763" locus_tag="PNOK_0437600" class="clusterblast-orf" id="dummy-2_h2_4_3"  />
+</g>
+<g id="a2_004"  >
+<polygon points="313,85 318,80 359,80 359,90 318,90 313,85 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;PNOK_0437700&lt;/b&gt;&lt;br&gt;cytochrome P450&lt;br&gt;Location: 770825 - 772848&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CopciAB_420898.T0&lt;/b&gt;&lt;br&gt;Percentage identity: 37&lt;br&gt;Percentage coverage: 81&lt;br&gt;BLAST bit score: 296&lt;br&gt;E-value: 2.28e-93&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CopciAB_201523.T0&lt;/b&gt;&lt;br&gt;Percentage identity: 35&lt;br&gt;Percentage coverage: 82&lt;br&gt;BLAST bit score: 273&lt;br&gt;E-value: 1.43e-84" locus_tag="PNOK_0437700" class="clusterblast-orf" id="dummy-2_h2_4_4"  />
+</g>
+<g id="a2_005"  >
+<polygon points="374,85 379,80 414,80 414,90 379,90 374,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;PNOK_0437800&lt;/b&gt;&lt;br&gt;FAD dependent oxidoreductase&lt;br&gt;Location: 773554 - 775332" locus_tag="PNOK_0437800" class="clusterblast-orf" id="dummy-2_h2_4_5"  />
+</g>
+<g id="a2_006"  >
+<polygon points="424,90 453,90 458,85 453,80 424,80 424,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;PNOK_0437900&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 775770 - 777292" locus_tag="PNOK_0437900" class="clusterblast-orf" id="dummy-2_h2_4_6"  />
+</g>
+<g id="a2_007"  >
+<polygon points="463,90 488,90 493,85 488,80 463,80 463,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;PNOK_0438000&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 777485 - 778828" locus_tag="PNOK_0438000" class="clusterblast-orf" id="dummy-2_h2_4_7"  />
+</g>
+<g id="a2_008"  >
+<polygon points="495,85 500,80 544,80 544,90 500,90 495,85 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;PNOK_0438100&lt;/b&gt;&lt;br&gt;cytochrome P450&lt;br&gt;Location: 778923 - 781131&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CopciAB_420898.T0&lt;/b&gt;&lt;br&gt;Percentage identity: 34&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 290&lt;br&gt;E-value: 4.94e-90&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CopciAB_201523.T0&lt;/b&gt;&lt;br&gt;Percentage identity: 34&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 273&lt;br&gt;E-value: 1.66e-83" locus_tag="PNOK_0438100" class="clusterblast-orf" id="dummy-2_h2_4_8"  />
+</g>
+<g id="a2_009"  >
+<polygon points="559,90 597,90 602,85 597,80 559,80 559,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;PNOK_0438200&lt;/b&gt;&lt;br&gt;MFS general substrate transporter&lt;br&gt;Location: 781801 - 783696" locus_tag="PNOK_0438200" class="clusterblast-orf" id="dummy-2_h2_4_9"  />
+</g>
+<g id="a2_0010"  >
+<polygon points="608,85 613,80 639,80 639,90 613,90 608,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;PNOK_0438300&lt;/b&gt;&lt;br&gt;terpenoid synthase&lt;br&gt;Location: 783987 - 785334" locus_tag="PNOK_0438300" class="clusterblast-orf" id="dummy-2_h2_4_10"  />
+</g>
+<g id="a2_0011"  >
+<polygon points="657,85 662,80 780,80 780,90 662,90 657,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;PNOK_0438400&lt;/b&gt;&lt;br&gt;NAD P-binding protein&lt;br&gt;Location: 786135 - 791607" locus_tag="PNOK_0438400" class="clusterblast-orf" id="dummy-2_h2_4_11"  />
+</g>
+</svg>

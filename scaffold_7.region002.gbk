@@ -1,0 +1,1546 @@
+LOCUS       scaffold_7             30901 bp    DNA     linear   UNK 01-JAN-1980
+DEFINITION  scaffold_7.
+ACCESSION   scaffold_7
+VERSION     scaffold_7
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+COMMENT     ##antiSMASH-Data-START##
+            Version      :: 7.0.0beta2-86685d9d
+            Run date     :: 2023-03-10 16:38:57
+            NOTE: This is a single region extracted from a larger record!
+            Orig. start  :: 1623331
+            Orig. end    :: 1654232
+            ##antiSMASH-Data-END##
+FEATURES             Location/Qualifiers
+     protocluster    1..30901
+                     /aStool="rule-based-clusters"
+                     /category="terpene"
+                     /contig_edge="False"
+                     /core_location="[1638331:1639232]"
+                     /cutoff="20000"
+                     /detection_rule="(Terpene_synth or Terpene_synth_C or
+                     phytoene_synt or Lycopene_cycl or terpene_cyclase or NapT7
+                     or fung_ggpps or fung_ggpps2 or trichodiene_synth or TRI5)"
+                     /neighbourhood="15000"
+                     /product="terpene"
+                     /protocluster_number="1"
+                     /tool="antismash"
+     proto_core      15001..15901
+                     /aStool="rule-based-clusters"
+                     /tool="antismash"
+                     /cutoff="20000"
+                     /detection_rule="(Terpene_synth or Terpene_synth_C or
+                     phytoene_synt or Lycopene_cycl or terpene_cyclase or NapT7
+                     or fung_ggpps or fung_ggpps2 or trichodiene_synth or TRI5)"
+                     /neighbourhood="15000"
+                     /product="terpene"
+                     /protocluster_number="1"
+     cand_cluster    1..30901
+                     /candidate_cluster_number="1"
+                     /contig_edge="False"
+                     /detection_rules="(Terpene_synth or Terpene_synth_C or
+                     phytoene_synt or Lycopene_cycl or terpene_cyclase or NapT7
+                     or fung_ggpps or fung_ggpps2 or trichodiene_synth or TRI5)"
+                     /kind="single"
+                     /product="terpene"
+                     /protoclusters="1"
+                     /tool="antismash"
+     region          1..30901
+                     /candidate_cluster_numbers="1"
+                     /contig_edge="False"
+                     /product="terpene"
+                     /region_number="2"
+                     /rules="(Terpene_synth or Terpene_synth_C or phytoene_synt
+                     or Lycopene_cycl or terpene_cyclase or NapT7 or fung_ggpps
+                     or fung_ggpps2 or trichodiene_synth or TRI5)"
+                     /tool="antismash"
+     CDS             115..549
+                     /gene="CopciAB_419547.T0"
+                     /phase="0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+                     /transl_table=1
+                     /translation="MVDQVVKIQASFKYIIGGAYASGIPSRYGNWNGGSDLLSFTHSKL
+                     VLWRRKISLLPLVWGTSYPPVRDSRPGTPLVFCPMSLFTWNISHPSGCIQLPSKYPPST
+                     SSCVGDMYTSKIEKTPLEVSWVTLSIGYELRGFRLSLIQP"
+     exon            2270..2355
+                     /Parent="CopciAB_476959.T0"
+                     /gene="CopciAB_476959.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     CDS             join(2312..2355,2418..2664)
+                     /gene="CopciAB_476959.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+                     /transl_table=1
+                     /translation="MRSGLQKEVLNLYRRALRMARSKPPSSRPKFLLYVQYNFHINATS
+                     ISPRNVSAVEHLIRKGTRQIEMYEDPSVKDCWVSKEMLEWKESRRMPPSSS"
+     PFAM_domain     join(2330..2355,2418..2574)
+                     /aSDomain="Complex1_LYR"
+                     /aSTool="clusterhmmer"
+                     /database="34.0"
+                     /db_xref="PF05347.17"
+                     /description="Complex 1 protein (LYR family)"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CopciAB_476959.T0_0013"
+                     /evalue="6.30E-08"
+                     /label="CopciAB_476959.T0"
+                     /locus_tag="CopciAB_476959.T0"
+                     /protein_end="67"
+                     /protein_start="6"
+                     /score="32.7"
+                     /tool="antismash"
+                     /translation="KEVLNLYRRALRMARSKPPSSRPKFLLYVQYNFHINATSISPRNV
+                     SAVEHLIRKGTRQIEM"
+     exon            2418..2780
+                     /Parent="CopciAB_476959.T0"
+                     /gene="CopciAB_476959.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(2682..3209)
+                     /Parent="CopciAB_363200.T0"
+                     /gene="CopciAB_363200.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     CDS             complement(join(2748..3209,3267..3433,3488..3743))
+                     /gene="CopciAB_363200.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+                     /transl_table=1
+                     /translation="MFSLARRPHNRVCKPLARCLAQVAPNTPSNDVSTTPASTSADWRT
+                     GKVPVRDDHGLYGFFRRKADPSLSGEDAYETVESARKPASGRAWRASELRLKSFQDLHT
+                     LWYVTLRERNLLATQREEARRMGIKINLQAQTVMAGACRKTMARIKAVMNERRLAYQGA
+                     VKLIKEHQEQIEDKKLLQLRHDALIEAQQELTAFTKQGRILRRQRLRQEAQARKALEEE
+                     GLLKAASETTEAAESSTNAEASSTPAAEATQAVPEPAKESESAPAAPEASSRPQTAAET
+                     ATAGLFGDVPNRK"
+     PFAM_domain     complement(join(3165..3209,3267..3433,3488..3509))
+                     /aSDomain="MRP-L47"
+                     /aSTool="clusterhmmer"
+                     /database="34.0"
+                     /db_xref="PF06984.15"
+                     /db_xref="GO:0003735"
+                     /db_xref="GO:0005761"
+                     /db_xref="GO:0006412"
+                     /description="Mitochondrial 39-S ribosomal protein L47
+                     (MRP-L47)"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CopciAB_363200.T0_0014"
+                     /evalue="6.10E-20"
+                     /gene_ontologies="GO:0003735: structural constituent of
+                     ribosome"
+                     /gene_ontologies="GO:0005761: mitochondrial ribosome"
+                     /gene_ontologies="GO:0006412: translation"
+                     /label="CopciAB_363200.T0"
+                     /locus_tag="CopciAB_363200.T0"
+                     /protein_end="156"
+                     /protein_start="78"
+                     /score="71.2"
+                     /tool="antismash"
+                     /translation="SARKPASGRAWRASELRLKSFQDLHTLWYVTLRERNLLATQREEA
+                     RRMGIKINLQAQTVMAGACRKTMARIKAVMNER"
+     exon            complement(3267..3433)
+                     /Parent="CopciAB_363200.T0"
+                     /gene="CopciAB_363200.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(3488..3754)
+                     /Parent="CopciAB_363200.T0"
+                     /gene="CopciAB_363200.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            3870..3951
+                     /Parent="CopciAB_1001580.T0"
+                     /gene="CopciAB_1001580.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            4000..5170
+                     /Parent="CopciAB_1001580.T0"
+                     /gene="CopciAB_1001580.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     CDS             4666..4824
+                     /gene="CopciAB_1001580.T0"
+                     /phase="0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+                     /transl_table=1
+                     /translation="MLNEDACHLRHTSQLEVSRPLPSNSFSISETHLPLPLMGVGGEHA
+                     QVNALSP"
+     exon            complement(5168..5565)
+                     /Parent="CopciAB_1001581.T0"
+                     /gene="CopciAB_1001581.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     CDS             complement(join(5271..5565,5615..6237,6292..6594,
+                     6645..7079,7130..7235,7290..7456,7511..7757,7806..8032,
+                     8079..9017,9065..9199,9252..9422))
+                     /gene="CopciAB_1001581.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+                     /transl_table=1
+                     /translation="MAGQHKCSPPCKKSFRTRQGLCSHRTQCKFYRANLRVRAKRIVTE
+                     LVGPTEQTEPDTEMADVIDDQDDQDLPQWMPDPEMGQNTDRQVGESPVPASEPAVDENP
+                     TGLRRSARVRRPAPLQTAVPPPESPVQSPSPPPTPAQALPKLERTAPNKFGVFRVYMGG
+                     SPDPPPKEPKSTRSLFERFKDNIYAPFPNATSFHLVDWFYSTGRTLSSLKFADLVNIMK
+                     GQEFDLNDVANMNPKEELERLDSDDHEASPFASLSSWKTSSVEIPMPCERCRWPSEADA
+                     PQLKIDGVQHRSLTQLIVDAFSNPRSAGFQFTPYKEFWKADPSAPPEQLIGEVYTSSAF
+                     LEEHQAILQAPRIEGDSDDIPYAIASILLWSDSTHLTSFGDASLWPIYAYFGNQSKYER
+                     CKPSKFAAHHLAYIPTIPKDFQDEYREQYGVAAATQTVTLLRRQLFHAVWKLLLDPEFM
+                     EAYKKGILVHCADGILRRLFPRFFFYSADYPEKVLVATIQYLAHSGCPGCYTAKEFFDE
+                     LGTQDDDIRRDEIREDNKEYRKRIRDAREQIFEKGAGVDWKAVKDILSDRSEVPVENAF
+                     SARLSPFGFNFFSMFVPDILHDFELGVWKAVFAHLMRILHAISGDFVQELNERYRAIPP
+                     FGRNTIRRFAQNASAMKKLAGRDYEDLLQCAFPVFEDLLISSASGDQQWAPLQRSINHL
+                     IFVLCCWHALSKLRLHTTSTMKNVKRVTRALGFSARRFRRLSSRVKTKELPGEYAARNR
+                     RRARAAASGASTSDTTQNTTPRKKRLNFQTPKFHFLGHLVRAIATFGTSDNYTTQVGEQ
+                     EHRRVKQFYVITNKREGYEAQIACHYRRQHLLAVIKAREQEAKMLELEVFRELEERKIL
+                     GPGPTIRGSEKNFKFLADTSEPINVFSWVARHSEDPALKTFYSDLTKHLLARIRFPDSP
+                     REQEDALDTFTADDMACISILDRTIYRHRTIRFQYTTYDMQEEWDYVSPRSNTCNVMTL
+                     AYDRPEDRPHPYWYARVCGIYHATVLYRPNARAPFQKYAMPFLWVRFYGRDLEEDSPGL
+                     EGGQYQRVGFLDAHNEENHAFGFIDPAQVIRACHVIPGFRFGKTSDLLGKSVSRRAGED
+                     EEDYRFYYVNPVADRDMFMRFTGGGPGHGQPLPYYPLKLELLYPDRAFGDDGSSTTEEE
+                     QREEYDQDDEEVDFGYQTDQDDGDLPPEGGPPPEDEEEDEFTALGFGEP"
+     exon            complement(5615..6237)
+                     /Parent="CopciAB_1001581.T0"
+                     /gene="CopciAB_1001581.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(6292..6594)
+                     /Parent="CopciAB_1001581.T0"
+                     /gene="CopciAB_1001581.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(6645..7079)
+                     /Parent="CopciAB_1001581.T0"
+                     /gene="CopciAB_1001581.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(7130..7235)
+                     /Parent="CopciAB_1001581.T0"
+                     /gene="CopciAB_1001581.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(7290..7456)
+                     /Parent="CopciAB_1001581.T0"
+                     /gene="CopciAB_1001581.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     PFAM_domain     complement(join(7361..7456,7511..7757,7806..8032,
+                     8079..8465))
+                     /aSDomain="Plavaka"
+                     /aSTool="clusterhmmer"
+                     /database="34.0"
+                     /db_xref="PF18759.3"
+                     /description="Plavaka transposase"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CopciAB_1001581.T0_0015"
+                     /evalue="3.20E-32"
+                     /label="CopciAB_1001581.T0"
+                     /locus_tag="CopciAB_1001581.T0"
+                     /protein_end="605"
+                     /protein_start="286"
+                     /score="112.1"
+                     /tool="antismash"
+                     /translation="DGVQHRSLTQLIVDAFSNPRSAGFQFTPYKEFWKADPSAPPEQLI
+                     GEVYTSSAFLEEHQAILQAPRIEGDSDDIPYAIASILLWSDSTHLTSFGDASLWPIYAY
+                     FGNQSKYERCKPSKFAAHHLAYIPTIPKDFQDEYREQYGVAAATQTVTLLRRQLFHAVW
+                     KLLLDPEFMEAYKKGILVHCADGILRRLFPRFFFYSADYPEKVLVATIQYLAHSGCPGC
+                     YTAKEFFDELGTQDDDIRRDEIREDNKEYRKRIRDAREQIFEKGAGVDWKAVKDILSDR
+                     SEVPVENAFSARLSPFGFNFFSMFVPDILHDFELGVWK"
+     exon            complement(7511..7757)
+                     /Parent="CopciAB_1001581.T0"
+                     /gene="CopciAB_1001581.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(7806..8032)
+                     /Parent="CopciAB_1001581.T0"
+                     /gene="CopciAB_1001581.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(8079..9017)
+                     /Parent="CopciAB_1001581.T0"
+                     /gene="CopciAB_1001581.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(9065..9199)
+                     /Parent="CopciAB_1001581.T0"
+                     /gene="CopciAB_1001581.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(9252..9432)
+                     /Parent="CopciAB_1001581.T0"
+                     /gene="CopciAB_1001581.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            9534..9638
+                     /Parent="CopciAB_1001582.T0"
+                     /gene="CopciAB_1001582.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     CDS             join(9580..9638,9691..9762,9814..10065,10122..10274,
+                     10325..10451,10497..10783,10842..10974,11027..11155,
+                     11213..11364,11413..11535,11590..11610,11673..11826)
+                     /gene="CopciAB_1001582.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+                     /transl_table=1
+                     /translation="MAPSKSQAGQKKGQTKASKLATKKRLAALKLKMTKKKAVNQTQST
+                     VGQVPAGPSQVQPQQSQAQQCPPPPPPAVTSSQNAGDSDESETDDDLELDDNPYDFPTP
+                     DTAGKLYFQLVKFHKSASKAFGDLTPLGRLYAYAGYLSRAVFHCVSWATIFEIQLLLLD
+                     KDFTPIGGRKAVSEDEFREKYAMEIELFDLACERVPHLKKEFPSLVEVPELLFQLAAFL
+                     DAKVTSTRSEDIYSLFSGIFECVRLYLRDLEIVSRKKKAKEGGYSYDPDDDDEDIALPN
+                     FSSWTEKENRGFQNENIAPLLVPALMVDDYLRDRKSFVEKMRDGKIPYNSKTWPIYIWL
+                     NQTVDKSFMDEGLLMGELIGYVWQHIFLGPRAVGRGVPKRLRGQAKKWRIRRVTFGSVC
+                     YAAMLAHWALYDSTDWKKGRNEEFNPEDYYQSLYELNAGDEASDRWVNELLDFWTECLL
+                     PTDPDLGCESDSDDDDEPAQPTYLHDVLAQRRARAAQPTTHQDDGCSRSSPSPTRLLSP
+                     LRVEAPGSNTEEEDDQETAALFSQGLPGASSRRYVR"
+     exon            9691..9762
+                     /Parent="CopciAB_1001582.T0"
+                     /gene="CopciAB_1001582.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            9814..10065
+                     /Parent="CopciAB_1001582.T0"
+                     /gene="CopciAB_1001582.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            10122..10274
+                     /Parent="CopciAB_1001582.T0"
+                     /gene="CopciAB_1001582.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            10325..10451
+                     /Parent="CopciAB_1001582.T0"
+                     /gene="CopciAB_1001582.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            10497..10783
+                     /Parent="CopciAB_1001582.T0"
+                     /gene="CopciAB_1001582.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            10842..10974
+                     /Parent="CopciAB_1001582.T0"
+                     /gene="CopciAB_1001582.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            11027..11155
+                     /Parent="CopciAB_1001582.T0"
+                     /gene="CopciAB_1001582.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            11213..11364
+                     /Parent="CopciAB_1001582.T0"
+                     /gene="CopciAB_1001582.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            11413..11535
+                     /Parent="CopciAB_1001582.T0"
+                     /gene="CopciAB_1001582.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            11590..11610
+                     /Parent="CopciAB_1001582.T0"
+                     /gene="CopciAB_1001582.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            11673..12053
+                     /Parent="CopciAB_1001582.T0"
+                     /gene="CopciAB_1001582.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(12126..12415)
+                     /Parent="CopciAB_1001583.T0"
+                     /gene="CopciAB_1001583.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     CDS             complement(12239..12400)
+                     /gene="CopciAB_1001583.T0"
+                     /phase="0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+                     /transl_table=1
+                     /translation="MGSRPMHWCSHPRVVICEQTSPCNAHAPRPMPMHPAQCPCTPPDA
+                     HAPRPMPM"
+     exon            12728..12991
+                     /Parent="CopciAB_443341.T0"
+                     /gene="CopciAB_443341.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     CDS             join(12826..12991,13056..13439,13500..13985,14049..14092)
+                     /gene="CopciAB_443341.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+                     /transl_table=1
+                     /translation="MPQDFTLLVDDQDPQINYICPSLKQQLLAGSYSNSTWTTIKESSC
+                     RKGWFEYSFFGTGIRIRVPTSGKAESAAVLLDNELFKPDENGVFEALDLKDGQHNFTYG
+                     IGEVSTTPVFDYLTVAAGPSTPLNGRTLIADDTDESINYIGSWTTESPRPLTFDYSTAL
+                     YRDTAHWSSTIGDTVEFQFTGSSVAVYGLAANITSGNITASYTLDGVTTTQGIPRGTFD
+                     SVPMTEFFRAELQPGAHTLIVNLTEIASSQAFGIDFIAYNSSVDSIRSLPGFDLAAGNA
+                     ATKSESDRAGSSNSQKYAILGGVLGAVGFLLLMGLAFFIFKRRQSKQALRLASSNSSYD
+                     DIAGVEKPPQTYNNTLPQA"
+     exon            13056..13439
+                     /Parent="CopciAB_443341.T0"
+                     /gene="CopciAB_443341.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            13500..13985
+                     /Parent="CopciAB_443341.T0"
+                     /gene="CopciAB_443341.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            14049..14445
+                     /Parent="CopciAB_443341.T0"
+                     /gene="CopciAB_443341.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            14617..14716
+                     /Parent="CopciAB_362075.T1"
+                     /gene="CopciAB_362075.T1"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            14625..14896
+                     /Parent="CopciAB_362075.T0"
+                     /gene="CopciAB_362075.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     CDS             join(14660..14896,14962..15057)
+                     /gene="CopciAB_362075.T0"
+                     /phase="0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+                     /transl_table=1
+                     /translation="MLRRILVASGQCATGSRALVTRFRPTSRRTYATDTDSGIANPAAY
+                     CKDLVRKHDYESFLTSPFYPKAKQDAYFAIKAFAVELATVQENVSNSMIGQMRMQFWKD
+                     AIKDIGT"
+     exon            14778..14896
+                     /Parent="CopciAB_362075.T1"
+                     /gene="CopciAB_362075.T1"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     PFAM_domain     join(14807..14896,14962..15051)
+                     /aSDomain="SQS_PSY"
+                     /aSTool="clusterhmmer"
+                     /database="34.0"
+                     /db_xref="PF00494.21"
+                     /description="Squalene/phytoene synthase"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CopciAB_362075.T0_0016"
+                     /evalue="4.10E-12"
+                     /label="CopciAB_362075.T0"
+                     /locus_tag="CopciAB_362075.T0"
+                     /protein_end="109"
+                     /protein_start="49"
+                     /score="46.3"
+                     /tool="antismash"
+                     /translation="VRKHDYESFLTSPFYPKAKQDAYFAIKAFAVELATVQENVSNSMI
+                     GQMRMQFWKDAIKDI"
+     exon            14962..15057
+                     /Parent="CopciAB_362075.T1"
+                     /gene="CopciAB_362075.T1"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     CDS             join(15001..15057,15112..15210,15276..15692,15773..15901)
+                     /gene="CopciAB_362075.T1"
+                     /gene_functions="biosynthetic (rule-based-clusters)
+                     terpene: phytoene_synt"
+                     /gene_kind="biosynthetic"
+                     /phase="0"
+                     /sec_met_domain="phytoene_synt (E-value: 5.6e-15, bitscore:
+                     51.3, seeds: 8, tool: rule-based-clusters)"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+                     /transl_table=1
+                     /translation="MIGQMRMQFWKDAIKDIGTGKSPKHPIALALLRASETANLPAYHF
+                     KRIIDARTAELETPSHLTIETLTSHAESTSSTVLYLLLSLLSLPSSALSHAASHLGVAQ
+                     SFTTLLRALPYHATKGRMVIPAEITAKHGVNQEEVFRRGPGAEGLEDAVFEFATIANDH
+                     LITAREMFNQEGMNGLIPDAALPIFLSGVPTASYLSRLEKANFNAFEPQLQVRDWKIPF
+                     KIWSGYYKKKF"
+     PFAM_domain     join(15007..15057,15112..15210,15276..15692,15773..15853)
+                     /aSDomain="SQS_PSY"
+                     /aSTool="clusterhmmer"
+                     /database="34.0"
+                     /db_xref="PF00494.21"
+                     /description="Squalene/phytoene synthase"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CopciAB_362075.T1_0017"
+                     /evalue="1.30E-43"
+                     /label="CopciAB_362075.T1"
+                     /locus_tag="CopciAB_362075.T1"
+                     /protein_end="218"
+                     /protein_start="2"
+                     /score="149.5"
+                     /tool="antismash"
+                     /translation="GQMRMQFWKDAIKDIGTGKSPKHPIALALLRASETANLPAYHFKR
+                     IIDARTAELETPSHLTIETLTSHAESTSSTVLYLLLSLLSLPSSALSHAASHLGVAQSF
+                     TTLLRALPYHATKGRMVIPAEITAKHGVNQEEVFRRGPGAEGLEDAVFEFATIANDHLI
+                     TAREMFNQEGMNGLIPDAALPIFLSGVPTASYLSRLEKANFNAFEPQLQVRDW"
+     exon            15112..15210
+                     /Parent="CopciAB_362075.T1"
+                     /gene="CopciAB_362075.T1"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            15276..15692
+                     /Parent="CopciAB_362075.T1"
+                     /gene="CopciAB_362075.T1"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            15773..16010
+                     /Parent="CopciAB_362075.T0"
+                     /gene="CopciAB_362075.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            15773..16029
+                     /Parent="CopciAB_362075.T1"
+                     /gene="CopciAB_362075.T1"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            16099..16264
+                     /Parent="CopciAB_495583.T0"
+                     /gene="CopciAB_495583.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     CDS             join(16249..16264,16321..16511,16594..16773,16835..16945,
+                     17010..17030,17087..17179,17232..17335,17384..17500,
+                     17552..17576,17627..18001,18054..18380,18458..18584,
+                     18636..18736,18785..18904,18963..19334,19391..19456,
+                     19516..19710)
+                     /gene="CopciAB_495583.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+                     /transl_table=1
+                     /translation="MERLCVEVLQLIFFELVDPSPLTLVSRRLYSFSQDPYVRARYFLA
+                     HYGPAEAMFQALGRGKLLTERVIDILLSSGAHLSRYLVQIAMHHYFHTQTHFIRTPWVR
+                     NVPFGVFVYFMQKAHAKYGDIPRGKGEDDGSLFMTFLKESRFPSHLKSVTWENILEILE
+                     QYKFMPFSNRDPIMAQFPLILAIEPRLLPAAVENGFRMDYKYRDFVFRKMFERHTGDTQ
+                     AEDVANNIRELCQLDPTMFVSRTVAAEVCMEAKYNDVGYGALKQLGKTGDLRFELRTLV
+                     EDLLKTFLTTRTIAHSGTGDILRQLYSDYPSTDPIVRLVVITAIFISAENSRLGVQQVH
+                     ANLEATGLTPLTRKDAYNVLINPFVEKYTTVLDYAREEIGTNGDGGKGLGEAEARGLVE
+                     DVARKCLQVGCKGKLLNRLIEGFPHLKDVLVNEVAERHQIRLEEVPSWVGQGSVAYTAK
+                     LSGDYARKRSGESPYWDDSEGNVLTRNVEMGSDQAGNDVDRAPREEPLMLSASEHEVLL
+                     SDLGDISQESLTNMIRQDELAPTRARRRWFYTFAYPDFGKANYPHDALPVAKCILNQYG
+                     TRSKIVAIFLTHAIINDNTQVLFSYLMRTQDSSFSSFKIDLQVPVTLKHFQILARLGRA
+                     PSYCIYHCIEAGAPFYLDEDDYISKSDPAKSLISALGVKHEPPNLTIPSSPSSSTRPPS
+                     LRGRERLRRLATTSVRSYAVPDSDDDIIMDSDDGLEPRRRKQAPKKSDLQLWIQHLAEL
+                     QKSENKKFKEQKKIYDAAGCEGTTARFRKNAFLKSLSTQLRSLRKLDIQTREKQGMLGE
+                     DLETLDDEDDDDEYTLRPSKRKKTCTHPPISLAL"
+     exon            16321..16511
+                     /Parent="CopciAB_495583.T0"
+                     /gene="CopciAB_495583.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            16594..16773
+                     /Parent="CopciAB_495583.T0"
+                     /gene="CopciAB_495583.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            16835..16945
+                     /Parent="CopciAB_495583.T0"
+                     /gene="CopciAB_495583.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            17010..17030
+                     /Parent="CopciAB_495583.T0"
+                     /gene="CopciAB_495583.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            17087..17179
+                     /Parent="CopciAB_495583.T0"
+                     /gene="CopciAB_495583.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            17232..17335
+                     /Parent="CopciAB_495583.T0"
+                     /gene="CopciAB_495583.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            17384..17500
+                     /Parent="CopciAB_495583.T0"
+                     /gene="CopciAB_495583.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            17552..17576
+                     /Parent="CopciAB_495583.T0"
+                     /gene="CopciAB_495583.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            17627..18001
+                     /Parent="CopciAB_495583.T0"
+                     /gene="CopciAB_495583.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            18054..18380
+                     /Parent="CopciAB_495583.T0"
+                     /gene="CopciAB_495583.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            18458..18584
+                     /Parent="CopciAB_495583.T0"
+                     /gene="CopciAB_495583.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            18636..18736
+                     /Parent="CopciAB_495583.T0"
+                     /gene="CopciAB_495583.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            18785..18904
+                     /Parent="CopciAB_495583.T0"
+                     /gene="CopciAB_495583.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            18963..19334
+                     /Parent="CopciAB_495583.T0"
+                     /gene="CopciAB_495583.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            19391..19456
+                     /Parent="CopciAB_495583.T0"
+                     /gene="CopciAB_495583.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            19516..19906
+                     /Parent="CopciAB_495583.T0"
+                     /gene="CopciAB_495583.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(19801..20168)
+                     /Parent="CopciAB_495582.T0"
+                     /gene="CopciAB_495582.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(19815..20168)
+                     /Parent="CopciAB_495582.T1"
+                     /gene="CopciAB_495582.T1"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     CDS             complement(join(19928..20168,20224..20313,20375..20444,
+                     20516..20545,20611..20729,20786..20832,20889..21068,
+                     21144..21231,21286..21346,21404..21535,21593..21708,
+                     21763..21767,21833..21916,21969..21987,22042..22062,
+                     22122..22169,22245..22447))
+                     /gene="CopciAB_495582.T0"
+                     /gene_functions="transport (smcogs) SMCOG1106:major
+                     facilitator transporter (Score: 299.3; E-value: 6e-91)"
+                     /gene_kind="transport"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+                     /transl_table=1
+                     /translation="MVRMEHSSPLRSYINSRTASLCLSAQRSKPPSMSREGSIEKGSLS
+                     TAAGKEDFDTPEDRKLLRKVDFRLLPILTFLYLLSFLDRSNIGNAKIIGLVEDLKISPP
+                     EYNTALALYFVAYVIFEVPANIVLKRFNPQVWLPTLTFAWGTVTVFQGFVTNKASLFAV
+                     RFLLGITEAGLFPGVIYVFSVYYRRHERSWRVAIFFGGAALAGAFGGILAYAIGKMEGI
+                     GGKRGWAWIFIIEGLLTVVSAVFAYFVVPTWSHNAKFLTTSEKERLLARLDADSDAALI
+                     EKFEWTYVKQAMKDHLVWGYALLFHGFAFVLYSLSLFMPTIIADLGFASWQAQLMTVPP
+                     NSLASISIWATVWVSARVNKRAPFIIGSAFVAILGYIILLTTKTAGAQYVGVHFAAAGV
+                     YTGNALLLSWPGENVSAQTKRAIAVAMQITIGDIGAIAGVLIYRPSLAGNNFRTPHIIS
+                     IGYLLFSILVTVYLAIWMSKENRRRDRLLKEMKDGDLRPSTPEERLRLGDRHITYRYVY
+                     "
+     PFAM_domain     complement(join(20168,20224..20313,20375..20444,
+                     20516..20545,20611..20729,20786..20832,20889..21068,
+                     21144..21231,21286..21346,21404..21535,21593..21708,
+                     21763..21767,21833..21916,21969..21987,22042..22062,
+                     22122..22153))
+                     /aSDomain="MFS_1"
+                     /aSTool="clusterhmmer"
+                     /database="34.0"
+                     /db_xref="PF07690.18"
+                     /db_xref="GO:0022857"
+                     /db_xref="GO:0055085"
+                     /description="Major Facilitator Superfamily"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CopciAB_495582.T0_0018"
+                     /evalue="3.90E-34"
+                     /gene_ontologies="GO:0022857: transmembrane transporter
+                     activity"
+                     /gene_ontologies="GO:0055085: transmembrane transport"
+                     /label="CopciAB_495582.T0"
+                     /locus_tag="CopciAB_495582.T0"
+                     /protein_end="438"
+                     /protein_start="73"
+                     /score="118.2"
+                     /tool="antismash"
+                     /translation="TFLYLLSFLDRSNIGNAKIIGLVEDLKISPPEYNTALALYFVAYV
+                     IFEVPANIVLKRFNPQVWLPTLTFAWGTVTVFQGFVTNKASLFAVRFLLGITEAGLFPG
+                     VIYVFSVYYRRHERSWRVAIFFGGAALAGAFGGILAYAIGKMEGIGGKRGWAWIFIIEG
+                     LLTVVSAVFAYFVVPTWSHNAKFLTTSEKERLLARLDADSDAALIEKFEWTYVKQAMKD
+                     HLVWGYALLFHGFAFVLYSLSLFMPTIIADLGFASWQAQLMTVPPNSLASISIWATVWV
+                     SARVNKRAPFIIGSAFVAILGYIILLTTKTAGAQYVGVHFAAAGVYTGNALLLSWPGEN
+                     VSAQTKRAIAVAMQITIGDIGAIAG"
+     exon            complement(20224..20313)
+                     /Parent="CopciAB_495582.T0"
+                     /gene="CopciAB_495582.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(20375..20444)
+                     /Parent="CopciAB_495582.T0"
+                     /gene="CopciAB_495582.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(20516..20545)
+                     /Parent="CopciAB_495582.T0"
+                     /gene="CopciAB_495582.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(20611..20729)
+                     /Parent="CopciAB_495582.T0"
+                     /gene="CopciAB_495582.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(20786..20832)
+                     /Parent="CopciAB_495582.T0"
+                     /gene="CopciAB_495582.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(20889..21068)
+                     /Parent="CopciAB_495582.T0"
+                     /gene="CopciAB_495582.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(21144..21231)
+                     /Parent="CopciAB_495582.T0"
+                     /gene="CopciAB_495582.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     CDS             complement(21286..21320)
+                     /gene="CopciAB_495582.T1"
+                     /phase="0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+                     /transl_table=1
+                     /translation="MEGIGGKRGWA"
+     exon            complement(21286..21346)
+                     /Parent="CopciAB_495582.T0"
+                     /gene="CopciAB_495582.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(21404..21535)
+                     /Parent="CopciAB_495582.T0"
+                     /gene="CopciAB_495582.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(21593..21708)
+                     /Parent="CopciAB_495582.T0"
+                     /gene="CopciAB_495582.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(21763..21767)
+                     /Parent="CopciAB_495582.T0"
+                     /gene="CopciAB_495582.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(21763..21916)
+                     /Parent="CopciAB_495582.T1"
+                     /gene="CopciAB_495582.T1"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(21833..21916)
+                     /Parent="CopciAB_495582.T0"
+                     /gene="CopciAB_495582.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(21969..21987)
+                     /Parent="CopciAB_495582.T0"
+                     /gene="CopciAB_495582.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(22042..22062)
+                     /Parent="CopciAB_495582.T0"
+                     /gene="CopciAB_495582.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(22122..22169)
+                     /Parent="CopciAB_495582.T0"
+                     /gene="CopciAB_495582.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(22245..22596)
+                     /Parent="CopciAB_495582.T0"
+                     /gene="CopciAB_495582.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(22661..22678)
+                     /Parent="CopciAB_495582.T0"
+                     /gene="CopciAB_495582.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(22746..23191)
+                     /Parent="CopciAB_495582.T1"
+                     /gene="CopciAB_495582.T1"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(22746..23201)
+                     /Parent="CopciAB_495582.T0"
+                     /gene="CopciAB_495582.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            23265..23461
+                     /Parent="CopciAB_1001584.T0"
+                     /gene="CopciAB_1001584.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            23527..23542
+                     /Parent="CopciAB_1001584.T0"
+                     /gene="CopciAB_1001584.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            23606..23880
+                     /Parent="CopciAB_1001584.T0"
+                     /gene="CopciAB_1001584.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            23929..23979
+                     /Parent="CopciAB_1001584.T0"
+                     /gene="CopciAB_1001584.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     CDS             join(23965..23979,24031..24150,24243..24331,24402..24476,
+                     24535..24790)
+                     /gene="CopciAB_1001584.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+                     /transl_table=1
+                     /translation="MWYHKTDKQGRPIHIQVVGEMGMRKLHKLCPPQKHWEAVLVICES
+                     LPRELLPAASRAAGKSIEKAFVIVDLKGFGFEQFWQMKSILRGALQISQNYYPDTMGKL
+                     VVINAPASFSKIWPVLRRWLSDDTAEKVEILGDNFAEILLEYVDAENLPSTLGGKCTCE
+                     EMGGCQYSNAGPWIDGRIIKP"
+     PFAM_domain     join(23968..23979,24031..24150,24243..24331,24402..24476,
+                     24535..24709)
+                     /aSDomain="CRAL_TRIO"
+                     /aSTool="clusterhmmer"
+                     /database="34.0"
+                     /db_xref="PF00650.22"
+                     /description="CRAL/TRIO domain"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CopciAB_1001584.T0_0019"
+                     /evalue="5.90E-29"
+                     /label="CopciAB_1001584.T0"
+                     /locus_tag="CopciAB_1001584.T0"
+                     /protein_end="158"
+                     /protein_start="1"
+                     /score="101.0"
+                     /tool="antismash"
+                     /translation="WYHKTDKQGRPIHIQVVGEMGMRKLHKLCPPQKHWEAVLVICESL
+                     PRELLPAASRAAGKSIEKAFVIVDLKGFGFEQFWQMKSILRGALQISQNYYPDTMGKLV
+                     VINAPASFSKIWPVLRRWLSDDTAEKVEILGDNFAEILLEYVDAENLPSTLGG"
+     exon            24031..24150
+                     /Parent="CopciAB_1001584.T0"
+                     /gene="CopciAB_1001584.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            24243..24331
+                     /Parent="CopciAB_1001584.T0"
+                     /gene="CopciAB_1001584.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            24402..24476
+                     /Parent="CopciAB_1001584.T0"
+                     /gene="CopciAB_1001584.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            24535..24843
+                     /Parent="CopciAB_1001584.T0"
+                     /gene="CopciAB_1001584.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            25138..25701
+                     /Parent="CopciAB_466786.T0"
+                     /gene="CopciAB_466786.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     CDS             join(25199..25701,25755..25814,25877..26156,26212..26523,
+                     26584..26767,26825..26976,27046..27318)
+                     /gene="CopciAB_466786.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+                     /transl_table=1
+                     /translation="MNHFLIYSLFVLSFFQAFSAGSVIPFRRIRIPDSELNRRKLDILD
+                     LPERISIPFEPTGFVITLRPRPTSTPSQIPPTAETFSPVTRSASTSPSSADSTVEPSQT
+                     SPASPTPTNASGKFVVAHHMVGNTFPYTKDDWLEDIQLAHASGIDGFALNTGREVWEPE
+                     RIADAYQAALELGHNFKLFLSLDMASLPCNSHEDAAYLRRLVSQHASHPNQLMYNDKAF
+                     VSTFAGESCQFGHDNVVEGWKHQFTLHPELKERIYFVPSFFMDPARFGEFKDVMDGTFN
+                     WNSGWPIQVTTSFAREQLDKLAEAAPSESSRVGRLPLLANPLQRAVSDLIGTVDSDNEH
+                     LEALNALTPDLNRRDDGGNLDRPAYMAAVSPWFFTHYGQDSFNKNFVFLADQHLYAKRW
+                     ESLVESRDKFDIVQILTWNDFGESHYIGPIKGAQPNSEAWTDGMPHTAWLDLTSYYARA
+                     FKTGEYPKIEKDKIFMWSRPHSTEAESPDPVPKPDNFELMEDAIWAVVMTTKPSTVVLS
+                     TSPTSRTFFQVPAGVSKLSVPITPGGTMRGTIERDGAVIVDLHPSSEEFTFQGSPQSYN
+                     FNVFVASATAS"
+     PFAM_domain     join(25553..25701,25755..25814,25877..26156,26212..26523,
+                     26584..26767,26825..26976,27046..27225)
+                     /aSDomain="Glyco_hydro_71"
+                     /aSTool="clusterhmmer"
+                     /database="34.0"
+                     /db_xref="PF03659.16"
+                     /db_xref="GO:0016787"
+                     /description="Glycosyl hydrolase family 71"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CopciAB_466786.T0_0020"
+                     /evalue="4.10E-127"
+                     /gene_ontologies="GO:0016787: hydrolase activity"
+                     /label="CopciAB_466786.T0"
+                     /locus_tag="CopciAB_466786.T0"
+                     /protein_end="557"
+                     /protein_start="118"
+                     /score="424.1"
+                     /tool="antismash"
+                     /translation="VVAHHMVGNTFPYTKDDWLEDIQLAHASGIDGFALNTGREVWEPE
+                     RIADAYQAALELGHNFKLFLSLDMASLPCNSHEDAAYLRRLVSQHASHPNQLMYNDKAF
+                     VSTFAGESCQFGHDNVVEGWKHQFTLHPELKERIYFVPSFFMDPARFGEFKDVMDGTFN
+                     WNSGWPIQVTTSFAREQLDKLAEAAPSESSRVGRLPLLANPLQRAVSDLIGTVDSDNEH
+                     LEALNALTPDLNRRDDGGNLDRPAYMAAVSPWFFTHYGQDSFNKNFVFLADQHLYAKRW
+                     ESLVESRDKFDIVQILTWNDFGESHYIGPIKGAQPNSEAWTDGMPHTAWLDLTSYYARA
+                     FKTGEYPKIEKDKIFMWSRPHSTEAESPDPVPKPDNFELMEDAIWAVVMTTKPSTVVLS
+                     TSPTSRTFFQVPAGVSKLSVPITPGGTMRGTIERDGAVIV"
+     exon            25755..25814
+                     /Parent="CopciAB_466786.T0"
+                     /gene="CopciAB_466786.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            25877..26156
+                     /Parent="CopciAB_466786.T0"
+                     /gene="CopciAB_466786.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            26212..26523
+                     /Parent="CopciAB_466786.T0"
+                     /gene="CopciAB_466786.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            26584..26767
+                     /Parent="CopciAB_466786.T0"
+                     /gene="CopciAB_466786.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            26825..26976
+                     /Parent="CopciAB_466786.T0"
+                     /gene="CopciAB_466786.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            27046..27500
+                     /Parent="CopciAB_466786.T0"
+                     /gene="CopciAB_466786.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(27419..28137)
+                     /Parent="CopciAB_540189.T0"
+                     /gene="CopciAB_540189.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     CDS             complement(join(27536..28137,28194..28372,28432..28603,
+                     28672..28771,28835..28855))
+                     /gene="CopciAB_540189.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+                     /transl_table=1
+                     /translation="MNALSFNINHGFLEGVVRGYKAGILTQNQYANLTQCETLEDFRTQ
+                     LSATDYGNFLANEPLPLSTSTIADKATQVLVDQFNYLRANAVEPLSKFLEYVTYSYMID
+                     NIILLITGTLHERDTHELLERCHPLGIFESMPALCVATTVEELYQSVLVETPLAPYFRE
+                     CLSANDLDDLNIEIIRNTVYKAYLEDFDRFCSTLGDPTAEVMHTILAFEADRRTVNITI
+                     NSFNTELSKEQRAKLFPSIGRLWPEGNNQLARADDMEQVRQACENVIEYRTFFNDIAAS
+                     SAGNGIDELAAATQLEDRFFRMEVFLNKQAFLQQFQYGVFFSYIKLKEQEIRNLTWIAE
+                     CIAQDARDRIQDFIPIF"
+     PFAM_domain     complement(join(27554..28137,28194..28372,28432..28603,
+                     28672..28756))
+                     /aSDomain="vATP-synt_AC39"
+                     /aSTool="clusterhmmer"
+                     /database="34.0"
+                     /db_xref="PF01992.18"
+                     /description="ATP synthase (C/AC39) subunit"
+                     /detection="hmmscan"
+                     /domain_id="clusterhmmer_CopciAB_540189.T0_0021"
+                     /evalue="1.70E-117"
+                     /label="CopciAB_540189.T0"
+                     /locus_tag="CopciAB_540189.T0"
+                     /protein_end="352"
+                     /protein_start="12"
+                     /score="392.8"
+                     /tool="antismash"
+                     /translation="LEGVVRGYKAGILTQNQYANLTQCETLEDFRTQLSATDYGNFLAN
+                     EPLPLSTSTIADKATQVLVDQFNYLRANAVEPLSKFLEYVTYSYMIDNIILLITGTLHE
+                     RDTHELLERCHPLGIFESMPALCVATTVEELYQSVLVETPLAPYFRECLSANDLDDLNI
+                     EIIRNTVYKAYLEDFDRFCSTLGDPTAEVMHTILAFEADRRTVNITINSFNTELSKEQR
+                     AKLFPSIGRLWPEGNNQLARADDMEQVRQACENVIEYRTFFNDIAASSAGNGIDELAAA
+                     TQLEDRFFRMEVFLNKQAFLQQFQYGVFFSYIKLKEQEIRNLTWIAECIAQDARDRIQD
+                     "
+     exon            complement(28194..28372)
+                     /Parent="CopciAB_540189.T0"
+                     /gene="CopciAB_540189.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(28432..28603)
+                     /Parent="CopciAB_540189.T0"
+                     /gene="CopciAB_540189.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(28672..28771)
+                     /Parent="CopciAB_540189.T0"
+                     /gene="CopciAB_540189.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(28835..28868)
+                     /Parent="CopciAB_540189.T0"
+                     /gene="CopciAB_540189.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            28996..29689
+                     /Parent="CopciAB_1001585.T0"
+                     /gene="CopciAB_1001585.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     CDS             29005..29145
+                     /gene="CopciAB_1001585.T0"
+                     /phase="0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+                     /transl_table=1
+                     /translation="MTLNIPGSRDIQSFVMSNPKATSKLDVALEHIQTQTGLVSSKADS
+                     I"
+     exon            29740..29822
+                     /Parent="CopciAB_1001585.T0"
+                     /gene="CopciAB_1001585.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            29875..29941
+                     /Parent="CopciAB_1001585.T0"
+                     /gene="CopciAB_1001585.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            29991..30154
+                     /Parent="CopciAB_1001585.T0"
+                     /gene="CopciAB_1001585.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(30248..30350)
+                     /Parent="CopciAB_418549.T0"
+                     /gene="CopciAB_418549.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(30407..30708)
+                     /Parent="CopciAB_418549.T0"
+                     /gene="CopciAB_418549.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+     exon            complement(30768..30861)
+                     /Parent="CopciAB_418549.T0"
+                     /gene="CopciAB_418549.T0"
+                     /source="CopciAB_new_annot_CDS_20220425m_newIds_isoforms_ma
+                     ncur.genePred"
+ORIGIN
+        1 ccaagacaga gtccaaggct gcgaacgcag ccgccgacac caaggccgac ggtgccaatg
+       61 tgtagcgtca cggactcttt tcttcccgtt tgattctttc gttatcttat caaaatggta
+      121 gaccaagttg taaagataca agcctcattt aagtacatca tcggcggggc ttatgcgtca
+      181 ggtattccca gccgttatgg caactggaac ggcgggtccg atctgttgag tttcacgcac
+      241 tccaaattgg tcctttggcg gagaaaaatc tccctcctgc cccttgtgtg gggtacctcc
+      301 taccctccgg tacgggattc ccggcccggg acccccttgg tgttttgtcc aatgtctctg
+      361 ttcacttgga acatttctca tccaagtgga tgtatccaat taccgagcaa atacccaccg
+      421 tctacatcaa gttgtgttgg tgacatgtat acctcgaaga ttgagaagac gccactggag
+      481 gtctcttggg taacgctttc tatcggatac gaactgcggg gcttccgcct aagccttatt
+      541 caaccttgac tagctcctgg cagtattcga ccgtactgcc cgaagacata acgtttattc
+      601 ctcatatcag ggaatattcc aataacgact agtcgctctc aaaactcgga aaatgatgag
+      661 atctccattt cattctaaac ctttttgaga gccgctatct tgaattctcc gcgttcgaat
+      721 ggtcgagcac tgcacatatg actaggagat tgccattgcg ccactctctg tcgcacacag
+      781 caacacgact gcgttctgtg gccctcagag tgtaccgcac tacacttccc gtgtcagcgg
+      841 cctcgagtat ttcgttttag taagaagaat aactcgccga cctcttggcc gatgttgctt
+      901 gatggctctg gacatcccgc cacctgcgct cgacggtctc ccagacttcg agatcaaggg
+      961 cacagatact ctgcgtagcc tcgagagagt cccaccatta ctcatctcct ccgtaccccg
+     1021 atagtcaaaa atactggccc tcctagagtt cctccctcgt ttccgtcctg atgggtcgcg
+     1081 tggtgatcag cttcttgcct tgatttggta ccgggcccgc tgccagaagc ccctttctgg
+     1141 cctcgcaacg accgctgtct tgaacttcca ccgtcctatc ttcaagtctc aagtcaacat
+     1201 ctagtctgtg ccttctccag gacttccggt gccctttagg aggtatcaca ctcaatctga
+     1261 cttggacacg accaacttga aacaccttct gactgtcaac cgccgcagag gcagtcaatt
+     1321 ggtccacgcg atatcagagc tactctggct agcgaaggat atgtgtgcac ctgtatctaa
+     1381 taccacccgg agcgatctca ccggtctttc cagggaaatc gcgacatagt caactcgcca
+     1441 tttggctctg gtctgttttc acagcctttt caaacgctgc cacacccacc ccacctgtac
+     1501 atgcccgtgt actgtgtgag atatacgcta ctagacttct ttgttgtcgg aagcgaattt
+     1561 ctgcattttg tgataagact gaagggtgtc ctgtatcacc gtgataagtg ctgctcgcct
+     1621 tctaccctat aggcttggtt agccccaaca tctatcacag acgtctcagg accccggaaa
+     1681 acctggggcg agcctagtga cgacattctg tcgaaaaatc cggtttcttt tctgccaaaa
+     1741 ttgtccggtt tgtcgccagg ttcgtgtctg gacgctcaaa aattccggtt ttggaacctt
+     1801 ggtctgactt tttctttcgc gtaagcgccc agaaacgcga ttttcccctt cagccacctt
+     1861 aacagaagca gataatggcg tgaaccgcaa cgtgaatatt ccacatgctg catgtcttct
+     1921 gcagctgtct tctgtcggaa gttgccttga aacatctttg atatagctgg gctcgtacgt
+     1981 gtcactgcta ctcggtgtgg tatcttttcg actagttatc gagcggaatc tctaacattt
+     2041 caatcggagg gcctccccca ggctttctct ttgaaactct cacctcgatt ggcgacttgc
+     2101 ggtctgtcct ataacatcaa gtgctataat gaatgttttt tcggttcttt gaggagaaaa
+     2161 gcaaagttcc gctttgtgtg agctgatgga cgtcgggctg aggtcatagt tcggaagcag
+     2221 tttcgcatca gaggctgatt caagcattgg caagcaacca aaaatcaccg gaggtttcct
+     2281 tccaatccta acgtcgtcaa cgctgtcacc aatgaggtca ggtcttcaaa aggaagtgct
+     2341 caacctctat cgcaggtgag gggaacttca gcattcttct gatctcgtgt tggctgagtt
+     2401 gagtacccaa cccccagagc ccttcgcatg gcaagatcga aaccaccatc atcccggccc
+     2461 aagttcctcc tctatgtcca atacaacttc cacataaacg cgacttccat ttctcctcgc
+     2521 aatgtcagcg cagtagaaca cctcatccgc aaaggcacaa ggcaaatcga aatgtacgag
+     2581 gacccctctg tcaaggactg ttgggtgtcg aaagaaatgc tcgaatggaa ggagtcccgt
+     2641 cggatgcctc caagttcaag ttaggcacca caaaaacgaa tccgggaatg tgcaggacat
+     2701 attatagcga aattaataac agtgtagtaa tgggcgggtt ctatggtcta ctttcggttg
+     2761 ggaacgtctc caaagagtcc agcagtcgcg gtctctgctg cagtctgggg tctagaggat
+     2821 gcctcgggcg cagcaggggc ggattcgctc tccttggccg gttctggtac agcttgggta
+     2881 gcttcagctg caggtgtcga agaggcttca gcattggtag aagattcggc ggcttcggtc
+     2941 gtctcgctgg cggccttcaa caagccctcc tcctccagcg cctttcgggc ttgagcttct
+     3001 tgcctcaacc tctgtcggcg gagtatcctt ccttgcttgg tgaacgcggt aagctcttgc
+     3061 tgagcttcaa tcaaggcgtc atgtcgaagt tggagaagct tcttgtcctc gatttgttcc
+     3121 tggtgctcct tgatgagttt gactgctcct tggtaggcca accgtcgctc gttcataaca
+     3181 gccttgatac gggccatagt ttttcggcac ttgaggggga aatagcgtca atatttgacg
+     3241 aatcgagagg gcgagaatgc acataccgcg ccagccatca ccgtttgcgc ttgcaagttg
+     3301 attttgatac ccatgcgtcg tgcctcttcg cgttgggtag cgaggaggtt tcgttcacga
+     3361 agggtgacat accagagagt gtggaggtcc tggaaactct tcagtcgtag ttcagaggcc
+     3421 ctccaggcgc gtccttgaga ataatgtcgg tcactgggtt acggtgacga cgtgttatag
+     3481 tactcaccac tagctggttt cctagcggac tcgaccgtct catatgcgtc ctccccactc
+     3541 agactaggat ccgccttccg tctgaagaac ccatacagcc catggtcatc cctcaccggc
+     3601 actttgccag tcctccagtc ggcgctggtc gaagctggcg tcgtcgacac atcgttagaa
+     3661 ggcgtgttcg gcgcgacctg cgccagacaa cgcgccaaag gcttgcagac gcggttgtga
+     3721 ggtcttctgg ctagcgagaa cattgcgaac agctagtttc ccgtcccatc gacttcgtgg
+     3781 ctcgctggac ctattttcac cggtgcgggc cgggagtacc ccgggaaacg gaacggcttg
+     3841 atcggccagt ccgaccgatt ccgggcttca ttcctctctg gacgaccacc accatcgtga
+     3901 ttcgtttgcg gttttcttgc tgaaactcaa cctctgctct gctgattacc gaaggtacac
+     3961 tgaaatgcac gatactatgc cggagaataa cccatgtacc aggtttacga tcgtcctacc
+     4021 cagccgtcct aggttttgag caactgtcga ccgctcggtc tcaactagga tttgactctg
+     4081 ttgcatttga tatcgaaggt ccaggtaggg tcgaccgtca gtatcactgt accgactgtt
+     4141 gttggaagat tcttgtccgg aacgcacaac ctttggcacg aggtctggct tgaagcacgc
+     4201 tgtataatcg ttggtcgact ccttgagctc tatttatgaa tcgccgtctc cacagagagc
+     4261 ctttcgatga aagccatcac agatatggtt tagactcatg ctaacaccgc ctgacattgg
+     4321 tcgcgtatct ggctagctcc ttagctgttc aacgttcaat cctcactatt gagtagatag
+     4381 tcctcgatcc ccgtggacgt tctcattaac cttcacctag acagctccta cctttgcacc
+     4441 tgccccgaac aaggttagct gtccgtggaa gcctatcgtc aacgttcatc cacaggagcc
+     4501 ctactcgaag tcattggctg tttttagttg tttgcatgga accagctgga gccagacagt
+     4561 ctcgttcagg gcctggttcg acgcgactta cttttctatc ccgggagccc gaggcgtacg
+     4621 ctctccttac acttgtcaat ccagcccttt ggctgttttg aaatcatgct gaatgaagat
+     4681 gcctgtcact tgcgtcacac tagccaattg gaagtttctc gaccacttcc atccaattcc
+     4741 ttcagcatca gcgaaaccca cttaccgttg ccactcatgg gagtgggcgg ggagcacgcc
+     4801 caggtgaacg cgctatcacc atgacattcc aatgacgtca ctcccttaca atcctgtgtg
+     4861 tcacgtccca tccggccccc atcctgctca aacctgccca tataactccc aaaacgccca
+     4921 tgcagctcgc cagatgccca tgtagagtaa gattgcccat gaggctccca ggctcctcac
+     4981 ctatgaccat tcctgccaag gcgagtgagc tcgacgttgg tacttggggc ctgccatgtt
+     5041 tgaccaggac tgctttgtag gttggtgtcg ctatggcatt cgactttttt ccacgtagat
+     5101 acagtaaccc tcataccaaa ccttgctgta tattataagg ttcctaaaac gtgacaaact
+     5161 tcgtatagaa atcggaaaaa tgtgggatag agagtgatgg gactatcata atacatggaa
+     5221 tatctggata tcaagaacac ggcccccccg atataacgtc aaggaagcaa tcaaggctca
+     5281 ccgaaaccga gagcagtgaa ctcatcttct tcctcgtctt cgggaggcgg tcctccctcg
+     5341 ggagggagat ctccgtcatc ctggtctgtt tgatagccaa agtccacctc ttcatcgtcc
+     5401 tgatcatact cttctcgctg ttcttcctca gtggtgctag aaccgtcatc gccaaaggca
+     5461 cggtctgggt aaagcaactc cagcttgagt ggataataag gtagtggctg tccatgacca
+     5521 gggccaccac ctgtaaagcg cataaacata tccctatcgg caaccctgtt tggatgtgag
+     5581 tatgggatac ttgtagaagg tttgggatac tcacggattc acataataga atcggtagtc
+     5641 ctcctcatct tcacctgcac gacgtgatac tgacttgcct aggagatcac tggtctttcc
+     5701 aaatcggaag cctgggataa cgtggcaagc acgaataacc tgggcaggat ctatgaagcc
+     5761 gaatgcgtgg ttctcctcgt tgtgggcgtc aagaaagcct acacgctggt actgaccacc
+     5821 ttcaagacca ggtgagtctt cctccagatc tcgtccgtaa aagcgaaccc aaaggaatgg
+     5881 catagcgtat ttctggaagg gcgcgcgagc gttgggacgg tagaggacag tggcgtgata
+     5941 gattccacag acccgagcat accagtaggg atgagggcga tcttctggac ggtcatatgc
+     6001 caacgtcatt acgttgcacg tgttgctgcg tgggctaaca tagtcccact cttcctgcat
+     6061 atcgtatgtt gtgtattgga aacggatagt gcgatggcga tagatggtgc ggtctagaat
+     6121 actaatgcat gccatatcgt ccgccgtgaa ggtgtcgagt gcgtcttctt gttcacgggg
+     6181 ggagtcggga aagcgtattc gagctaacag gtgtttggta aggtcggaat agaaggtcta
+     6241 agcaagggcg tcaggtttat gcaaatccat aaacagagtg gtcgacatta ccttgagagc
+     6301 agggtcttca gaatggcgtg caacccaact gaagacattg ataggttcag aggtatctgc
+     6361 taagaacttg aagtttttct cgctccctct aattgtggga ccagggccca agatcttgcg
+     6421 ctcttcaagc tcccggaaga cttcgagttc cagcatcttt gcctcctgct ctcgtgcttt
+     6481 gatgacagct aaaagatgct ggcgtcggta atgacaggca atctgcgcct catagccttc
+     6541 tctcttgtta gtgatgacgt agaactgctt gacacgccga tgctcttgtt ctccctactg
+     6601 ggtattgaga ttatgagcca gacagaattg gggagtcgtc tcaccacttg tgttgtgtag
+     6661 ttatcacttg ttccaaacgt cgcgatagca cgaacaagat gtccgagaaa atggaatttt
+     6721 ggtgtctgga aattaagtct tttcttgcgt ggcgtcgtat tttgggtagt gtccgatgtt
+     6781 gacgcacccg aagcagctgc ccgtgctcgt cgtcgattcc gtgcagcata ttcacctggg
+     6841 agctccttgg tcttgacccg tgagctcaag cgtctgaagc gccgtgccga gaaacccagg
+     6901 gctcgggtga cccgtttcac attcttcatg gtactagtcg tatggagtcg aagcttggac
+     6961 agggcatgcc agcaacagag aacaaagatg aggtggttga tggatcgttg aagcggtgcc
+     7021 cattgttgat ccccgcttgc agaagagatc aacaggtcct cgaagacggg aaaagcacac
+     7081 tgggtactca ggtgagtgtt atccaatact aaaaattgaa cctacgaacc tgaagaagat
+     7141 cttcgtaatc gcgcccagct agcttcttca ttgcggacgc attctgggcg aaacgacgaa
+     7201 tggtgttcct gccaaaaggc ggaatagcac ggtatctgaa tattgtgagc tgttgagccg
+     7261 aggcccgaaa ctgggaggaa ttggcatacc tttcattcag ctcttgaaca aaatcgccgg
+     7321 atattgcgtg tagaatccgc atgagatggg cgaatacagc cttccagaca ccaagctcaa
+     7381 aatcatgaag aatgtcggga acaaacatag aaaagaagtt gaagccaaag ggcgataacc
+     7441 gcgcggagaa tgcgttctac gctaatgtgt cagtcgctga gcgggccacc gtccagatac
+     7501 acactctcac ctcgacggga acctcagagc gatcactcag aatgtctttg accgccttcc
+     7561 aatcgacacc cgctcccttc tcgaaaattt gttcccttgc atctcggatt cgtttgcgat
+     7621 actccttgtt atcttcgcgg atttcgtcac gtctgatgtc gtcgtcctgg gttcccagct
+     7681 catcaaagaa ttccttcgct gtatagcatc cagggcatcc agaatgggca aggtactgaa
+     7741 ttgtcgcaac gagaaccctg caagaaagta tgagaatcct ttcagtaaaa ttgagggaaa
+     7801 catacttttc gggataatca gctgagtaga agaagaaccg agggaaaaga cgtcgtaaaa
+     7861 ttccatcggc acagtgaacg agaatcccct tcttgtacgc ttccataaac tcgggatcga
+     7921 gcaacagctt ccacactgca tggaaaagct gtcgtcgaag aagtgtaaca gtttgcgtgg
+     7981 ctgcagctac accatactgc tctcgatact catcttgaaa gtctttgggg atctggagaa
+     8041 tggttgagta agatatcttg tagaactgac ctacgtactg ttgggatata agccaagtgg
+     8101 tgggccgcaa atttagaggg tttgcagcgt tcgtacttgc tttggtttcc gaagtaagcg
+     8161 tagataggcc aaagcgaggc gtctccaaag cttgttaaat gtgttgagtc ggaccagagg
+     8221 aggatggagg caatggcgta tggaatatcg tccgagtctc cttcaattcg aggggcttga
+     8281 agaatggctt ggtgttcttc aagaaacgcg gacgacgtgt agacttctcc gattagctgt
+     8341 tcagggggag cactaggatc tgctttccag aattctttgt atggcgtgaa ctgaaagcct
+     8401 gctgatcgag gattgctgaa cgcgtcaacg ataagctgtg tgaggctcct gtgttggacg
+     8461 ccatcgatct tcagctgagg cgcatctgcc tctgagggcc atctacaccg ttcgcatggc
+     8521 attggaattt cgacactcga cgtcttccac gatgacagac ttgcaaaagg agaggcttca
+     8581 tggtcgtctg aatctaggcg ctcgagttct tcctttgggt tcatattagc aacatcgttg
+     8641 agatcgaact cctgtccctt catgatattg accagatcgg cgaacttgag gcttgagagt
+     8701 gttctcccag tggagtagaa ccaatcaacc aggtggaagc tagtcgcgtt ggggaaaggt
+     8761 gcgtagatgt tgtctttgaa gcgctcaaag aggctccgtg tggactttgg ttccttggga
+     8821 ggagggtcag gcgagcctcc catgtagact cggaaaaccc caaacttgtt gggcgctgtc
+     8881 ctttccagtt taggcagtgc ctgagctggg gtgggaggag gcgaaggcga ctgtacaggt
+     8941 gattctggag gaggaacagc ggtctggaga ggagctgggc gtcgaacacg ggcgcttcgt
+     9001 ctcagaccag tgggattcta gtaaagctgt cagctaccat catattccac gggtttgaac
+     9061 gtacttcgtc cacagccggc tcggaagctg gtacaggaga ttcgccaact tgacggtctg
+     9121 tattttggcc catttctgga tctggcatcc actgtggcaa gtcctgatca tcctggtcat
+     9181 caatcacatc tgccatctcc tgtaaaacag gaagtctgct atatcgttgg gacgaaagac
+     9241 aatataccca cagtatcggg ctcggtttgt tcagttggac ccactaactc agtaacaatt
+     9301 cttttagctc ggaccctgag attggcgcga tagaatttgc attgtgtacg atggctacag
+     9361 agaccttgtc gagttctgaa cgatttttta cacggagggg agcatttgtg ttgaccagcc
+     9421 atggcaaaag gtaaggacgc acatccatac ttggaaggaa agccgagcca ttggaacatt
+     9481 gaagcggagt ttggaaacat ccaaactgga gatcgcgtcg cgtttgtgct cctatccttc
+     9541 ttgaccttgt tccactacca tccctttctc gttgtctgca tggcgccgtc caagtctcaa
+     9601 gcgggtcaaa agaaaggtca gacgaaggcc agcaagctgt gagtctcacg agggttgagt
+     9661 gcgatggcaa tgactgacta ctcccccaag cgctaccaaa aagcgactcg ccgccttgaa
+     9721 gctgaaaatg accaagaaga aggcagtcaa ccagacgcag aggtatttga acaccatctg
+     9781 ttttctttat ccatatctta cttttttttc tagtaccgtt ggacaagttc cagcaggccc
+     9841 gtctcaagtc cagcctcagc agtcgcaggc tcagcaatgt cctccccctc cacctccggc
+     9901 ggtcaccagt tctcaaaatg ctggagatag cgacgaatcg gaaacagatg acgacctcga
+     9961 acttgacgat aacccatacg actttccaac gccagacacc gccggaaagc tgtactttca
+    10021 gctcgtgaaa ttccacaagt cggcttccaa ggcatttggt gacctgtgcg tccaccgggc
+    10081 tgggtatatg cgccctaaat actgacaatt atcatcttca gcacgcccct tggaaggtta
+    10141 tacgcgtatg caggatatct ttcacgtgcg gtgttccatt gtgtttcatg ggcaaccatc
+    10201 ttcgagatcc agctactgct gctggataag gatttcacgc ctattggtgg gaggaaagcg
+    10261 gtatcagagg acgagtgagt ttgattctca atgtcgttag ctgtttctct gacgatttgg
+    10321 ccagattccg cgagaagtat gccatggaga ttgagctttt cgatctcgcc tgcgaacgcg
+    10381 tgccccatct caagaaagag ttccctagtc tggtcgaggt ccccgagcta ttatttcagc
+    10441 tggctgcatt tgtgagttac gtcgaatatt tctaagcatt ggctgactct cagtagctgg
+    10501 atgcaaaggt cacgagtacg cgtagcgaag acatctacag cttgttctca ggcatctttg
+    10561 aatgtgttcg cctctaccta cgagacctcg aaatcgtttc acggaagaag aaagcgaagg
+    10621 aaggcggcta tagctacgac cccgatgatg acgatgaaga tatcgctctt ccaaatttta
+    10681 gttcttggac tgagaaggaa aaccgtggtt ttcaaaatga aaacatcgca cctctactcg
+    10741 ttccggcact gatggttgac gactatctca gagatcgtaa aaggtaggtt caatttgggt
+    10801 attcgcgtga ttatacttgt ttactttggt tctttatgca gctttgttga gaaaatgcga
+    10861 gacggaaaga ttccgtacaa ctccaagacg tggcccattt acatctggct caaccaaacg
+    10921 gtcgacaagt ccttcatgga tgaagggctg ctgatggggg aactcattgg ttatgtgagt
+    10981 tcatctttct tgctttctaa attctgtctg tgctaaacca cagtaggtgt ggcagcatat
+    11041 ctttctcgga ccccgcgccg tcggtcgagg tgttccaaaa agattacgtg gccaggcgaa
+    11101 gaaatggagg atacgaaggg tgacatttgg gtccgtttgt tatgcagcaa tgttggtaag
+    11161 tgcttcgccc ccttttgctt tgctgtaggc gcttctctga cttcgccact aggctcactg
+    11221 ggctctctac gactcgaccg actggaagaa aggccggaat gaagagttta accccgaaga
+    11281 ctactaccaa tcactttatg agctcaatgc gggcgacgaa gcaagcgatc gctgggtcaa
+    11341 cgagttgctg gacttctgga cggagtaagt acgtcaattc tccctcccat gcccgtttct
+    11401 aatttacttt agatgcctct tacccacgga ccctgatcta ggatgtgaaa gcgactcgga
+    11461 cgacgacgat gagccagccc aacccacata tctccacgat gttcttgctc agcgccgggc
+    11521 gcgtgctgct caaccgtacg ttgtgattag ttgtggtggc tcaaggagct gatcagcctc
+    11581 cccctacagt actactcatc aggacgatgg gtataacacc tctacctgtc tgttgtggac
+    11641 cactaacgat gtattctcat ttctatctat agctgttctc gttcttcacc ttcgccaact
+    11701 cgattgctgt ctcctctccg tgttgaagcc cctggatcga ataccgagga agaggacgat
+    11761 caagagactg ctgccctgtt tagtcagggg cttccaggtg catcttcccg acgctacgtt
+    11821 cgctaaacga aaaaagaaag gttttcttac tcagttctcg ggtcttgttt tgctatcgtc
+    11881 gttttcggac gtcttcttgc tgtcgtattc tctctgctat gggtctactt gctttgggtc
+    11941 tgttcgctct gtctttctct gtcgagtctg gtctcaaatt ttactgcaca ctgttacata
+    12001 gtcacacctg tacaataagc aaatggccgt aatttgactg tgattatcat ttcttaccga
+    12061 gcagtgtcat atcgtctcat gagtctgcgt attttgaccg acttcatttt ggctccatgc
+    12121 ttggtctcgt gagatcttcg aatgtttgct agcgcctaaa aacatcctcg acaccctata
+    12181 tcacagtaca agctgggcta catgggcaga gtatggaata tcaatggaaa tttcggcgtt
+    12241 acatgggcat cgggcggggt gcatgggcat cgggcggggt gcatgggcat tgggcggggt
+    12301 gcatgggcat tgggcggggt gcatgggcat tacatgggga ggtttgctcg cagatgacca
+    12361 cgcgtgggtg cgagcaccaa tgcatgggcc tacttcccat gcatcggtcc gatgcccatc
+    12421 tgacctccag gcctggcaac ggtaagtcgg tttcgctgat gagactgcaa ggtcaatatc
+    12481 atctacccaa ttcatggtta tttaccagaa tactttctac tcacaggacc gggacatcct
+    12541 acctaccgtc cttatgtagt gcgaataggt acatacgagc cccgagcatc gtttaacagc
+    12601 gtttaacttg gtctcttgga ggatggcatt attgtgcgga ggcaatatag acactgccag
+    12661 catatgatgg gatcacactg catccgaaca aactgcgaaa ctgagcatgg cggtcgcctc
+    12721 gaccagcggt gacgtcctct gcttctcact cccaccataa actcccacaa actacagctg
+    12781 agagctggca ttcctttctc cgactttctt ttctgattta ttgtcatgcc tcaagatttc
+    12841 acactcctag tcgacgacca agacccccag atcaactaca tttgcccgtc gctgaagcaa
+    12901 caattgctgg ccggttcgta ctcaaacagc acatggacga caatcaaaga gagctcctgt
+    12961 cgcaagggct ggtttgagta ttcattcttt ggtacgttcg tccaaaggtt tgccgagagc
+    13021 gctcgggcta atctcatgta tgctggctgt tgcaggaacg ggcatccgga tccgtgtgcc
+    13081 aacctcaggc aaagctgaaa gtgccgcagt ccttctcgac aacgaacttt tcaaaccgga
+    13141 tgaaaacggt gtattcgaag ctctcgacct caaagatgga cagcacaact tcacctatgg
+    13201 catcggagaa gtctcgacta cgcccgtgtt cgattacctg actgtcgccg ccgggccctc
+    13261 aacccctttg aacggaagga cacttattgc tgatgatacg gacgagtcaa tcaactacat
+    13321 aggaagctgg acgaccgaat caccgcgtcc cttgacgttt gactactcca ccgccctcta
+    13381 tcgagatacc gcccactgga gttctacaat cggagataca gtcgaattcc aattcacagg
+    13441 ttcgttacaa tacagttcga gatctcaccc tcaaagcata ctgagcagtt gcctcttagg
+    13501 ttcatccgtg gctgtttatg gcctcgcggc caatatcaca tctgggaaca tcacagcgtc
+    13561 ttataccctt gacggagtca caacaaccca aggcatccct cgcgggacgt tcgattcagt
+    13621 ccctatgact gaattcttcc gagccgagct ccagcctggt gcccacactc tcatcgtcaa
+    13681 tctgactgag attgcctcct cccaggcctt cggtatcgac ttcattgcat ataactcgtc
+    13741 ggtcgatagc atcaggtctc tccctggatt tgaccttgca gctgggaacg cggctaccaa
+    13801 gtcggagtct gaccgtgctg gatcttcgaa ctcacagaaa tatgccattc ttggcggagt
+    13861 tctcggggca gttgggttcc tgcttcttat ggggcttgcg tttttcatct tcaagagacg
+    13921 tcagtctaag caggcgcttc gattagcctc aagcaactca tcttacgacg atattgctgg
+    13981 tgttggtaag atcatttttg acttggagtt ggcaacagtc tgattaactt atgttcgaat
+    14041 gatttcagag aaaccacccc aaacttacaa caacaccctg ccgcaggcct aactctatca
+    14101 tcattctcgc tggttatgac ccaccgacgt gtccgtatgt ccttatgaag gctccctgaa
+    14161 ctctcctgca tgacacctct cagccaccat gtcgcttgct ctcacccctt tcctacctcg
+    14221 ggaggccata tcttttctgg actggttcag attgcgtgat atattagttt tcgctttgac
+    14281 tcctgtattc ataccataac cttaccactt caatggcacc cgtgggtgcc ctttggcagg
+    14341 tgcgacccat cgggcacggg tcgagttgca ccggctgctt ctccattggc ctcagttgcg
+    14401 gttatctgtt gtattcttaa cctcgttaat ctatatgctc atggcaagac cattgttcgg
+    14461 cacttggaat catgacacct gtttttcctg ttcaatattt tttggtacga tctcacccaa
+    14521 actggtagcg gccctcacca aaaccaggaa ggagcgatcc ggatggaacg ggccgttacg
+    14581 tccggatgac acctggagtg acggctcgag ttttgcgtct caccaccacc gtccacgaaa
+    14641 caccaccgcg tccgttcata tgctcaggcg aattctagtc gccagtggac agtgtgcaac
+    14701 gggctctaga gctttggtaa ctcgttttcg cccgacctca aggcgaacgt atgcgacgga
+    14761 cactgattcg ggtatagcta acccagcagc ctactgcaag gacctggttc gaaagcatga
+    14821 ctacgagtcg tttttgactt caccattcta cccaaaggca aagcaagatg cttactttgc
+    14881 tataaaagct ttcgctgtga gtttgttctt gctcggtcat ttgctgaagc tcatttgttg
+    14941 ttcgacgttc cgtctgtata ggtcgagctg gcaacggtgc aggagaacgt ttcgaatagt
+    15001 atgattggcc aaatgaggat gcagttctgg aaggatgcta ttaaagacat tggcactgtc
+    15061 ggtgatattc tattccggaa ggagacggac gattgatcca ttggaccgta gggcaaatcc
+    15121 ccgaaacacc ccatagcctt ggccttgctt cgagcttcag aaacagctaa tcttcctgct
+    15181 taccacttca aacgcatcat tgacgcacgg gttcgtcacc atcgttcttt accttttgcg
+    15241 tctatgaagt ctaaccttgt cttccacgat cgtagactgc ggaactagaa actccatcac
+    15301 atctcacaat tgaaactctg acctcgcatg cagagtctac gtcaagcact gtcctctacc
+    15361 ttttgctttc tctactctcc ctgccgtcat ctgccctttc acatgccgct tcccatttgg
+    15421 gtgttgccca gagcttcacg accctgttga gggcactccc gtatcatgcg accaagggac
+    15481 gaatggtcat tccggctgaa atcaccgcca aacatggagt gaaccaagaa gaggtgttca
+    15541 gacggggtcc cggagctgag ggactggaag atgcagtttt tgaattcgcc accatcgcga
+    15601 acgatcactt gattactgca cgcgagatgt tcaatcaaga aggaatgaat ggattgattc
+    15661 ctgacgccgc ccttcccata tttctttccg gggtacgtgt gatctcgaat cttgaaggag
+    15721 accctgtttt cgctgataac tcggtattgg gggctgctgg ctgatacttt aggtaccgac
+    15781 cgccagctat ctcagtcgat tagaaaaggc aaactttaat gcgttcgagc cccaacttca
+    15841 ggtccgggat tggaaaattc cgttcaagat ttggagcggc tactacaaga agaagttttg
+    15901 atttctcagg ggctacacta ccaaagagga tatgtctgga gggccaggaa cgcgggccac
+    15961 aattttgtcg aaatttgctg tccgaataga gtaaatgcat aactaattat aaaaaaactc
+    16021 cgcaatctca gtcgtggatc ttagagtgtg tctgccatcg gagaatggta tctatttatt
+    16081 ctgtatttgc ctctatgcga gtcatttctt cttgacttcc taccaccgcc atatcaaccc
+    16141 cacctgtctc tctcctccct gtcgcccaca gcgacagaca ccccttcctc gtcgtcgtcg
+    16201 ccgactgcaa acgcccttgc tggccgccac gccctgcgcc tcgcgaccat ggaacggcta
+    16261 tgcggtgagc ggaccacgct atcctcccgg acaacaacat tggctaacga tcttcggcag
+    16321 tcgaagttct ccagctcatt ttcttcgagc tcgttgaccc aagccctctg actctggtgt
+    16381 ctcgccggct ctactcgttc tcccaggacc cttatgttcg ggcccgctac tttctcgctc
+    16441 actatgggcc ggcggaggcc atgtttcagg ctttgggtcg aggaaaattg ctcaccgagc
+    16501 gggttatcga tgtacgtggt cacaacacgc ttcccttcac tacggcccca ttcgagacat
+    16561 cttctcacca atggaccgtt gtcaatctcg cagattctcc tatcaagcgg tgcacacctg
+    16621 tccagatatc tcgtccaaat agcaatgcac cattactttc atacacaaac ccatttcatt
+    16681 cggacgcctt gggtccgaaa tgtccccttc ggagtattcg tgtattttat gcagaaggca
+    16741 catgcgaagt atggggatat cccaagaggc aaggtatggg tttgcggctc gggtccacat
+    16801 gttttcagtg ctcacaagaa gcgggccttg acagggagaa gatgatggtt ccctcttcat
+    16861 gaccttcctc aaggaaagtc gcttcccatc tcacctcaag tcggtcactt gggagaacat
+    16921 cctggagatt ctggaacagt acaaggttcg ttgccaaatt ggttccattc ggataggatt
+    16981 gagtgccaat acacaaattc acataacagt tcatgccgtt cagcaacagg gtgggcatta
+    17041 cgtctctcca ggatggattc ctgtcatcta acaattgggt gcttaggatc ccatcatggc
+    17101 acaattccct ttgatccttg ccatcgaacc aaggctcctt cctgccgctg tcgagaatgg
+    17161 cttccggatg gattacaagg tggatattaa aattttaagg tttggaccct atgactgatt
+    17221 cattcctcca gtaccgagat tttgtatttc ggaagatgtt tgagcgacac acaggcgaca
+    17281 ctcaggcaga agatgtggct aacaacattc gggaactgtg tcaactagac ccaacgtagg
+    17341 ttcctgtcgt ccatcaaggc gtggagttaa cccagcgaaa caggatgttt gtttcacgta
+    17401 ccgtggcggc cgaagtgtgc atggaggcca agtacaacga tgtcggatat ggtgcgctca
+    17461 agcaattggg caagacgggt gacttgcgat ttgagctaag gtgagttctt cctgacgcct
+    17521 aatggacgta tattaatggg gctcgcggca gaaccctcgt agaggacctc ttgaaagtga
+    17581 gtcccgcact ttggccgaat atcacggtac ttacgaaggt gtgtagacct ttttgaccac
+    17641 acgtaccatc gcacacagtg gcaccggaga tattcttcga cagttatact ccgattatcc
+    17701 gtctacggac cccatcgtcc gtctggttgt cataaccgcc atcttcatct ccgccgagaa
+    17761 ctctcgtctc ggtgtacagc aggtccatgc gaacttagag gcgactgggc ttacaccctt
+    17821 aaccagaaaa gacgcgtaca acgtcctaat aaaccctttc gtagaaaagt acaccaccgt
+    17881 attggattat gccagggagg agatcggcac gaacggagat gggggaaaag gactgggcga
+    17941 ggcagaagcc cgcgggctgg tggaagatgt tgctcggaaa tgcctacaag tcggctgcaa
+    18001 ggtaagcatg gcgtcccctg gcgagtcgat cgaatctaac ggaatggaat tagggtaaac
+    18061 tcttgaacag actgatcgag ggcttccctc acctcaagga tgtcctagta aacgaggtgg
+    18121 cggagcgaca tcagattcga ctcgaggagg tgccgtcatg ggttggccag ggctctgtcg
+    18181 catacactgc caaattaagc ggcgattacg ctcggaaacg ttcaggagaa tcaccgtatt
+    18241 gggatgattc ggagggcaat gtcttgacaa ggaatgtaga aatgggtagc gaccaagccg
+    18301 ggaacgatgt ggatagggcg ccccgcgagg agcctcttat gttgagcgcc tcggaacatg
+    18361 aggttttgtt atccgacctg gtatgtacct ctcccttcag cccggccttc ctcacagatt
+    18421 ggataagact caccatgttt cctggtgaca tgcacagggc gacataagtc aggagtctct
+    18481 gacaaacatg atacggcagg atgagcttgc tccaacgcgg gcccgccgtc gctggtttta
+    18541 cacctttgcg tatccagatt tcggaaaagc caattatcct catggtatgc tccgcgcgtc
+    18601 cctgggtttt ttgctggtct gatcaactct tgtagatgca ctgccagtgg cgaagtgcat
+    18661 tttgaaccaa tatggaaccc gaagcaaaat tgtagccatt ttcctcactc atgctatcat
+    18721 caacgataac acgcaggtaa gggctattat tttgtgggca acaaccctac ttacccacca
+    18781 gcaggtgtta ttctcgtacc tcatgaggac gcaggattca agcttctcgt ccttcaaaat
+    18841 cgacctgcaa gtgccggtca cgctgaaaca tttccaaatt cttgcgcggt taggacgggc
+    18901 acctgtacgt atttgccgac atttggttac gttcccatac tgaactccaa gtcgtgtttc
+    18961 agagttactg tatttatcat tgcattgagg caggggctcc cttttacctc gatgaagacg
+    19021 attacatttc caaaagcgat cccgcgaaga gtttgatcag cgctctggga gttaaacacg
+    19081 agcctccgaa cctgactatt ccgtcatcgc cttcatcgag cacaaggcca ccttctctcc
+    19141 gcggacgaga gcggctccga cgactggcca ctacaagcgt tcgttcatat gccgtcccag
+    19201 actcggatga cgatatcatt atggattccg acgatggact tgaaccgcgg cgtcgaaagc
+    19261 aagctccgaa gaagagcgac ctccagctgt ggattcagca cctcgccgag ctgcagaaat
+    19321 cggagaacaa gaaggtaagt tccaccctgt ggtatcatcg ttatcgactc tcatggcgat
+    19381 cgtttgacag ttcaaggaac agaagaagat ttatgacgca gcaggttgcg aaggaaccac
+    19441 tgcgcgattc aggaaggtaa tatacctact acccttcaag agccttaatc cgagtctgat
+    19501 ccacggaacc tgcagaacgc gttcttgaaa tcactgtcca cccaactgcg ctcgttgcga
+    19561 aagcttgata tacagacccg agaaaagcaa gggatgctcg gggaagacct cgaaactctt
+    19621 gatgatgaag atgacgacga cgaatacaca ttacgcccgt ccaagcgaaa gaaaacctgc
+    19681 acgcatccac cgatttctct ggctctatga tgcctgtgaa tgacattcga ctgactcgca
+    19741 atgcatggac ctctacttta taacctcatc ggcattgttc tgtatttgta tgacttcgtt
+    19801 gacacactac gtttcattga cattgcatcc attcaaactg actgtatacg tagcacagct
+    19861 gtatcccgtg tataacctta tgtacatcgc aaattcattc accattatgg cgtttttaag
+    19921 gatttgtcta atagacgtat cggtaggtga tatgtcggtc tcccagtcgc agccgctcct
+    19981 ctggtgtcga aggacgcagg tcgccatctt tcatttcctt gagtagtctg tctcgtcgcc
+    20041 tgttctcctt gctcatccag attgccaagt aaacggtgac caggatcgag aagagaagat
+    20101 aaccgatgga gatgatatgt ggagttctga aattgttccc cgcgaggctg ggccggtaga
+    20161 tcagaacgct aacgtcaaag ttgtaattag ctcttgcaca ttagccatcc aggagagact
+    20221 tgcccagcaa ttgctccgat atcgccaatt gtgatctgca tcgcgactgc gatggcgcgc
+    20281 ttcgtctggg cggatacatt ctcgccaggc caactggagg agtcaagtca attagtccac
+    20341 aacactggta atggtcgagt cgcagttgat taacctaagt aggagggcat ttccggtata
+    20401 aacccctgct gcagcgaaat ggacaccaac gtattgtgct ccggctaggt taaaccgaat
+    20461 attccaagat gagctggaga accatgattc agacttgaca atcagaaata ctgaccagtc
+    20521 ttcgttgtca gaaggatgat ataccctgga tcgcaaatga gaagtcacat ctctatcgct
+    20581 gtggtgcctg cagcgcaaaa tagaacgtac cgaggattgc aacgaaagca gatccgatga
+    20641 tgaagggggc tctcttgtta acccgggcgg atacccaaac ggtggcccag atggatatac
+    20701 tggcgagact gttgggtgga accgtcatgc ttttccaaaa gatccgtcag gatggatacg
+    20761 accttcagca gtcttggata cttacagttg tgcctgccaa ctggcgaatc ccaagtctgc
+    20821 gatgatggta ggctacatgc gcaattagtg aggggcccga tggtcgagga ggatgtaaga
+    20881 tcgcttacca tgaacaaact cagcgagtac aggacgaagg caaatccgtg gaagagcaaa
+    20941 gcgtatcccc aaactaggtg gtccttcata gcttgtttaa cgtaagtcca ttcgaacttc
+    21001 tcaatcagtg cagcgtcaga atctgcatcc aatcgtgcca agagacgttc cttttcggag
+    21061 gtcgtcaact acatgggagt cagatgggag tagaatgcgc tgttagtccc tgggtaatgg
+    21121 cgatatcctc gtagcgtgct tacaaatttg gcgttgtggg accacgttgg gacgacgaag
+    21181 taagcgaaaa ccgcagagac gaccgtgagc aatccttcta tgatgaagat cctgagccaa
+    21241 tgtgagccaa tgtcccggtc gactcataat ggggctagga cccaccaagc ccatcctcgc
+    21301 ttgccgccga taccttccat cttgccaatt gcatacgcaa gaatgcctgg acaagcactg
+    21361 tttttgagct gttgaatcat aatggtcaac cgagggggcg tacctccgaa ggcacccgcc
+    21421 agtgcagcac caccgaaaaa gattgcaaca cgccagctac gttcatgcct cctgtaatag
+    21481 acggagaaga catagatgac gcccgggaat aaaccggcct cggttatacc aagtactgtc
+    21541 attcatgcct tcagcgaaaa gcctagatgt gcggatgaca aaggagacgc acaaaagcga
+    21601 acggcgaata gggaagcctt gtttgtcacg aatccctgga aaacagtgac tgttccccaa
+    21661 gcgaaagtta aagttggaag ccagacttga ggattgaaac gctttagcct gaatagagat
+    21721 aggttgagga ctaaatggcg aacagcgtgg aaagatgcgt acacaatctg gacaaattcc
+    21781 aaagcttagt cgagatatgg tttggaagag gaacacgaga accagcgcgt acgttagcgg
+    21841 gaacctcgaa gattacatag gctacgaagt agagcgccaa tgcagtgttg tactcgggcg
+    21901 gtgaaatttt gaggtcctgt ttgtggcgtg agcagcggga aagggaacga gtctacatat
+    21961 tgacgcacct cgacaaggcc tatgattcta cggaaatact tgtcaatgaa ttgactttga
+    22021 gggagagccg cctaacctta cttggcattt ccaatattag atctgtgaag acataagcaa
+    22081 acatcctaaa ttgatttcaa ggttaggctc gaacaactca cctgtccaag aaacttagca
+    22141 ggtacaggaa ggttaaaatc ggtaacagcc tgacaaacac gtagatcacg acgggcacgg
+    22201 tggtaagagt caaggcaacc gagaaccatc atgaacaagc tcaccgaaaa tcaacctttc
+    22261 ggagtagttt cctgtcctcc ggcgtatcaa agtcttcttt ccccgctgcg gttgacaggg
+    22321 atcccttctc tatcgagcct tcgcgagaca ttgagggcgg ttttgagcgc tgtgctgata
+    22381 agcatagtga agccgtcctc gagtttatgt agcttctcaa tggactggag tgctccattc
+    22441 tgaccattca acgcgcaacc tgccccaggg attgcgccat gttacatggc gctccaaatg
+    22501 ggcgtaacag tgtcatgagg cggagatcct gaagcagtgt gcctgttctc cggatgtcgg
+    22561 accccgttca aatatgtcgg aattaattca gaacttctgc ggacagccaa aagaacatcg
+    22621 agttcaatct tgggaacgct tataaataag cagaactcac taaatcctga tcacagttct
+    22681 tgtcgatgaa gaggtgggaa gagggatggg ttgacgaaac ggaaagacag ctacgtttca
+    22741 cttaccctgc catataacat cagattggcg acgcgcagag tatgtccagc cagccagaag
+    22801 ccagcgtatt aaggatacga ccacagtggc acttttccgg gtccgccgtt tcgagatgag
+    22861 caaggatgtc gcacaatctg agaacagaac tttacagcgg ccgagtccaa agaagcaagg
+    22921 atagtagcca aagaagccaa catctcgaca tcgatagaaa attccatcga atcaccaaga
+    22981 gacctccaag agcctccaag ttcttgttca aatcgagagg cgcacaacga catttgggag
+    23041 ccgcggattg taagtcgagc aagtgccacg tcagatttat gcttccgatg aaggcagtgg
+    23101 tcgcatcgtc tgaggactgc ctcccatttg tcgccagagt ccaatgttgt gacaagactc
+    23161 agaatctcag gctatcgaag atggtggttg tggaagagga tgatcagacc atcaaagtcc
+    23221 agcatcaagc gcgatgtcgc atcagcccga cgtccccgac gctaaggccc ttcgctcccg
+    23281 ccctcactgc agggttgctt cgccccttgc tccaactcgc tgcatagaga ggatgacgaa
+    23341 ttctcattat tcattcgaat gattcaagga attagagata cacgccagtt ggagctagcg
+    23401 ttcgattgca tgtatatgca ttcgattagg ggcccttgaa gccccggaca cagcaagctc
+    23461 tgtaagcact gtcatatttt gttatcgcgt tggacagcca aggtctcacc tgttagtcat
+    23521 tttcaggtgc taaagcccat aagtatacca actgcactcc tctttcaccg gaaaccattt
+    23581 ttgacccatg accttcgacc aacagcaaat cctccgaaac tttcgtgaag aactcgtcgc
+    23641 cgaaggcatc ctccacgaag gagacacaat tggctccgac cagaccactc tcttgtgcgt
+    23701 cgcccaggtc tttttgtcgc ctgccgacaa ttgaatgaag cttgcgacag gcgttttctt
+    23761 cgcgcccgtc ggtataatat ccagctagcc aagacgcaat tccgtgaatg tcaagaatgg
+    23821 aggcagacag tgcaaggaat agggattgac gagctctacc gccgggttga ccccttcaac
+    23881 gtaggtggct tcccttcggt tcacaaacgt taatttaaac acgcccagta tcccgaacgc
+    23941 gacgtgatat tccaaagttg gcccatgtgg taccacaagg tgtgtctatc tccgttagta
+    24001 ggtccgtctt gtcctgatct atgtccatag acagataagc aaggacgtcc cattcacatc
+    24061 caggtcgttg gagaaatggg gatgcgtaag ctccacaagc tctgtcctcc gcagaagcac
+    24121 tgggaagcgg ttctggtcat ctgtgaatcg gtatgtcaat tcttccgaac ctgcggctgg
+    24181 caggagagtt gggaagataa ccttgttcac ctccccactt aaactaacgt atccatattc
+    24241 agcttccccg cgagctctta ccggctgcta gtcgtgcagc tggaaagtca atcgaaaagg
+    24301 cgtttgtaat cgtcgacttg aaagggtttg ggtgcgttgt ttaagcttcc cgtgtcgtct
+    24361 cctccattgg gagcgcttca tttttactga tatattccca gttttgaaca attttggcaa
+    24421 atgaagtcca tcctccgagg tgcactccag atatcacaga actactatcc cgatacgtaa
+    24481 gagcatcgaa tatgaaacta ttacccaagc cactaacgtc ttatcctcgg gcaggatggg
+    24541 aaaactggtc gttatcaacg cacctgcgtc gttctcgaag atctggcctg tcttgagaag
+    24601 gtggttatct gacgacactg cggaaaaggt ggagatatta ggggacaact ttgctgagat
+    24661 tctgctcgaa tatgtcgatg cggagaatct tcctagtacg ttaggaggaa agtgcacttg
+    24721 tgaagagatg ggtggctgtc aatatagcaa cgcaggccca tggatagatg gtcggataat
+    24781 aaagccttga ttcagatttg agtaggatta tacgtttact gcaatccact gggtttgttc
+    24841 tttgcccgtc ccggggaggc tgcccggtat gcccggttag tgctgggccc gtacagccac
+    24901 tgatcccgcc gagtccgctc cgggcaccgg atctttattt ggccaccacc gtaggccacc
+    24961 gctggcagcc aaacaaagcc tggcaccttc ctgtttaggc aatgcaagtc ttggtcattg
+    25021 tttcctgggc cttgacgctt aacgacggtg cattgtccag cgactacaat aaaaagcctg
+    25081 tacttctctg ataaatgtga cgtctgagtt gattctcctc ggttgctcgg tttctttctt
+    25141 ctcttccctc ttcacatatc cttgacggat aattgctggc aatttcgttc tgcgaaacat
+    25201 gaatcacttt ctgatataca gtcttttcgt cttgtcgttc tttcaagcat tctcggcggg
+    25261 ctctgtgatc ccgtttcgac gaataagaat accggactct gagttgaatc gccggaaact
+    25321 agacatccta gatctccctg aaagaatatc aatccctttt gagccgacag gattcgttat
+    25381 cacacttcga ccacgaccaa ctagtacgcc ttcccaaatc ccaccgacgg cggaaacgtt
+    25441 ttctccagtt acacgctctg cgagcactag tcccagcagc gctgattcga cagttgaacc
+    25501 atctcaaacc tcacccgctt ccccgactcc gaccaatgct tccggcaaat tcgtcgtggc
+    25561 ccaccacatg gttggaaata catttccata taccaaagat gattggttgg aggatattca
+    25621 gttggcccat gcctccggta tcgatggctt tgccttgaat actggtcgag aggtttggga
+    25681 gcccgaaaga atcgccgatg cgtgagtatg tctacgttac ttttcaattc cattctaatc
+    25741 gtggaatacg tcaggtatca ggctgcgcta gagttgggtc acaacttcaa gctattcctt
+    25801 tcgctggaca tggcgtatgt tcctccagtc atccaccttt caagttaact ggactcacgc
+    25861 ggaattcctt gtgtagatct ctcccttgta attcccatga agacgccgct tacttgcgtc
+    25921 gcctcgtctc ccaacacgct tcccatccta accaactcat gtacaacgac aaagctttcg
+    25981 tatccacctt tgctggggaa tcgtgtcaat ttggacatga caacgtcgtc gaggggtgga
+    26041 agcaccagtt cacccttcac cctgagctca aagaaagaat ttacttcgtt ccttcgttct
+    26101 tcatggaccc ggcgaggttt ggagagttca aggatgtcat ggacgggact ttcaatgtat
+    26161 gtcatctctt acaccctgac ctttcagaag catactcact gcttctacca gtggaattcc
+    26221 ggctggccca tccaagtgac gacctcattt gccagggagc agctcgacaa actcgcggaa
+    26281 gcagcaccca gcgaatcgtc gagggtcgga aggttacctc tgttggccaa cccgcttcag
+    26341 cgggcggtca gtgacctcat tggcacagtc gacagtgaca atgagcatct ggaagctctc
+    26401 aatgccctga cacccgatct caataggcga gatgatggag gcaatctcga taggcccgcg
+    26461 tacatggccg ctgtctcacc gtggttcttc acccactacg ggcaagattc gttcaacaag
+    26521 aatgcaagtg accatcctca cctacccaaa gagagcggcc taacctacta ttgttttcat
+    26581 tagttcgtgt tcttggcgga ccagcacctt tacgccaaac gctgggaatc tctcgtcgag
+    26641 tctcgggaca agtttgacat cgtgcaaatc ttgacttgga acgactttgg agagtcgcat
+    26701 tatatcggtc ctatcaaagg tgctcaaccc aacagtgaag cctggactga tgggatgccg
+    26761 cataccggtg agtaacctcc ctcgcttgac cttcttggat tgctttctga cggagaccta
+    26821 ccagcctggc tcgatttgac gagttactac gctagagctt tcaagacagg cgagtacccc
+    26881 aagatagaga aggacaagat cttcatgtgg tctcgccctc actctaccga agctgagagc
+    26941 cctgaccctg ttcccaaacc cgacaacttt gagttggtga gtctccagct ccgacgtcat
+    27001 cgtcatggtc atggtcgtgg ttgaaactaa ttcctgttat tctagatgga ggacgcaatc
+    27061 tgggcagtcg tgatgaccac caagccatcc acggtcgtcc tgtccacttc gcctacgtct
+    27121 aggacctttt tccaggtccc tgctggagtc tccaagctct ctgtccccat cacccctggc
+    27181 gggacgatga ggggtacgat cgagcgggac ggagccgtta ttgtcgacct ccatccttcc
+    27241 tcggaggagt tcaccttcca gggcagtccc caatcctaca actttaacgt cttcgtggct
+    27301 agtgccaccg cctcatgagc cataccattt acgtccttcg ttcaccttgt agactattaa
+    27361 gcacttacat ttgttgtttc ataccacaca tcccgatgtt gtagccatag atcaaattct
+    27421 gtatagtcaa tgtaatttag tagacgcaaa ccaggcatgc tgtgcttgtc ctggacgatt
+    27481 atatacacgg tataagtgtc aaaagcgaag gttaatacat gacgaccacg agagattaga
+    27541 agatgggtat gaaatcctgt atcctgtccc tcgcatcctg cgcaatgcac tccgcaatcc
+    27601 acgtcaagtt cctaatctcc tgctccttca gcttgatata gctgaagaac acaccgtact
+    27661 ggaactgttg caagaacgcc tgtttgttga ggaagacctc catcctgaag aacctatcct
+    27721 ccaactgcgt agcggctgcg agctcgtcga tgccattgcc ggcagaagaa gcagcgatat
+    27781 cattgaagaa cgtcctatac tcaatgacgt tctcacaagc ctgtcgaacc tgctccatat
+    27841 catccgcccg agccaactgg ttgttccctt ctggccaaag tcgtccgatt gatgggaaga
+    27901 gtttagctcg ttgttctttg gagagctcgg tgttgaagga gttgatggtg atgttgactg
+    27961 tgcgtctgtc ggcttcgaag gcgaggatgg tgtgcatgac ttcggcggtc gggtcgccta
+    28021 gggtggagca gaacctgtcg aaatcctcga ggtaggcttt gtagactgtg ttgcggatga
+    28081 tttcgatgtt gaggtcgtcg aggtcgttgg ctgagagaca ttcgcggaag tagggtgcta
+    28141 taggagaagg caggtaagtg agcggatggg tacagctagc gtggaggacc aaccgagagg
+    28201 agtttcgacg aggacgcttt ggtagagttc ctctacggta gttgcaacgc atagagcggg
+    28261 catagattcg aagataccca gagggtgaca tcgttcgagg agttcgtgag tatcgcgttc
+    28321 atgaagagtt ccagtaatta gaagaatgat gttgtcgatc atgtacgagt acctgcagca
+    28381 tcctccgggg taagcaacaa gttcattccg catggcaata accgtacgta cgtcacatat
+    28441 tcaaggaatt tgctgagagg ttcgacagcg ttcgcgcgca ggtagttgaa ttggtccacg
+    28501 aggacttgag ttgccttgtc cgcgatggtc gaggtggaga gtgggagggg ctcattggcc
+    28561 aggaagtttc cgtagtctgt tgctgatagc tgcgttcgga agtctatatg gacccgatgt
+    28621 cgacctctct ttcagctgtg tattctggcg atacatgctc ggtctgcgca ccttcaaggg
+    28681 tttcgcattg ggtcaagtta gcgtactggt tctgggtgag gattccagct ttatagccgc
+    28741 gaacgacgcc ctcaaggaag ccgtggttta tctagggtag aggcggattc tttggttagt
+    28801 ttagaggtat tctagaggat aatataggat tcacattgaa tgaaagagcg ttcatcgtcg
+    28861 tcgtcaccgt ccaacgtcag acggcgcact gcgatcacct ttagttggcc cataccgtga
+    28921 acgggaatga gactcccacg aacctcggct atccccgtgg cgcgtcaatc tcctttttgg
+    28981 aatcatggcg ggttcactgc gaccatgacg ttgaatattc ctggcagtcg agacattcaa
+    29041 tcatttgtca tgtccaaccc caaggcgact tcaaaactcg acgtagcttt ggaacatatt
+    29101 cagacgcaga ctggcttggt ctcatcgaag gccgattcaa tctgaactcc tattgagcta
+    29161 tataaacctg gtcgccctcc aggctcttgc ttcctcactt ggtcttcatc cactgtcacc
+    29221 acctctccag tggtacagcc aacccatcct gggcctagtt cctcatcaac gacaagctcg
+    29281 atgatcgtcg cgcatctccg tcgaccaagc aaacctcgcc ctccaggacc aaccaatatg
+    29341 tccccattag gacaaggaat atccgccttc atccaaccca ccctctcaaa agccgtctcc
+    29401 gtatatcatg gccgttagta cctgacctgc acattctatg ccctgtagca cctggatttc
+    29461 aagtctggca ccctgctaga acttcactcg aagggaccag cgttgcgtca acgttgggct
+    29521 cgtttgatcc ttctatgctg tggtgctagt gcctgtgcat atacctggga aagatccaag
+    29581 tgcctggttc tgtacgactc tgttgtgatc aagcctggct tgggtgttcc gtcccgacgg
+    29641 ttggatatcc ctgcctaccc aacgcaaggc tcgtaaacgg gtgtcaatgg tacgacgctt
+    29701 tgggcctgcc ttgacacttg tactgaaata ttgcttcaga cttccaggcc gcattttgcg
+    29761 tgcaccacgc ccggcatcat cccaatccaa cctctgccct gccaaaccag cctttgttaa
+    29821 acgtctgtct tatctcaagg ctagatggcc tctttctaac gacgcatgaa acagcactta
+    29881 ccctccaaga tgccgaatac cacaccacgg ctagtatcac tccacatcca ttcgccaaat
+    29941 ggttcgtccc atgatccccc aacgaataca gctgtcctta cctctcacag tcaatggaca
+    30001 tggtcgactg ccgacgcccc tttggacgag actccctctg caattcttca tgcacctaga
+    30061 tagactttcg attagtgtct tcctacaagg tgctcttgta tcgtcgtctc cgttactgtt
+    30121 tggctgtcga attgtattgc ctttctgctt ccctacttct tgccaccggc tgcaaattgc
+    30181 ctttgatttg cagagaaagg tgcatgctcg aaaaacccaa tgggagctag taagagcaag
+    30241 tatgtttggg cgaaggatat attgaatatt ccaccggatg gtatggcgag ataatggtac
+    30301 aatacacgtc ggcgtgcgat cgagtctagg catccccgaa taacctcctt ctataaagtc
+    30361 aaagtcaata gtccgcacac taccagaagg aacgaacggc acgtacaccc tcactggcgc
+    30421 atggctaaag atagtagggc caccaatcat ctccctcgac catacgtccc tcataaacca
+    30481 cccgacatgt cccactgcac atccaagcaa gtcgccagct gctgctttcc atgtaccatg
+    30541 gaggatccaa gagaagccta caagtgcgat gggaaggtag ggtgctgaga tggtgattag
+    30601 accgaagagg gatatgggtg ttgaagggtg tcgcctggac cagacgtaga ttgggacaaa
+    30661 ggcgagcggt gaagagagga aggggaggtt gaatagcgga gagattccct atggtttgga
+    30721 gatagtcttc agtgagaagt aagataggat agtgaagtag ggcgtacgag aagcatgata
+    30781 gcggagagga agagcatcca aaagtagtcg gctttacggt ttgcgaagga tgattcttcc
+    30841 agcattctgc tgtatctcat actgcgagaa tattcttcag tggtattccc agaggaatgg
+    30901 g
+//

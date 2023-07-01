@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="0,40 4,40 9,35 4,30 0,30 0,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_369971.T0&lt;/b&gt;&lt;br&gt;CopciAB 369971.T0&lt;br&gt;Location: 173614 - 174484" locus_tag="CopciAB_369971.T0" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="10,40 13,40 18,35 13,30 10,30 10,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_369989.T0&lt;/b&gt;&lt;br&gt;CopciAB 369989.T0&lt;br&gt;Location: 174625 - 175377" locus_tag="CopciAB_369989.T0" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="41,35 46,30 59,30 59,40 46,40 41,35 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_286075.T0&lt;/b&gt;&lt;br&gt;CopciAB 286075.T0&lt;br&gt;Location: 177462 - 179182" locus_tag="CopciAB_286075.T0" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="66,35 70,30 70,40 66,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_1002065.T0&lt;/b&gt;&lt;br&gt;CopciAB 1002065.T0&lt;br&gt;Location: 179853 - 180240" locus_tag="CopciAB_1002065.T0" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="84,40 145,40 150,35 145,30 84,30 84,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_534846.T0&lt;/b&gt;&lt;br&gt;CopciAB 534846.T0&lt;br&gt;Location: 181567 - 187729" locus_tag="CopciAB_534846.T0" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="162,35 167,30 171,30 171,40 167,40 162,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_473243.T1&lt;/b&gt;&lt;br&gt;CopciAB 473243.T1&lt;br&gt;Location: 188863 - 189736" locus_tag="CopciAB_473243.T1" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="171,35 176,30 182,30 182,40 176,40 171,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_473243.T0&lt;/b&gt;&lt;br&gt;CopciAB 473243.T0&lt;br&gt;Location: 189691 - 190759" locus_tag="CopciAB_473243.T0" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+<polygon points="191,40 240,40 245,35 240,30 191,30 191,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_369919.T0&lt;/b&gt;&lt;br&gt;CopciAB 369919.T0&lt;br&gt;Location: 191565 - 196638" locus_tag="CopciAB_369919.T0" class="clusterblast-orf" id="dummy-1_q7_0_all"  />
+<polygon points="253,40 255,40 260,35 255,30 253,30 253,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_498595.T0&lt;/b&gt;&lt;br&gt;CopciAB 498595.T0&lt;br&gt;Location: 197444 - 198082" locus_tag="CopciAB_498595.T0" class="clusterblast-orf" id="dummy-1_q8_0_all"  />
+<polygon points="262,35 267,30 273,30 273,40 267,40 262,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_498594.T0&lt;/b&gt;&lt;br&gt;CopciAB 498594.T0&lt;br&gt;Location: 198248 - 199281" locus_tag="CopciAB_498594.T0" class="clusterblast-orf" id="dummy-1_q9_0_all"  />
+<polygon points="296,40 335,40 340,35 335,30 296,30 296,40 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_473239.T0&lt;/b&gt;&lt;br&gt;CopciAB 473239.T0&lt;br&gt;Location: 201434 - 205577" locus_tag="CopciAB_473239.T0" class="clusterblast-orf" id="dummy-1_q10_0_all"  />
+<polygon points="334,40 336,40 341,35 336,30 334,30 334,40 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_473239.T1&lt;/b&gt;&lt;br&gt;CopciAB 473239.T1&lt;br&gt;Location: 205070 - 205688" locus_tag="CopciAB_473239.T1" class="clusterblast-orf" id="dummy-1_q11_0_all"  />
+<polygon points="342,35 347,30 361,30 361,40 347,40 342,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_425685.T0&lt;/b&gt;&lt;br&gt;CopciAB 425685.T0&lt;br&gt;Location: 205807 - 207560" locus_tag="CopciAB_425685.T0" class="clusterblast-orf" id="dummy-1_q12_0_all"  />
+<polygon points="392,40 405,40 410,35 405,30 392,30 392,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_399574.T0&lt;/b&gt;&lt;br&gt;CopciAB 399574.T0&lt;br&gt;Location: 210441 - 212171" locus_tag="CopciAB_399574.T0" class="clusterblast-orf" id="dummy-1_q13_0_all"  />
+<polygon points="415,35 420,30 421,30 421,40 420,40 415,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_473236.T0&lt;/b&gt;&lt;br&gt;CopciAB 473236.T0&lt;br&gt;Location: 212658 - 213166" locus_tag="CopciAB_473236.T0" class="clusterblast-orf" id="dummy-1_q14_0_all"  />
+<polygon points="425,35 430,30 470,30 470,40 430,40 425,35 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_369914.T0&lt;/b&gt;&lt;br&gt;CopciAB 369914.T0&lt;br&gt;Location: 213586 - 217818" locus_tag="CopciAB_369914.T0" class="clusterblast-orf" id="dummy-1_q15_0_all"  />
+<polygon points="474,35 479,30 494,30 494,40 479,40 474,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_1002066.T0&lt;/b&gt;&lt;br&gt;CopciAB 1002066.T0&lt;br&gt;Location: 218198 - 220084" locus_tag="CopciAB_1002066.T0" class="clusterblast-orf" id="dummy-1_q16_0_all"  />
+<polygon points="503,40 522,40 527,35 522,30 503,30 503,40 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_450807.T0&lt;/b&gt;&lt;br&gt;CopciAB 450807.T0&lt;br&gt;Location: 220896 - 223183" locus_tag="CopciAB_450807.T0" class="clusterblast-orf" id="dummy-1_q17_0_all"  />
+<polygon points="534,35 539,30 541,30 541,40 539,40 534,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_473232.T0&lt;/b&gt;&lt;br&gt;CopciAB 473232.T0&lt;br&gt;Location: 223813 - 224480" locus_tag="CopciAB_473232.T0" class="clusterblast-orf" id="dummy-1_q18_0_all"  />
+<polygon points="535,35 536,30 536,40 535,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_473232.T1&lt;/b&gt;&lt;br&gt;CopciAB 473232.T1&lt;br&gt;Location: 223905 - 223995" locus_tag="CopciAB_473232.T1" class="clusterblast-orf" id="dummy-1_q19_0_all"  />
+<polygon points="564,40 581,40 586,35 581,30 564,30 564,40 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_488576.T0&lt;/b&gt;&lt;br&gt;CopciAB 488576.T0&lt;br&gt;Location: 226622 - 228744" locus_tag="CopciAB_488576.T0" class="clusterblast-orf" id="dummy-1_q20_0_all"  />
+<polygon points="597,40 611,40 616,35 611,30 597,30 597,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_473230.T0&lt;/b&gt;&lt;br&gt;CopciAB 473230.T0&lt;br&gt;Location: 229760 - 231482" locus_tag="CopciAB_473230.T0" class="clusterblast-orf" id="dummy-1_q21_0_all"  />
+<polygon points="618,35 623,30 641,30 641,40 623,40 618,35 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_488574.T0&lt;/b&gt;&lt;br&gt;CopciAB 488574.T0&lt;br&gt;Location: 231724 - 233909" locus_tag="CopciAB_488574.T0" class="clusterblast-orf" id="dummy-1_q22_0_all"  />
+<polygon points="659,40 660,40 665,35 660,30 659,30 659,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_285476.T0&lt;/b&gt;&lt;br&gt;CopciAB 285476.T0&lt;br&gt;Location: 235533 - 236084" locus_tag="CopciAB_285476.T0" class="clusterblast-orf" id="dummy-1_q23_0_all"  />
+<polygon points="667,40 686,40 691,35 686,30 667,30 667,40 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_473228.T0&lt;/b&gt;&lt;br&gt;CopciAB 473228.T0&lt;br&gt;Location: 236320 - 238568" locus_tag="CopciAB_473228.T0" class="clusterblast-orf" id="dummy-1_q24_0_all"  />
+<polygon points="694,40 713,40 718,35 713,30 694,30 694,40 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_369969.T0&lt;/b&gt;&lt;br&gt;CopciAB 369969.T0&lt;br&gt;Location: 238825 - 241072" locus_tag="CopciAB_369969.T0" class="clusterblast-orf" id="dummy-1_q25_0_all"  />
+<polygon points="746,40 775,40 780,35 775,30 746,30 746,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_399546.T0&lt;/b&gt;&lt;br&gt;CopciAB 399546.T0&lt;br&gt;Location: 243724 - 246887" locus_tag="CopciAB_399546.T0" class="clusterblast-orf" id="dummy-1_q26_0_all"  />
+</g>
+<g label="NW_009258208" description="NW_009258208 (1476260-1520498): Heterobasidion irregulare TC 32-1 unplaced ge... (11% of genes show similarity), NRPS-like" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area.html?record=NW_009258208&amp;start=1476260&amp;end=1520498" target="_blank">NW_009258208 (1476260-1520498)</a>: Heterobasidion irregulare TC 32-1 unplaced ge... (11% of genes show similarity), NRPS-like</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="189,85 194,80 210,80 210,90 194,90 189,85 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;HETIRDRAFT_430548&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1515270 - 1513305&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CopciAB_286075.T0&lt;/b&gt;&lt;br&gt;Percentage identity: 37&lt;br&gt;Percentage coverage: 26&lt;br&gt;BLAST bit score: 63&lt;br&gt;E-value: 3.85e-09" locus_tag="HETIRDRAFT_430548" class="clusterblast-orf" id="dummy-1_h1_5_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="223,85 228,80 229,80 229,90 228,90 223,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;HETIRDRAFT_412329&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1512052 - 1511528" locus_tag="HETIRDRAFT_412329" class="clusterblast-orf" id="dummy-1_h1_5_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="242,90 243,90 248,85 243,80 242,80 242,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;HETIRDRAFT_455729&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1510342 - 1509760" locus_tag="HETIRDRAFT_455729" class="clusterblast-orf" id="dummy-1_h1_5_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="256,90 266,90 271,85 266,80 256,80 256,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;HETIRDRAFT_329692&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1509000 - 1507549" locus_tag="HETIRDRAFT_329692" class="clusterblast-orf" id="dummy-1_h1_5_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="278,85 283,80 298,80 298,90 283,90 278,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;HETIRDRAFT_53871&lt;/b&gt;&lt;br&gt;major facilitator superfamily&lt;br&gt;Location: 1506915 - 1505066" locus_tag="HETIRDRAFT_53871" class="clusterblast-orf" id="dummy-1_h1_5_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="309,85 314,80 336,80 336,90 314,90 309,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;HETIRDRAFT_66536&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1504011 - 1501423" locus_tag="HETIRDRAFT_66536" class="clusterblast-orf" id="dummy-1_h1_5_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="346,90 386,90 391,85 386,80 346,80 346,90 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;HETIRDRAFT_106754&lt;/b&gt;&lt;br&gt;tridomain enzyme adenylation-thiolation-dehydrogenase&lt;br&gt;Location: 1500498 - 1496261&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CopciAB_473239.T0&lt;/b&gt;&lt;br&gt;Percentage identity: 37&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 688&lt;br&gt;E-value: 6.37e-229&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CopciAB_369914.T0&lt;/b&gt;&lt;br&gt;Percentage identity: 34&lt;br&gt;Percentage coverage: 102&lt;br&gt;BLAST bit score: 632&lt;br&gt;E-value: 1.19e-207" locus_tag="HETIRDRAFT_106754" class="clusterblast-orf" id="dummy-1_h1_5_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="399,85 404,80 419,80 419,90 404,90 399,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;HETIRDRAFT_390575&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1495591 - 1493680" locus_tag="HETIRDRAFT_390575" class="clusterblast-orf" id="dummy-1_h1_5_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="426,90 445,90 450,85 445,80 426,80 426,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;HETIRDRAFT_181189&lt;/b&gt;&lt;br&gt;putative halogenase&lt;br&gt;Location: 1492975 - 1490800" locus_tag="HETIRDRAFT_181189" class="clusterblast-orf" id="dummy-1_h1_5_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="453,85 458,80 461,80 461,90 458,90 453,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;HETIRDRAFT_422754&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1490487 - 1489723" locus_tag="HETIRDRAFT_422754" class="clusterblast-orf" id="dummy-1_h1_5_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="470,85 475,80 487,80 487,90 475,90 470,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;HETIRDRAFT_329596&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1488908 - 1487326" locus_tag="HETIRDRAFT_329596" class="clusterblast-orf" id="dummy-1_h1_5_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="494,90 501,90 506,85 501,80 494,80 494,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;HETIRDRAFT_330245&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1486614 - 1485450" locus_tag="HETIRDRAFT_330245" class="clusterblast-orf" id="dummy-1_h1_5_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="511,85 513,80 513,90 511,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;HETIRDRAFT_422752&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1485069 - 1484878" locus_tag="HETIRDRAFT_422752" class="clusterblast-orf" id="dummy-1_h1_5_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="520,90 533,90 538,85 533,80 520,80 520,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;HETIRDRAFT_481675&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1484169 - 1482480" locus_tag="HETIRDRAFT_481675" class="clusterblast-orf" id="dummy-1_h1_5_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="546,90 562,90 567,85 562,80 546,80 546,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;HETIRDRAFT_126108&lt;/b&gt;&lt;br&gt;major facilitator superfamily&lt;br&gt;Location: 1481739 - 1479798" locus_tag="HETIRDRAFT_126108" class="clusterblast-orf" id="dummy-1_h1_5_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="569,90 571,90 576,85 571,80 569,80 569,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;HETIRDRAFT_461150&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1479578 - 1478920" locus_tag="HETIRDRAFT_461150" class="clusterblast-orf" id="dummy-1_h1_5_15"  />
+</g>
+<g id="a1_0016"  >
+<polygon points="581,85 586,80 590,80 590,90 586,90 581,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;HETIRDRAFT_455718&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1478407 - 1477611" locus_tag="HETIRDRAFT_455718" class="clusterblast-orf" id="dummy-1_h1_5_16"  />
+</g>
+</svg>

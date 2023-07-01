@@ -1,0 +1,21 @@
+ClusterBlast scores for scaffold_8
+
+Table of genes, locations, strands and annotations of query cluster:
+CopciAB_469722.T0	649236	649961	+		
+CopciAB_201601.T0	651747	653564	-		
+CopciAB_469720.T0	653660	655465	-		
+CopciAB_541099.T0	655733	659479	-		
+CopciAB_420898.T0	660230	662345	-		
+CopciAB_394772.T0	663413	664616	+		
+CopciAB_201523.T0	665622	667713	-		
+CopciAB_469716.T0	668642	669560	+		
+CopciAB_469716.T1	668777	668971	+		
+CopciAB_469715.T0	669921	671113	-		
+CopciAB_420887.T0	671972	672696	-		
+CopciAB_469713.T0	673718	678512	+		
+
+
+Significant hits: 
+
+
+Details:

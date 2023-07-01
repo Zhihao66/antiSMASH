@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="0,40 14,40 19,35 14,30 0,30 0,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_469722.T0&lt;/b&gt;&lt;br&gt;CopciAB 469722.T0&lt;br&gt;Location: 649236 - 649961" locus_tag="CopciAB_469722.T0" class="clusterblast-orf" id="dummy-2_q0_0_all"  />
+<polygon points="67,35 72,30 115,30 115,40 72,40 67,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_201601.T0&lt;/b&gt;&lt;br&gt;CopciAB 201601.T0&lt;br&gt;Location: 651747 - 653564" locus_tag="CopciAB_201601.T0" class="clusterblast-orf" id="dummy-2_q1_0_all"  />
+<polygon points="118,35 123,30 166,30 166,40 123,40 118,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_469720.T0&lt;/b&gt;&lt;br&gt;CopciAB 469720.T0&lt;br&gt;Location: 653660 - 655465" locus_tag="CopciAB_469720.T0" class="clusterblast-orf" id="dummy-2_q2_0_all"  />
+<polygon points="173,35 178,30 273,30 273,40 178,40 173,35 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_541099.T0&lt;/b&gt;&lt;br&gt;CopciAB 541099.T0&lt;br&gt;Location: 655733 - 659479" locus_tag="CopciAB_541099.T0" class="clusterblast-orf" id="dummy-2_q3_0_all"  />
+<polygon points="293,35 298,30 349,30 349,40 298,40 293,35 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_420898.T0&lt;/b&gt;&lt;br&gt;CopciAB 420898.T0&lt;br&gt;Location: 660230 - 662345" locus_tag="CopciAB_420898.T0" class="clusterblast-orf" id="dummy-2_q4_0_all"  />
+<polygon points="377,40 405,40 410,35 405,30 377,30 377,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_394772.T0&lt;/b&gt;&lt;br&gt;CopciAB 394772.T0&lt;br&gt;Location: 663413 - 664616" locus_tag="CopciAB_394772.T0" class="clusterblast-orf" id="dummy-2_q5_0_all"  />
+<polygon points="436,35 441,30 492,30 492,40 441,40 436,35 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_201523.T0&lt;/b&gt;&lt;br&gt;CopciAB 201523.T0&lt;br&gt;Location: 665622 - 667713" locus_tag="CopciAB_201523.T0" class="clusterblast-orf" id="dummy-2_q6_0_all"  />
+<polygon points="517,40 536,40 541,35 536,30 517,30 517,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_469716.T0&lt;/b&gt;&lt;br&gt;CopciAB 469716.T0&lt;br&gt;Location: 668642 - 669560" locus_tag="CopciAB_469716.T0" class="clusterblast-orf" id="dummy-2_q7_0_all"  />
+<polygon points="520,40 521,40 526,35 521,30 520,30 520,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_469716.T1&lt;/b&gt;&lt;br&gt;CopciAB 469716.T1&lt;br&gt;Location: 668777 - 668971" locus_tag="CopciAB_469716.T1" class="clusterblast-orf" id="dummy-2_q8_0_all"  />
+<polygon points="551,35 556,30 583,30 583,40 556,40 551,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_469715.T0&lt;/b&gt;&lt;br&gt;CopciAB 469715.T0&lt;br&gt;Location: 669921 - 671113" locus_tag="CopciAB_469715.T0" class="clusterblast-orf" id="dummy-2_q9_0_all"  />
+<polygon points="606,35 611,30 625,30 625,40 611,40 606,35 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_420887.T0&lt;/b&gt;&lt;br&gt;CopciAB 420887.T0&lt;br&gt;Location: 671972 - 672696" locus_tag="CopciAB_420887.T0" class="clusterblast-orf" id="dummy-2_q10_0_all"  />
+<polygon points="652,40 775,40 780,35 775,30 652,30 652,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_469713.T0&lt;/b&gt;&lt;br&gt;CopciAB 469713.T0&lt;br&gt;Location: 673718 - 678512" locus_tag="CopciAB_469713.T0" class="clusterblast-orf" id="dummy-2_q11_0_all"  />
+</g>
+<g label="NZ_CP054136" description="NZ_CP054136 (1990677-2012555): Bacillus altitudinis strain 11-1-1 chromosome,... (11% of genes show similarity), terpene" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area.html?record=NZ_CP054136&amp;start=1990677&amp;end=2012555" target="_blank">NZ_CP054136 (1990677-2012555)</a>: Bacillus altitudinis strain 11-1-1 chromosome,... (11% of genes show similarity), terpene</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a2_000"  >
+<polygon points="113,90 124,90 129,85 124,80 113,80 113,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;HRJ37_RS10190&lt;/b&gt;&lt;br&gt;superoxide dismutase family protein&lt;br&gt;Location: 2012307 - 2011729" locus_tag="HRJ37_RS10190" class="clusterblast-orf" id="dummy-2_h2_9_0"  />
+</g>
+<g id="a2_001"  >
+<polygon points="131,90 149,90 154,85 149,80 131,80 131,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;HRJ37_RS10185&lt;/b&gt;&lt;br&gt;MoxR family ATPase&lt;br&gt;Location: 2011639 - 2010761" locus_tag="HRJ37_RS10185" class="clusterblast-orf" id="dummy-2_h2_9_1"  />
+</g>
+<g id="a2_002"  >
+<polygon points="155,90 201,90 206,85 201,80 155,80 155,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;HRJ37_RS10180&lt;/b&gt;&lt;br&gt;VWA domain-containing protein&lt;br&gt;Location: 2010749 - 2008833" locus_tag="HRJ37_RS10180" class="clusterblast-orf" id="dummy-2_h2_9_2"  />
+</g>
+<g id="a2_003"  >
+<polygon points="212,90 282,90 287,85 282,80 212,80 212,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;HRJ37_RS10175&lt;/b&gt;&lt;br&gt;2-oxoglutarate dehydrogenase E1 component&lt;br&gt;Location: 2008608 - 2005774&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CopciAB_541099.T0&lt;/b&gt;&lt;br&gt;Percentage identity: 33&lt;br&gt;Percentage coverage: 97&lt;br&gt;BLAST bit score: 503&lt;br&gt;E-value: 2.34e-161" locus_tag="HRJ37_RS10175" class="clusterblast-orf" id="dummy-2_h2_9_3"  />
+</g>
+<g id="a2_004"  >
+<polygon points="288,90 316,90 321,85 316,80 288,80 288,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;HRJ37_RS10170&lt;/b&gt;&lt;br&gt;2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase&lt;br&gt;Location: 2005759 - 2004503" locus_tag="HRJ37_RS10170" class="clusterblast-orf" id="dummy-2_h2_9_4"  />
+</g>
+<g id="a2_005"  >
+<polygon points="322,85 327,80 347,80 347,90 327,90 322,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;HRJ37_RS10165&lt;/b&gt;&lt;br&gt;bile acid:sodium symporter family protein&lt;br&gt;Location: 2004471 - 2003521" locus_tag="HRJ37_RS10165" class="clusterblast-orf" id="dummy-2_h2_9_5"  />
+</g>
+<g id="a2_006"  >
+<polygon points="351,85 356,80 373,80 373,90 356,90 351,85 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;HRJ37_RS10160&lt;/b&gt;&lt;br&gt;superoxide dismutase&lt;br&gt;Location: 2003369 - 2002548&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CopciAB_420887.T0&lt;/b&gt;&lt;br&gt;Percentage identity: 44&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 171&lt;br&gt;E-value: 4.92e-51" locus_tag="HRJ37_RS10160" class="clusterblast-orf" id="dummy-2_h2_9_6"  />
+</g>
+<g id="a2_007"  >
+<polygon points="373,85 378,80 423,80 423,90 378,90 373,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;HRJ37_RS10155&lt;/b&gt;&lt;br&gt;squalene--hopene cyclase&lt;br&gt;Location: 2002555 - 2000678" locus_tag="HRJ37_RS10155" class="clusterblast-orf" id="dummy-2_h2_9_7"  />
+</g>
+<g id="a2_008"  >
+<polygon points="431,85 436,80 470,80 470,90 436,90 431,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;HRJ37_RS10150&lt;/b&gt;&lt;br&gt;aldehyde dehydrogenase family protein&lt;br&gt;Location: 2000380 - 1998896" locus_tag="HRJ37_RS10150" class="clusterblast-orf" id="dummy-2_h2_9_8"  />
+</g>
+<g id="a2_009"  >
+<polygon points="476,90 477,90 482,85 477,80 476,80 476,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;HRJ37_RS10145&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1998686 - 1998474" locus_tag="HRJ37_RS10145" class="clusterblast-orf" id="dummy-2_h2_9_9"  />
+</g>
+<g id="a2_0010"  >
+<polygon points="483,90 487,85 483,80 483,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;HRJ37_RS10140&lt;/b&gt;&lt;br&gt;YozQ family protein&lt;br&gt;Location: 1998424 - 1998287" locus_tag="HRJ37_RS10140" class="clusterblast-orf" id="dummy-2_h2_9_10"  />
+</g>
+<g id="a2_0011"  >
+<polygon points="494,90 498,90 503,85 498,80 494,80 494,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;HRJ37_RS10135&lt;/b&gt;&lt;br&gt;PH domain-containing protein&lt;br&gt;Location: 1998009 - 1997668" locus_tag="HRJ37_RS10135" class="clusterblast-orf" id="dummy-2_h2_9_11"  />
+</g>
+<g id="a2_0012"  >
+<polygon points="508,90 520,90 525,85 520,80 508,80 508,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;HRJ37_RS10130&lt;/b&gt;&lt;br&gt;SDR family oxidoreductase&lt;br&gt;Location: 1997490 - 1996843" locus_tag="HRJ37_RS10130" class="clusterblast-orf" id="dummy-2_h2_9_12"  />
+</g>
+<g id="a2_0013"  >
+<polygon points="528,90 536,90 541,85 536,80 528,80 528,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;HRJ37_RS10125&lt;/b&gt;&lt;br&gt;TraR/DksA C4-type zinc finger protein&lt;br&gt;Location: 1996753 - 1996253" locus_tag="HRJ37_RS10125" class="clusterblast-orf" id="dummy-2_h2_9_13"  />
+</g>
+<g id="a2_0014"  >
+<polygon points="553,90 595,90 600,85 595,80 553,80 553,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;HRJ37_RS10115&lt;/b&gt;&lt;br&gt;DNA helicase RecQ&lt;br&gt;Location: 1995798 - 1994017" locus_tag="HRJ37_RS10115" class="clusterblast-orf" id="dummy-2_h2_9_14"  />
+</g>
+<g id="a2_0015"  >
+<polygon points="607,90 623,90 628,85 623,80 607,80 607,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;HRJ37_RS10110&lt;/b&gt;&lt;br&gt;LysM peptidoglycan-binding domain-containing protein&lt;br&gt;Location: 1993760 - 1992969" locus_tag="HRJ37_RS10110" class="clusterblast-orf" id="dummy-2_h2_9_15"  />
+</g>
+<g id="a2_0016"  >
+<polygon points="632,85 637,80 646,80 646,90 637,90 632,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;HRJ37_RS10105&lt;/b&gt;&lt;br&gt;GNAT family N-acetyltransferase&lt;br&gt;Location: 1992816 - 1992310" locus_tag="HRJ37_RS10105" class="clusterblast-orf" id="dummy-2_h2_9_16"  />
+</g>
+<g id="a2_0017"  >
+<polygon points="651,90 661,90 666,85 661,80 651,80 651,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;HRJ37_RS10100&lt;/b&gt;&lt;br&gt;DUF420 domain-containing protein&lt;br&gt;Location: 1992105 - 1991566" locus_tag="HRJ37_RS10100" class="clusterblast-orf" id="dummy-2_h2_9_17"  />
+</g>
+</svg>

@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>BAC20567.1</td>
+              <td>HMG-CoA_reductase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000039/1">BGC0000039</a></td>
+              <td>Polyketide</td>
+              <td>39.0</td>
+              <td>85.5</td>
+              <td>610.0</td>
+              <td>8.44e-197</td>
+          </tr>
+    
+          <tr>
+              <td>ABA02245.1</td>
+              <td>HMG-CoA_reductase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000098/1">BGC0000098</a></td>
+              <td>Polyketide</td>
+              <td>60.0</td>
+              <td>32.2</td>
+              <td>503.0</td>
+              <td>1.45e-157</td>
+          </tr>
+    
+          <tr>
+              <td>AAD34556.1</td>
+              <td>hydroxymethylglutaryl-coenzyme_A_reductase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000088/1">BGC0000088</a></td>
+              <td>Polyketide</td>
+              <td>60.0</td>
+              <td>31.9</td>
+              <td>493.0</td>
+              <td>6.21e-154</td>
+          </tr>
+    
+          <tr>
+              <td>CBF85179.1</td>
+              <td>conserved_hypothetical_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000673/1">BGC0000673</a></td>
+              <td>Terpene</td>
+              <td>54.0</td>
+              <td>30.8</td>
+              <td>436.0</td>
+              <td>1.11e-140</td>
+          </tr>
+    
+          <tr>
+              <td>BAD86804.1</td>
+              <td>3-hydroxy-3-methylglutaryl-CoA_reductase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000286/1">BGC0000286</a></td>
+              <td>Polyketide</td>
+              <td>42.0</td>
+              <td>25.1</td>
+              <td>213.0</td>
+              <td>1.21e-60</td>
+          </tr>
+    
+          <tr>
+              <td>ABS50444.1</td>
+              <td>putative_HMG-CoA_reductase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001079/1">BGC0001079</a></td>
+              <td>Terpene+Polyketide:Type III polyketide</td>
+              <td>41.0</td>
+              <td>24.9</td>
+              <td>213.0</td>
+              <td>1.21e-60</td>
+          </tr>
+    
+          <tr>
+              <td>BAE78981.1</td>
+              <td>3-hydroxy-3-methylglutaryl-CoA_reductase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001078/1">BGC0001078</a></td>
+              <td>Terpene+Polyketide</td>
+              <td>42.0</td>
+              <td>25.1</td>
+              <td>210.0</td>
+              <td>7.45e-60</td>
+          </tr>
+    
+          <tr>
+              <td>AHW81465.1</td>
+              <td>EpaF</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000934/1">BGC0000934</a></td>
+              <td>Other:Phenazine</td>
+              <td>41.0</td>
+              <td>25.1</td>
+              <td>210.0</td>
+              <td>1.01e-59</td>
+          </tr>
+    
+          <tr>
+              <td>AGH68890.1</td>
+              <td>HMG-CoA_reductase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001083/1">BGC0001083</a></td>
+              <td>Terpene+Polyketide:Type III polyketide</td>
+              <td>41.0</td>
+              <td>25.1</td>
+              <td>207.0</td>
+              <td>1.21e-58</td>
+          </tr>
+    
+          <tr>
+              <td>CAX48660.1</td>
+              <td>3-hydroxy-3-methylglutaryl-CoA_reductase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001080/1">BGC0001080</a></td>
+              <td>Other:Phenazine</td>
+              <td>39.0</td>
+              <td>25.2</td>
+              <td>204.0</td>
+              <td>7.64e-58</td>
+          </tr>
+    
+          <tr>
+              <td>QDJ94221.1</td>
+              <td>SpzL</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002561/1">BGC0002561</a></td>
+              <td>Alkaloid</td>
+              <td>38.0</td>
+              <td>25.7</td>
+              <td>202.0</td>
+              <td>3.45e-57</td>
+          </tr>
+    
+          <tr>
+              <td>AVM80399.1</td>
+              <td>SepP</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001774/1">BGC0001774</a></td>
+              <td>Other</td>
+              <td>39.0</td>
+              <td>25.6</td>
+              <td>198.0</td>
+              <td>3.5e-52</td>
+          </tr>
+    
+          <tr>
+              <td>AEC13082.1</td>
+              <td>3-hydroxy-3-methylglutaryl_coenzyme_A_reductase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000060/1">BGC0000060</a></td>
+              <td>Polyketide</td>
+              <td>38.0</td>
+              <td>24.9</td>
+              <td>186.0</td>
+              <td>2.06e-48</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

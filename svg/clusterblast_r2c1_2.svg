@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="0,35 5,30 152,30 152,40 5,40 0,35 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_501747.T0&lt;/b&gt;&lt;br&gt;CopciAB 501747.T0&lt;br&gt;Location: 732617 - 737787" locus_tag="CopciAB_501747.T0" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="178,35 183,30 221,30 221,40 183,40 178,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_455217.T0&lt;/b&gt;&lt;br&gt;CopciAB 455217.T0&lt;br&gt;Location: 738658 - 740132" locus_tag="CopciAB_455217.T0" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="248,35 253,30 299,30 299,40 253,40 248,35 " style="fill:#77d815; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_124572.T0&lt;/b&gt;&lt;br&gt;CopciAB 124572.T0&lt;br&gt;Location: 741042 - 742784" locus_tag="CopciAB_124572.T0" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="365,40 412,40 417,35 412,30 365,30 365,40 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_124670.T0&lt;/b&gt;&lt;br&gt;CopciAB 124670.T0&lt;br&gt;Location: 745008 - 746793" locus_tag="CopciAB_124670.T0" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="427,40 463,40 468,35 463,30 427,30 427,40 " style="fill:#7715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_442940.T0&lt;/b&gt;&lt;br&gt;CopciAB 442940.T0&lt;br&gt;Location: 747133 - 748506" locus_tag="CopciAB_442940.T0" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="579,35 584,30 646,30 646,40 584,40 579,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_545850.T0&lt;/b&gt;&lt;br&gt;CopciAB 545850.T0&lt;br&gt;Location: 752294 - 754555" locus_tag="CopciAB_545850.T0" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="655,40 663,40 668,35 663,30 655,30 655,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_442944.T0&lt;/b&gt;&lt;br&gt;CopciAB 442944.T0&lt;br&gt;Location: 754859 - 755306" locus_tag="CopciAB_442944.T0" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+<polygon points="688,35 693,30 780,30 780,40 693,40 688,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_378005.T0&lt;/b&gt;&lt;br&gt;CopciAB 378005.T0&lt;br&gt;Location: 756004 - 759110" locus_tag="CopciAB_378005.T0" class="clusterblast-orf" id="dummy-1_q7_0_all"  />
+</g>
+<g label="CM008251" description="CM008251 (2469261-2491659): Phellinus noxius strain FFPRI411160 chromosome 1,... (66% of genes show similarity), terpene" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area.html?record=CM008251&amp;start=2469261&amp;end=2491659" target="_blank">CM008251 (2469261-2491659)</a>: Phellinus noxius strain FFPRI411160 chromosome 1,... (66% of genes show similarity), terpene</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="167,85 172,80 226,80 226,90 172,90 167,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;PNOK_0081900&lt;/b&gt;&lt;br&gt;FMN-linked oxidoreductase&lt;br&gt;Location: 2490059 - 2488068" locus_tag="PNOK_0081900" class="clusterblast-orf" id="dummy-1_h1_2_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="414,90 480,90 485,85 480,80 414,80 414,90 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;PNOK_0081800&lt;/b&gt;&lt;br&gt;terpenoid synthase&lt;br&gt;Location: 2481659 - 2479262&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CopciAB_124670.T0&lt;/b&gt;&lt;br&gt;Percentage identity: 67&lt;br&gt;Percentage coverage: 80&lt;br&gt;BLAST bit score: 481&lt;br&gt;E-value: 4.97e-166" locus_tag="PNOK_0081800" class="clusterblast-orf" id="dummy-1_h1_2_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="512,90 607,90 612,85 607,80 512,80 512,90 " style="fill:#7715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;PNOK_0081700&lt;/b&gt;&lt;br&gt;mnn4-regulates the mannosylphosphorylation&lt;br&gt;Location: 2478325 - 2474939&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CopciAB_442940.T0&lt;/b&gt;&lt;br&gt;Percentage identity: 63&lt;br&gt;Percentage coverage: 85&lt;br&gt;BLAST bit score: 372&lt;br&gt;E-value: 7.76e-124" locus_tag="PNOK_0081700" class="clusterblast-orf" id="dummy-1_h1_2_2"  />
+</g>
+</svg>

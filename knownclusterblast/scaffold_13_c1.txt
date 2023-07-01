@@ -1,0 +1,18 @@
+ClusterBlast scores for scaffold_13
+
+Table of genes, locations, strands and annotations of query cluster:
+CopciAB_354030.T0	468922	472323	+		
+CopciAB_1002650.T0	473155	473780	+		
+CopciAB_353834.T0	474853	476180	+		
+CopciAB_436777.T1	478750	482786	+		
+CopciAB_384680.T0	483888	485583	-		
+CopciAB_436779.T0	485894	488791	+		
+CopciAB_410865.T0	489703	490373	-		
+CopciAB_492524.T0	492834	495465	-		
+CopciAB_1002652.T0	497549	497908	-		
+
+
+Significant hits: 
+
+
+Details:

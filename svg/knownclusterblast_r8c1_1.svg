@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="0,35 5,30 8,30 8,40 5,40 0,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_1001712.T0&lt;/b&gt;&lt;br&gt;CopciAB 1001712.T0&lt;br&gt;Location: 586560 - 586847" locus_tag="CopciAB_1001712.T0" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="28,35 33,30 37,30 37,40 33,40 28,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_1001713.T0&lt;/b&gt;&lt;br&gt;CopciAB 1001713.T0&lt;br&gt;Location: 587532 - 587851" locus_tag="CopciAB_1001713.T0" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="54,35 59,30 63,30 63,40 59,40 54,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_394838.T0&lt;/b&gt;&lt;br&gt;CopciAB 394838.T0&lt;br&gt;Location: 588442 - 588759" locus_tag="CopciAB_394838.T0" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="78,35 83,30 156,30 156,40 83,40 78,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_394836.T0&lt;/b&gt;&lt;br&gt;CopciAB 394836.T0&lt;br&gt;Location: 589253 - 591957" locus_tag="CopciAB_394836.T0" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="177,40 213,40 218,35 213,30 177,30 177,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_446855.T0&lt;/b&gt;&lt;br&gt;CopciAB 446855.T0&lt;br&gt;Location: 592682 - 594117" locus_tag="CopciAB_446855.T0" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="227,35 232,30 241,30 241,40 232,40 227,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_446854.T0&lt;/b&gt;&lt;br&gt;CopciAB 446854.T0&lt;br&gt;Location: 594430 - 594896" locus_tag="CopciAB_446854.T0" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="257,40 344,40 349,35 344,30 257,30 257,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_496600.T0&lt;/b&gt;&lt;br&gt;CopciAB 496600.T0&lt;br&gt;Location: 595458 - 598647" locus_tag="CopciAB_496600.T0" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+<polygon points="425,40 456,40 461,35 456,30 425,30 425,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_559321.T0&lt;/b&gt;&lt;br&gt;CopciAB 559321.T0&lt;br&gt;Location: 601279 - 602509" locus_tag="CopciAB_559321.T0" class="clusterblast-orf" id="dummy-1_q7_0_all"  />
+<polygon points="588,35 593,30 615,30 615,40 593,40 588,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_201950.T0&lt;/b&gt;&lt;br&gt;CopciAB 201950.T0&lt;br&gt;Location: 606898 - 607858" locus_tag="CopciAB_201950.T0" class="clusterblast-orf" id="dummy-1_q8_0_all"  />
+<polygon points="646,35 651,30 654,30 654,40 651,40 646,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_1001716.T0&lt;/b&gt;&lt;br&gt;CopciAB 1001716.T0&lt;br&gt;Location: 608937 - 609195" locus_tag="CopciAB_1001716.T0" class="clusterblast-orf" id="dummy-1_q9_0_all"  />
+<polygon points="711,40 775,40 780,35 775,30 711,30 711,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CopciAB_496597.T0&lt;/b&gt;&lt;br&gt;CopciAB 496597.T0&lt;br&gt;Location: 611168 - 613550" locus_tag="CopciAB_496597.T0" class="clusterblast-orf" id="dummy-1_q10_0_all"  />
+</g>
+<g label="BGC0002708" description="BGC0002708_c1: (+)-δ-cadinol (100% of genes show similarity), Terpene" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://mibig.secondarymetabolites.org/go/BGC0002708/1" target="_blank">BGC0002708</a>: (+)-δ-cadinol                                                                    (100% of genes show similarity), Terpene</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="373,90 401,90 406,85 401,80 373,80 373,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;CONPUDRAFT_118913&lt;/b&gt;&lt;br&gt;terpene synthase&lt;br&gt;Location: 58 - 1233&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with CopciAB_559321.T0&lt;/b&gt;&lt;br&gt;Percentage identity: 51&lt;br&gt;Percentage coverage: 94&lt;br&gt;BLAST bit score: 348&lt;br&gt;E-value: 3.6e-119" locus_tag="CONPUDRAFT_118913" class="clusterblast-orf" id="dummy-1_h1_1_0"  />
+</g>
+</svg>
