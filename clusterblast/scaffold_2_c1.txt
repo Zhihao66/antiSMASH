@@ -1,0 +1,50 @@
+ClusterBlast scores for scaffold_2
+
+Table of genes, locations, strands and annotations of query cluster:
+CopciAB_501747.T0	732617	737787	-		
+CopciAB_455217.T0	738658	740132	-		
+CopciAB_124572.T0	741042	742784	-		
+CopciAB_124670.T0	745008	746793	+		
+CopciAB_442940.T0	747133	748506	+		
+CopciAB_545850.T0	752294	754555	-		
+CopciAB_442944.T0	754859	755306	+		
+CopciAB_378005.T0	756004	759110	-		
+
+
+Significant hits: 
+1. NW_009258198	Heterobasidion irregulare TC 32-1 unplaced genomic scaffold scaffold_02, whole genome shotgun sequence
+2. CM008251	Phellinus noxius strain FFPRI411160 chromosome 1, whole genome shotgun sequence
+
+
+Details:
+
+>>
+1. NW_009258198
+Source: Heterobasidion irregulare TC 32-1 unplaced genomic scaffold scaffold_02, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2770.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_501747.T0	HETIRDRAFT_60087	59	1642	100.46948356807512	0.0
+CopciAB_124572.T0	HETIRDRAFT_471579	52	314	99.09909909909909	2.11e-104
+CopciAB_124670.T0	HETIRDRAFT_167573	64	448	78.82352941176471	2.74e-155
+CopciAB_442940.T0	HETIRDRAFT_457678	55	366	102.09580838323353	1.18e-124
+
+
+
+>>
+2. CM008251
+Source: Phellinus noxius strain FFPRI411160 chromosome 1, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 853.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_124670.T0	PNOK_0081800	67	481	79.52941176470588	4.97e-166
+CopciAB_442940.T0	PNOK_0081700	63	372	85.32934131736528	7.76e-124
+

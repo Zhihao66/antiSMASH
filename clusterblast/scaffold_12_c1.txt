@@ -1,0 +1,56 @@
+ClusterBlast scores for scaffold_12
+
+Table of genes, locations, strands and annotations of query cluster:
+CopciAB_489010.T0	132333	133099	+		
+CopciAB_400867.T0	133617	134115	+		
+CopciAB_400867.T1	134002	134811	+		
+CopciAB_371400.T0	138811	140750	+		
+CopciAB_1002446.T0	141685	141958	+		
+CopciAB_451680.T0	142159	142676	-		
+CopciAB_371440.T0	143052	145338	+		
+CopciAB_437522.T0	146745	148078	+		
+CopciAB_489015.T0	149518	150404	+		
+CopciAB_371412.T0	150947	152265	-		
+CopciAB_499157.T0	153427	155578	-		
+CopciAB_1002447.T0	156030	156381	-		
+CopciAB_1002448.T0	157236	157902	+		
+CopciAB_437528.T0	158499	159177	+		
+
+
+Significant hits: 
+1. NZ_LN831790	Streptomyces leeuwenhoekii strain type strain (C34 = DSM 42122 = NRRL B-24963) chromosome 1
+2. NZ_CP010849	Streptomyces cyaneogriseus subsp. noncyanogenus strain NMWT 1 chromosome, complete genome
+
+
+Details:
+
+>>
+1. NZ_LN831790
+Source: Streptomyces leeuwenhoekii strain type strain (C34 = DSM 42122 = NRRL B-24963) chromosome 1
+Type: T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 414.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+BN2145_RS07320	BN2145_RS07320	1498367	1499212	+	LysR_family_transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_371412.T0	BN2145_RS07445	33	177	111.25	2.89e-48
+CopciAB_499157.T0	BN2145_RS07420	44	237	94.50261780104712	1.11e-72
+
+
+
+>>
+2. NZ_CP010849
+Source: Streptomyces cyaneogriseus subsp. noncyanogenus strain NMWT 1 chromosome, complete genome
+Type: T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 414.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+TU94_RS27890	TU94_RS27890	6656619	6657464	-	LysR_family_transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_371412.T0	TU94_RS27770	33	174	111.25	3.97e-47
+CopciAB_499157.T0	TU94_RS27795	44	240	94.50261780104712	7.1e-74
+

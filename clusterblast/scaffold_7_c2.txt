@@ -1,0 +1,115 @@
+ClusterBlast scores for scaffold_7
+
+Table of genes, locations, strands and annotations of query cluster:
+CopciAB_419547.T0	1623445	1623880	+		
+CopciAB_476959.T0	1625642	1625995	+		
+CopciAB_363200.T0	1626078	1627074	-		
+CopciAB_1001580.T0	1627996	1628155	+		
+CopciAB_1001581.T0	1628601	1632753	-		
+CopciAB_1001582.T0	1632910	1635157	+		
+CopciAB_1001583.T0	1635569	1635731	-		
+CopciAB_443341.T0	1636156	1637423	+		
+CopciAB_362075.T0	1637990	1638388	+		
+CopciAB_362075.T1	1638331	1639232	+		
+CopciAB_495583.T0	1639579	1643041	+		
+CopciAB_495582.T0	1643258	1645778	-		
+CopciAB_495582.T1	1644616	1644651	-		
+CopciAB_1001584.T0	1647295	1648121	+		
+CopciAB_466786.T0	1648529	1650649	+		
+CopciAB_540189.T0	1650866	1652186	-		
+CopciAB_1001585.T0	1652335	1652476	+		
+
+
+Significant hits: 
+1. NW_020939753	Sparassis crispa DNA, contig_000006F, whole genome shotgun sequence
+2. NW_009258201	Heterobasidion irregulare TC 32-1 unplaced genomic scaffold scaffold_05, whole genome shotgun sequence
+3. NW_003315670	Schizophyllum commune H4-8 unplaced genomic scaffold SCHCOscaffold_3, whole genome shotgun sequence
+4. CM008257	Phellinus noxius strain FFPRI411160 chromosome 7, whole genome shotgun sequence
+5. NW_006267370	Agaricus bisporus var. bisporus H97 unplaced genomic scaffold AGABI2scaffold_7, whole genome shotgun sequence
+
+
+Details:
+
+>>
+1. NW_020939753
+Source: Sparassis crispa DNA, contig_000006F, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 1306.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_476959.T0	SCP_0701310	64	123	89.58333333333334	2.63e-36
+CopciAB_363200.T0	SCP_0701320	45	139	70.06802721088435	8.64e-38
+CopciAB_362075.T0	SCP_0701300	53	105	97.2972972972973	1.23e-26
+CopciAB_362075.T1	SCP_0701300	68	327	100.42918454935624	4.62e-111
+CopciAB_495583.T0	SCP_0701290	43	612	104.37352245862883	5.88e-206
+
+
+
+>>
+2. NW_009258201
+Source: Heterobasidion irregulare TC 32-1 unplaced genomic scaffold scaffold_05, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1582.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_362075.T0	HETIRDRAFT_173241	52	102	84.68468468468468	1.1e-25
+CopciAB_362075.T1	HETIRDRAFT_173241	65	311	100.0	5.56e-105
+CopciAB_495583.T0	HETIRDRAFT_434108	42	611	105.08274231678487	1.29e-205
+CopciAB_540189.T0	HETIRDRAFT_118046	77	558	100.0	3.99e-200
+
+
+
+>>
+3. NW_003315670
+Source: Schizophyllum commune H4-8 unplaced genomic scaffold SCHCOscaffold_3, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1068.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_476959.T0	SCHCODRAFT_52847	50	100	91.66666666666666	2.29e-27
+CopciAB_362075.T0	SCHCODRAFT_52466	54	106	86.48648648648648	6.56e-27
+CopciAB_362075.T1	SCHCODRAFT_52466	67	310	100.42918454935624	1.21e-104
+CopciAB_495583.T0	SCHCODRAFT_106866	41	552	100.47281323877068	1.57e-183
+
+
+
+>>
+4. CM008257
+Source: Phellinus noxius strain FFPRI411160 chromosome 7, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 616.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_476959.T0	PNOK_0726000	58	104	87.5	1.38e-28
+CopciAB_363200.T0	PNOK_0725900	59	128	40.476190476190474	8.7e-34
+CopciAB_362075.T0	PNOK_0726100	55	97	78.37837837837837	2.82e-23
+CopciAB_362075.T1	PNOK_0726100	63	287	100.85836909871244	2.14e-95
+
+
+
+>>
+5. NW_006267370
+Source: Agaricus bisporus var. bisporus H97 unplaced genomic scaffold AGABI2scaffold_7, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 519.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_476959.T0	AGABI2DRAFT_223864	67	128	92.70833333333334	3.36e-38
+CopciAB_362075.T0	AGABI2DRAFT_206868	54	106	82.88288288288288	8.09e-27
+CopciAB_362075.T1	AGABI2DRAFT_206868	58	285	109.4420600858369	1.91e-94
+

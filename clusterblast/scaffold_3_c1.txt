@@ -1,0 +1,59 @@
+ClusterBlast scores for scaffold_3
+
+Table of genes, locations, strands and annotations of query cluster:
+CopciAB_467191.T0	865635	867502	+		
+CopciAB_141512.T0	867640	869935	-		
+CopciAB_519084.T0	870387	871382	-		
+CopciAB_495707.T0	872353	873585	-		
+CopciAB_10026296.T1	873746	873902	-		
+CopciAB_10026296.T0	873746	873963	-		
+CopciAB_467195.T0	874282	876644	+		
+CopciAB_141635.T0	877502	878702	+		
+CopciAB_443805.T0	879908	881256	-		
+CopciAB_141731.T0	883042	884722	+		
+CopciAB_141718.T0	885536	887627	-		
+CopciAB_1000642.T0	887943	888276	-		
+CopciAB_362485.T0	891220	892508	-		
+CopciAB_519105.T0	892712	894789	+		
+
+
+Significant hits: 
+1. NW_006267366	Agaricus bisporus var. bisporus H97 unplaced genomic scaffold AGABI2scaffold_3, whole genome shotgun sequence
+2. NW_009258200	Heterobasidion irregulare TC 32-1 unplaced genomic scaffold scaffold_04, whole genome shotgun sequence
+
+
+Details:
+
+>>
+1. NW_006267366
+Source: Agaricus bisporus var. bisporus H97 unplaced genomic scaffold AGABI2scaffold_3, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 1956.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_443805.T0	AGABI2DRAFT_183802	60	419	85.97402597402596	7.28e-145
+CopciAB_141731.T0	AGABI2DRAFT_115952	31	196	112.73062730627305	3.81e-53
+CopciAB_141718.T0	AGABI2DRAFT_191081	68	521	55.30546623794213	2.94e-178
+CopciAB_362485.T0	AGABI2DRAFT_66741	80	147	38.46153846153847	4.16e-43
+CopciAB_519105.T0	AGABI2DRAFT_191077	73	673	99.37369519832986	1.71e-241
+
+
+
+>>
+2. NW_009258200
+Source: Heterobasidion irregulare TC 32-1 unplaced genomic scaffold scaffold_04, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1528.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_443805.T0	HETIRDRAFT_382802	53	375	84.93506493506493	2.01e-127
+CopciAB_443805.T0	HETIRDRAFT_458479	52	357	84.67532467532467	2.33e-120
+CopciAB_362485.T0	HETIRDRAFT_450525	76	152	93.16239316239316	6.64e-44
+CopciAB_519105.T0	HETIRDRAFT_382796	71	644	97.7035490605428	5.4e-230
+

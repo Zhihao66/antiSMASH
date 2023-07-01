@@ -1,0 +1,108 @@
+ClusterBlast scores for scaffold_6
+
+Table of genes, locations, strands and annotations of query cluster:
+CopciAB_371017.T0	2093406	2095495	-		
+CopciAB_437319.T0	2095709	2098625	+		
+CopciAB_451551.T0	2100402	2101672	+		
+CopciAB_1001422.T0	2101912	2102322	-		
+CopciAB_371026.T0	2104427	2105803	+		
+CopciAB_479810.T0	2106862	2108523	-		
+CopciAB_462110.T0	2109703	2111071	+		
+CopciAB_479811.T0	2112187	2115168	-		
+CopciAB_437330.T0	2115617	2118434	-		
+CopciAB_400550.T0	2118626	2119582	-		
+CopciAB_371032.T0	2119727	2121724	-		
+CopciAB_14244.T0	2122378	2128385	-		
+CopciAB_14270.T0	2129063	2130034	-		
+CopciAB_14270.T1	2129742	2129900	-		
+CopciAB_1001423.T0	2130659	2132871	+		
+CopciAB_14289.T1	2133369	2134890	+		
+CopciAB_371009.T0	2134905	2136408	-		
+CopciAB_479819.T0	2136781	2138320	-		
+CopciAB_437340.T0	2138643	2140134	+		
+CopciAB_499021.T0	2141199	2143880	+		
+CopciAB_447960.T0	2145391	2146814	-		
+CopciAB_503824.T0	2147951	2148757	+		
+CopciAB_503823.T0	2149577	2150788	+		
+CopciAB_503822.T0	2151129	2152579	-		
+CopciAB_492429.T1	2154421	2155152	-		
+CopciAB_492429.T0	2154428	2154432	-		
+CopciAB_492429.T2	2154494	2155646	-		
+CopciAB_1001424.T0	2156150	2157249	-		
+
+
+Significant hits: 
+1. NW_006267369	Agaricus bisporus var. bisporus H97 unplaced genomic scaffold AGABI2scaffold_6, whole genome shotgun sequence
+2. NW_003315669	Schizophyllum commune H4-8 unplaced genomic scaffold SCHCOscaffold_4, whole genome shotgun sequence
+3. NZ_CM001776	Synechococcus sp. PCC 7336 chromosome, whole genome shotgun sequence
+4. NZ_CP046172	Nocardia arthritidis strain AUSMDU00012717 chromosome, complete genome
+
+
+Details:
+
+>>
+1. NW_006267369
+Source: Agaricus bisporus var. bisporus H97 unplaced genomic scaffold AGABI2scaffold_6, whole genome shotgun sequence
+Type: NRPS-like
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 4146.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_479811.T0	AGABI2DRAFT_185804	72	468	69.38325991189427	1.76e-163
+CopciAB_437330.T0	AGABI2DRAFT_193086	91	1445	100.24509803921569	0.0
+CopciAB_400550.T0	AGABI2DRAFT_143504	61	285	99.57446808510639	1.64e-96
+CopciAB_14244.T0	AGABI2DRAFT_70890	55	1755	96.39692852923804	0.0
+CopciAB_14270.T0	AGABI2DRAFT_222531	55	193	77.27272727272727	5.25e-60
+
+
+
+>>
+2. NW_003315669
+Source: Schizophyllum commune H4-8 unplaced genomic scaffold SCHCOscaffold_4, whole genome shotgun sequence
+Type: NRPS-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 2606.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_479811.T0	SCHCODRAFT_53861	75	522	72.24669603524228	3.47e-184
+CopciAB_14244.T0	SCHCODRAFT_67624	57	1762	93.44359125812167	0.0
+CopciAB_14270.T0	SCHCODRAFT_108425	51	181	80.9090909090909	7.05e-55
+CopciAB_14270.T0	SCHCODRAFT_54368	45	141	79.0909090909091	8.46e-40
+
+
+
+>>
+3. NZ_CM001776
+Source: Synechococcus sp. PCC 7336 chromosome, whole genome shotgun sequence
+Type: NRPS,terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 438.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+SYN7336_RS29895	SYN7336_RS29895	3152899	3153021	+	CopG_family_transcriptional_regulator
+SYN7336_RS30975	SYN7336_RS30975	3154230	3155114	+	hypothetical_protein
+SYN7336_RS15160	SYN7336_RS15160	3157244	3157483	+	transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_437330.T0	SYN7336_RS15055	42	192	29.044117647058826	5.98e-50
+CopciAB_14244.T0	SYN7336_RS26110	36	246	28.470171293561723	1.95e-67
+
+
+
+>>
+4. NZ_CP046172
+Source: Nocardia arthritidis strain AUSMDU00012717 chromosome, complete genome
+Type: NRPS,bacteriocin
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 151.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_371017.T0	F5544_RS40660	31	81	51.886792452830186	5.33e-14
+CopciAB_14244.T0	F5544_RS40715	32	70	10.277613703484938	1.85e-09
+

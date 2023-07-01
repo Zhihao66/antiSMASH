@@ -1,0 +1,186 @@
+ClusterBlast scores for scaffold_3
+
+Table of genes, locations, strands and annotations of query cluster:
+CopciAB_485193.T0	1414810	1416979	+		
+CopciAB_452092.T0	1417417	1418394	+		
+CopciAB_462760.T0	1418847	1419955	-		
+CopciAB_438130.T0	1420793	1421920	-		
+CopciAB_438131.T0	1422451	1423833	-		
+CopciAB_30507.T0	1424014	1424912	+		
+CopciAB_1000673.T0	1425727	1426280	+		
+CopciAB_1000674.T0	1426398	1427484	+		
+CopciAB_30510.T0	1427831	1429089	+		
+CopciAB_358591.T0	1430058	1433651	-		
+CopciAB_438138.T0	1433887	1434547	+		
+CopciAB_485202.T0	1435028	1436789	+		
+CopciAB_358738.T0	1437350	1443453	-		
+
+
+Significant hits: 
+1. NW_006267366	Agaricus bisporus var. bisporus H97 unplaced genomic scaffold AGABI2scaffold_3, whole genome shotgun sequence
+2. NW_009258200	Heterobasidion irregulare TC 32-1 unplaced genomic scaffold scaffold_04, whole genome shotgun sequence
+3. NW_020939759	Sparassis crispa DNA, contig_000012F, whole genome shotgun sequence
+4. NW_003315668	Schizophyllum commune H4-8 unplaced genomic scaffold SCHCOscaffold_5, whole genome shotgun sequence
+5. NZ_LELK01000004	Anaerobacillus macyae strain DSM 16346 scaffold2, whole genome shotgun sequence
+6. NC_019757	Cylindrospermum stagnale PCC 7417, complete sequence
+7. NZ_KE386748	Chitinimonas koreensis DSM 17726 F559DRAFT_scaffold00003.3, whole genome shotgun sequence
+8. NZ_HE578946	Metakosakonia massiliensis JC163 strain type strain: JC163, whole genome shotgun sequence
+9. NZ_CP049107	Sphingomonas sp. MK52 chromosome, complete genome
+
+
+Details:
+
+>>
+1. NW_006267366
+Source: Agaricus bisporus var. bisporus H97 unplaced genomic scaffold AGABI2scaffold_3, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 8
+Cumulative BLAST score: 3938.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_462760.T0	AGABI2DRAFT_149467	85	361	99.06976744186046	1.48e-126
+CopciAB_438130.T0	AGABI2DRAFT_191304	55	278	100.76923076923077	1.63e-92
+CopciAB_438131.T0	AGABI2DRAFT_65527	61	329	61.029411764705884	1.98e-110
+CopciAB_30507.T0	AGABI2DRAFT_191302	78	332	100.0	2.69e-115
+CopciAB_30510.T0	AGABI2DRAFT_149463	62	444	99.42028985507247	1.52e-155
+CopciAB_358591.T0	AGABI2DRAFT_66698	69	1211	99.45295404814004	0.0
+CopciAB_438138.T0	AGABI2DRAFT_66100	58	182	98.77300613496932	1.84e-57
+CopciAB_485202.T0	AGABI2DRAFT_191298	85	801	97.75510204081633	6.63e-292
+
+
+
+>>
+2. NW_009258200
+Source: Heterobasidion irregulare TC 32-1 unplaced genomic scaffold scaffold_04, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 3342.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_438130.T0	HETIRDRAFT_107017	51	207	84.61538461538461	6.56e-65
+CopciAB_438131.T0	HETIRDRAFT_450585	59	315	60.78431372549019	3.79e-105
+CopciAB_30507.T0	HETIRDRAFT_315674	74	315	100.0	1.35e-108
+CopciAB_30510.T0	HETIRDRAFT_382866	60	395	94.20289855072464	2.44e-136
+CopciAB_358591.T0	HETIRDRAFT_439505	66	1162	100.65645514223193	0.0
+CopciAB_438138.T0	HETIRDRAFT_416896	60	176	93.86503067484662	2.88e-55
+CopciAB_485202.T0	HETIRDRAFT_316739	84	772	97.14285714285714	9.83e-281
+
+
+
+>>
+3. NW_020939759
+Source: Sparassis crispa DNA, contig_000012F, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 2619.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_438130.T0	SCP_1300620	49	208	86.92307692307692	4.49e-65
+CopciAB_438131.T0	SCP_1300630	63	539	101.22549019607843	7.67e-191
+CopciAB_30507.T0	SCP_1300640	77	323	100.0	4.25e-112
+CopciAB_30510.T0	SCP_1300650	61	424	94.4927536231884	1.79e-147
+CopciAB_30510.T0	SCP_1300670	49	326	94.4927536231884	6.79e-109
+CopciAB_485202.T0	SCP_1300660	85	799	98.9795918367347	7.25e-291
+
+
+
+>>
+4. NW_003315668
+Source: Schizophyllum commune H4-8 unplaced genomic scaffold SCHCOscaffold_5, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1396.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_438130.T0	SCHCODRAFT_67794	52	250	102.69230769230768	1.67e-81
+CopciAB_438131.T0	SCHCODRAFT_56114	63	468	87.99019607843137	2.38e-163
+CopciAB_30507.T0	SCHCODRAFT_55942	74	307	99.03846153846155	1.61e-105
+CopciAB_30510.T0	SCHCODRAFT_15679	52	371	98.84057971014492	1.21e-126
+
+
+
+>>
+5. NZ_LELK01000004
+Source: Anaerobacillus macyae strain DSM 16346 scaffold2, whole genome shotgun sequence
+Type: betalactone
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 364.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_358591.T0	AB986_RS14690	33	186	47.04595185995623	6.14e-48
+CopciAB_485202.T0	AB986_RS14740	31	178	78.9795918367347	4.46e-48
+
+
+
+>>
+6. NC_019757
+Source: Cylindrospermum stagnale PCC 7417, complete sequence
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 354.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+CYLST_RS02150	CYLST_RS02150	479131	482130	+	NACHT_domain-containing_NTPase
+CYLST_RS34065	CYLST_RS34065	514154	514327	+	ISNCY_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_358591.T0	CYLST_RS02305	41	265	39.82494529540481	2.41e-78
+CopciAB_358738.T0	CYLST_RS02165	32	89	18.28718609143593	1.38e-15
+
+
+
+>>
+7. NZ_KE386748
+Source: Chitinimonas koreensis DSM 17726 F559DRAFT_scaffold00003.3, whole genome shotgun sequence
+Type: NRPS,hserlactone
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 347.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_358591.T0	F559_RS0119220	41	251	40.153172866520784	2.74e-73
+CopciAB_358738.T0	F559_RS26600	32	96	18.480360592401805	6.4e-18
+
+
+
+>>
+8. NZ_HE578946
+Source: Metakosakonia massiliensis JC163 strain type strain: JC163, whole genome shotgun sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 346.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+ENTHG_RS12480	ENTHG_RS12480	432310	433538	-	beta-ketoacyl-ACP_synthase
+ENTHG_RS12530	ENTHG_RS12530	441824	443184	-	acyl-CoA_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_358591.T0	ENTHG_RS12585	40	243	41.2472647702407	3.3e-70
+CopciAB_358738.T0	ENTHG_RS12575	39	103	10.367031551835158	1.54e-21
+
+
+
+>>
+9. NZ_CP049107
+Source: Sphingomonas sp. MK52 chromosome, complete genome
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 270.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_358591.T0	G6P88_RS04040	33	186	41.2472647702407	9.97e-50
+CopciAB_358738.T0	G6P88_RS03920	33	84	11.59047005795235	1.24e-14
+

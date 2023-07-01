@@ -1,0 +1,841 @@
+ClusterBlast scores for scaffold_8
+
+Table of genes, locations, strands and annotations of query cluster:
+CopciAB_469722.T0	649236	649961	+		
+CopciAB_201601.T0	651747	653564	-		
+CopciAB_469720.T0	653660	655465	-		
+CopciAB_541099.T0	655733	659479	-		
+CopciAB_420898.T0	660230	662345	-		
+CopciAB_394772.T0	663413	664616	+		
+CopciAB_201523.T0	665622	667713	-		
+CopciAB_469716.T0	668642	669560	+		
+CopciAB_469716.T1	668777	668971	+		
+CopciAB_469715.T0	669921	671113	-		
+CopciAB_420887.T0	671972	672696	-		
+CopciAB_469713.T0	673718	678512	+		
+
+
+Significant hits: 
+1. NW_009258205	Heterobasidion irregulare TC 32-1 unplaced genomic scaffold scaffold_09, whole genome shotgun sequence
+2. NW_009258203	Heterobasidion irregulare TC 32-1 unplaced genomic scaffold scaffold_07, whole genome shotgun sequence
+3. NW_009258202	Heterobasidion irregulare TC 32-1 unplaced genomic scaffold scaffold_06, whole genome shotgun sequence
+4. CM008254	Phellinus noxius strain FFPRI411160 chromosome 4, whole genome shotgun sequence
+5. NW_008751654	Exophiala dermatitidis NIH/UT8656 unplaced genomic scaffold supercont1.9, whole genome shotgun sequence
+6. NZ_CP055263	Metabacillus sp. KUDC1714 chromosome, complete genome
+7. NZ_PVME01000001	Bacillus sp. LLTC93 NODE_1_length_957486_cov_75.6501, whole genome shotgun sequence
+8. NZ_CP043559	Bacillus altitudinis strain CHB19 chromosome, complete genome
+9. NZ_CP054136	Bacillus altitudinis strain 11-1-1 chromosome, complete genome
+10. NZ_JOVS02000002	Bacillus altitudinis strain B-388 scaffold00002, whole genome shotgun sequence
+11. NZ_LR732831	Bacillus sp. 348 isolate Bacillus sp. 348, whole genome shotgun sequence
+12. NZ_CP016784	Bacillus pumilus strain PDSLzg-1, complete genome
+13. NZ_PVQW01000004	Bacillus pumilus strain LNXM70 NODE_4_length_365299_cov_50.44, whole genome shotgun sequence
+14. NZ_CP012600	Bacillus gobiensis strain FJAT-4402 chromosome
+15. NC_009848	Bacillus pumilus SAFR-032, complete sequence
+16. NZ_CP027034	Bacillus pumilus strain 150a chromosome, complete genome
+17. NZ_CP047089	Bacillus pumilus strain SF-4 chromosome
+18. NZ_VEFG01000012	Bacillus pumilus strain DE0146 NODE_12_length_121817_cov_13.505684, whole genome shotgun sequence
+19. NZ_VEIA01000013	Bacillus pumilus SAFR-032 strain DE0037 NODE_13_length_100977_cov_28.606383, whole genome shotgun sequence
+20. NZ_VECA01000014	Bacillus pumilus strain DE0264 NODE_14_length_71900_cov_50.296807, whole genome shotgun sequence
+21. NZ_CP029464	Bacillus pumilus strain ZB201701 chromosome, complete genome
+22. NZ_PVQY01000005	Bacillus sp. GBSC66 NODE_5_length_356281_cov_49.2537, whole genome shotgun sequence
+23. NZ_PVRB01000004	Bacillus sp. LNXM65 NODE_4_length_407011_cov_74.5707, whole genome shotgun sequence
+24. NZ_PVRD01000001	Bacillus sp. LNXM10 NODE_1_length_759677_cov_63.2486, whole genome shotgun sequence
+25. NZ_PVRH01000003	Bacillus sp. NMTD17 NODE_3_length_535767_cov_47.1619, whole genome shotgun sequence
+26. NZ_UWJF01000001	Bacillus safensis isolate Bacillus pumilus NRS576, whole genome shotgun sequence
+27. NZ_CP010997	Bacillus pumilus strain SH-B11, complete genome
+28. NZ_CP022319	Bacillus altitudinis strain SGAir0031 chromosome, complete genome
+29. NZ_CP038517	Bacillus altitudinis strain SCU11 chromosome, complete genome
+30. NZ_JACAAI010000037	Bacillus altitudinis strain T5S-T4 NODE_12, whole genome shotgun sequence
+31. NZ_LR732836	Bacillus sp. 9J isolate Bacillus sp. 9J, whole genome shotgun sequence
+32. NZ_LT906438	Bacillus pumilus strain NCTC10337 chromosome 1
+33. NZ_PTXV01000001	Bacillus pumilus strain Ha06YP001 Contig_01, whole genome shotgun sequence
+34. NZ_PVQT01000001	Bacillus pumilus strain LLTC96 NODE_1_length_629001_cov_60.9678, whole genome shotgun sequence
+35. NZ_PVQU01000003	Bacillus pumilus strain NMSW10 NODE_3_length_466150_cov_46.6815, whole genome shotgun sequence
+36. NZ_PVQV01000001	Bacillus pumilus strain LDZX38 NODE_1_length_1296852_cov_41.1032, whole genome shotgun sequence
+37. NZ_CP011007	Bacillus pumilus strain SH-B9 chromosome, complete genome
+38. NZ_CP058951	Bacillus pumilus strain UAMX chromosome, complete genome
+39. NZ_CP015607	Bacillus safensis strain U14-5, complete genome
+40. NZ_CP060290	Bacillus sp. PAMC22265 chromosome, complete genome
+41. NZ_SOBQ01000002	Bacillus sp. BK450 Ga0307706_102, whole genome shotgun sequence
+42. NZ_VIWS01000002	Bacillus safensis strain 3300 Ga0365450_102, whole genome shotgun sequence
+43. NZ_LMJV01000007	Bacillus sp. Root920 contig_2, whole genome shotgun sequence
+44. NZ_FPJL01000028	Bacillus altitudinis strain RU9509.4, whole genome shotgun sequence
+45. NZ_CP040514	Bacillus altitudinis strain GQYP101 chromosome, complete genome
+46. NZ_CP018197	Bacillus safensis strain KCTC 12796BP chromosome, complete genome
+47. NZ_PVRE01000006	Bacillus sp. MZGC1 NODE_6_length_286014_cov_53.6732, whole genome shotgun sequence
+48. NZ_CP043404	Bacillus safensis strain PgKB20 chromosome, complete genome
+49. NZ_CP009108	Bacillus altitudinis strain GR-8 chromosome, complete genome
+50. NZ_CP014165	Bacillus altitudinis strain ku-bf1 chromosome
+
+
+Details:
+
+>>
+1. NW_009258205
+Source: Heterobasidion irregulare TC 32-1 unplaced genomic scaffold scaffold_09, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 2039.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_420898.T0	HETIRDRAFT_164132	42	384	91.06463878326996	1.08e-126
+CopciAB_420898.T0	HETIRDRAFT_107765	40	371	95.81749049429658	1.96e-121
+CopciAB_420898.T0	HETIRDRAFT_67496	32	295	97.52851711026615	7.86e-92
+CopciAB_201523.T0	HETIRDRAFT_107765	39	354	94.5631067961165	5.5e-115
+CopciAB_201523.T0	HETIRDRAFT_164132	37	349	95.92233009708738	3.46e-113
+CopciAB_201523.T0	HETIRDRAFT_67496	34	286	95.53398058252426	2.06e-88
+
+
+
+>>
+2. NW_009258203
+Source: Heterobasidion irregulare TC 32-1 unplaced genomic scaffold scaffold_07, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1704.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_420898.T0	HETIRDRAFT_171910	37	338	98.85931558935361	1.73e-108
+CopciAB_420898.T0	HETIRDRAFT_49239	33	287	93.91634980988593	1.01e-88
+CopciAB_420898.T0	HETIRDRAFT_155828	34	239	82.31939163498099	2.5e-71
+CopciAB_201523.T0	HETIRDRAFT_171910	36	324	102.33009708737863	4.13e-103
+CopciAB_201523.T0	HETIRDRAFT_49239	38	300	94.5631067961165	6.55e-94
+CopciAB_201523.T0	HETIRDRAFT_155828	32	216	84.46601941747572	6.23e-63
+
+
+
+>>
+3. NW_009258202
+Source: Heterobasidion irregulare TC 32-1 unplaced genomic scaffold scaffold_06, whole genome shotgun sequence
+Type: NRPS-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1319.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_420898.T0	HETIRDRAFT_169912	36	342	97.33840304182509	2.66e-110
+CopciAB_420898.T0	HETIRDRAFT_169914	37	317	91.06463878326996	1.72e-100
+CopciAB_201523.T0	HETIRDRAFT_169912	36	340	92.03883495145631	1.05e-109
+CopciAB_201523.T0	HETIRDRAFT_169914	36	320	91.6504854368932	7.85e-102
+
+
+
+>>
+4. CM008254
+Source: Phellinus noxius strain FFPRI411160 chromosome 4, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1132.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_420898.T0	PNOK_0437700	37	296	80.6083650190114	2.28e-93
+CopciAB_420898.T0	PNOK_0438100	34	290	95.62737642585552	4.94e-90
+CopciAB_201523.T0	PNOK_0437700	35	273	82.13592233009709	1.43e-84
+CopciAB_201523.T0	PNOK_0438100	34	273	95.53398058252426	1.66e-83
+
+
+
+>>
+5. NW_008751654
+Source: Exophiala dermatitidis NIH/UT8656 unplaced genomic scaffold supercont1.9, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1063.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_420898.T0	HMPREF1120_09193	35	290	96.1977186311787	7.02e-90
+CopciAB_420898.T0	HMPREF1120_09197	33	282	93.34600760456274	1.61e-86
+CopciAB_201523.T0	HMPREF1120_09197	32	263	95.92233009708738	2e-79
+CopciAB_201523.T0	HMPREF1120_09193	33	228	88.3495145631068	3.4e-66
+
+
+
+>>
+6. NZ_CP055263
+Source: Metabacillus sp. KUDC1714 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 677.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	HUW50_RS25480	35	516	95.78947368421052	1.43e-166
+CopciAB_420887.T0	HUW50_RS25465	41	161	98.52941176470588	5.04e-47
+
+
+
+>>
+7. NZ_PVME01000001
+Source: Bacillus sp. LLTC93 NODE_1_length_957486_cov_75.6501, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 676.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	C6W18_RS01160	34	507	96.63157894736842	5.55e-163
+CopciAB_420887.T0	C6W18_RS01145	45	169	98.0392156862745	2.78e-50
+
+
+
+>>
+8. NZ_CP043559
+Source: Bacillus altitudinis strain CHB19 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 674.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+EVS87_RS09760	EVS87_RS09760	1919790	1919974	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	EVS87_RS09785	33	503	96.52631578947368	2.34e-161
+CopciAB_420887.T0	EVS87_RS09770	44	171	99.01960784313727	4.92e-51
+
+
+
+>>
+9. NZ_CP054136
+Source: Bacillus altitudinis strain 11-1-1 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 674.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	HRJ37_RS10175	33	503	96.52631578947368	2.34e-161
+CopciAB_420887.T0	HRJ37_RS10160	44	171	99.01960784313727	4.92e-51
+
+
+
+>>
+10. NZ_JOVS02000002
+Source: Bacillus altitudinis strain B-388 scaffold00002, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 674.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+HQ51_RS10610	HQ51_RS10610	720812	721037	+	hypothetical_protein
+HQ51_RS10645	HQ51_RS10645	725620	727402	+	DNA_helicase_RecQ
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	HQ51_RS10585	33	503	96.52631578947368	2.34e-161
+CopciAB_420887.T0	HQ51_RS10600	44	171	99.01960784313727	4.92e-51
+
+
+
+>>
+11. NZ_LR732831
+Source: Bacillus sp. 348 isolate Bacillus sp. 348, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 674.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	YERSI8AC_RS07810	33	503	96.52631578947368	2.34e-161
+CopciAB_420887.T0	YERSI8AC_RS07795	44	171	99.01960784313727	4.92e-51
+
+
+
+>>
+12. NZ_CP016784
+Source: Bacillus pumilus strain PDSLzg-1, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 673.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	BEN31_RS06600	34	506	96.63157894736842	1.1e-162
+CopciAB_420887.T0	BEN31_RS06615	44	167	97.54901960784314	7.84e-50
+
+
+
+>>
+13. NZ_PVQW01000004
+Source: Bacillus pumilus strain LNXM70 NODE_4_length_365299_cov_50.44, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 673.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	C6X98_RS08420	34	506	96.52631578947368	1.1e-162
+CopciAB_420887.T0	C6X98_RS08405	44	167	97.54901960784314	1.57e-49
+
+
+
+>>
+14. NZ_CP012600
+Source: Bacillus gobiensis strain FJAT-4402 chromosome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 672.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	AM592_RS06655	35	514	96.73684210526315	8.62e-166
+CopciAB_420887.T0	AM592_RS06635	40	158	99.50980392156863	4.69e-46
+
+
+
+>>
+15. NC_009848
+Source: Bacillus pumilus SAFR-032, complete sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 672.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	BPUM_RS09360	34	506	96.63157894736842	7.8e-163
+CopciAB_420887.T0	BPUM_RS09345	45	166	97.54901960784314	2.21e-49
+
+
+
+>>
+16. NZ_CP027034
+Source: Bacillus pumilus strain 150a chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 672.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	C5Y82_RS09795	34	506	96.63157894736842	7.8e-163
+CopciAB_420887.T0	C5Y82_RS09780	45	166	97.54901960784314	2.21e-49
+
+
+
+>>
+17. NZ_CP047089
+Source: Bacillus pumilus strain SF-4 chromosome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 672.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	GPS65_RS11185	34	506	96.63157894736842	7.8e-163
+CopciAB_420887.T0	GPS65_RS11170	45	166	97.54901960784314	2.21e-49
+
+
+
+>>
+18. NZ_VEFG01000012
+Source: Bacillus pumilus strain DE0146 NODE_12_length_121817_cov_13.505684, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 672.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	FS701_RS12705	34	506	96.63157894736842	7.8e-163
+CopciAB_420887.T0	FS701_RS12690	45	166	97.54901960784314	2.21e-49
+
+
+
+>>
+19. NZ_VEIA01000013
+Source: Bacillus pumilus SAFR-032 strain DE0037 NODE_13_length_100977_cov_28.606383, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 672.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	FS741_RS12640	34	506	96.63157894736842	7.8e-163
+CopciAB_420887.T0	FS741_RS12625	45	166	97.54901960784314	2.21e-49
+
+
+
+>>
+20. NZ_VECA01000014
+Source: Bacillus pumilus strain DE0264 NODE_14_length_71900_cov_50.296807, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 672.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	FS494_RS17280	34	506	96.63157894736842	1.1e-162
+CopciAB_420887.T0	FS494_RS17295	45	166	97.54901960784314	2.21e-49
+
+
+
+>>
+21. NZ_CP029464
+Source: Bacillus pumilus strain ZB201701 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 672.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	DKE43_RS05715	34	505	96.63157894736842	2.16e-162
+CopciAB_420887.T0	DKE43_RS05700	44	167	97.54901960784314	7.84e-50
+
+
+
+>>
+22. NZ_PVQY01000005
+Source: Bacillus sp. GBSC66 NODE_5_length_356281_cov_49.2537, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 672.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	C6Y00_RS09845	34	505	96.63157894736842	2.16e-162
+CopciAB_420887.T0	C6Y00_RS09830	44	167	97.54901960784314	7.84e-50
+
+
+
+>>
+23. NZ_PVRB01000004
+Source: Bacillus sp. LNXM65 NODE_4_length_407011_cov_74.5707, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 672.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	C6Y03_RS08465	33	505	96.52631578947368	3.04e-162
+CopciAB_420887.T0	C6Y03_RS08450	44	167	97.54901960784314	7.84e-50
+
+
+
+>>
+24. NZ_PVRD01000001
+Source: Bacillus sp. LNXM10 NODE_1_length_759677_cov_63.2486, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 672.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	C6Y05_RS03630	33	505	96.52631578947368	3.04e-162
+CopciAB_420887.T0	C6Y05_RS03615	44	167	97.54901960784314	7.84e-50
+
+
+
+>>
+25. NZ_PVRH01000003
+Source: Bacillus sp. NMTD17 NODE_3_length_535767_cov_47.1619, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 672.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	C6347_RS11725	34	503	96.63157894736842	1.67e-161
+CopciAB_420887.T0	C6347_RS11740	45	169	98.0392156862745	2.78e-50
+
+
+
+>>
+26. NZ_UWJF01000001
+Source: Bacillus safensis isolate Bacillus pumilus NRS576, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 672.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	AIDNDMCJ_RS00585	33	503	96.52631578947368	1.67e-161
+CopciAB_420887.T0	AIDNDMCJ_RS00570	44	169	99.01960784313727	2.78e-50
+
+
+
+>>
+27. NZ_CP010997
+Source: Bacillus pumilus strain SH-B11, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 672.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	UP15_RS09795	33	503	96.52631578947368	2.34e-161
+CopciAB_420887.T0	UP15_RS09780	43	169	99.01960784313727	1.96e-50
+
+
+
+>>
+28. NZ_CP022319
+Source: Bacillus altitudinis strain SGAir0031 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 672.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	CFN77_RS09950	33	503	96.52631578947368	2.34e-161
+CopciAB_420887.T0	CFN77_RS09935	44	169	99.01960784313727	1.96e-50
+
+
+
+>>
+29. NZ_CP038517
+Source: Bacillus altitudinis strain SCU11 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 672.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	EQK04_RS09420	33	503	96.52631578947368	2.34e-161
+CopciAB_420887.T0	EQK04_RS09405	43	169	99.01960784313727	2.78e-50
+
+
+
+>>
+30. NZ_JACAAI010000037
+Source: Bacillus altitudinis strain T5S-T4 NODE_12, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 672.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	HZ308_RS04885	33	501	96.52631578947368	9.12e-161
+CopciAB_420887.T0	HZ308_RS04900	44	171	99.01960784313727	4.92e-51
+
+
+
+>>
+31. NZ_LR732836
+Source: Bacillus sp. 9J isolate Bacillus sp. 9J, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 672.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+GVY38_RS16985	GVY38_RS16985	3345255	3347132	+	squalene--hopene_cyclase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	GVY38_RS17005	33	501	96.52631578947368	9.12e-161
+CopciAB_420887.T0	GVY38_RS16990	44	171	99.01960784313727	4.92e-51
+
+
+
+>>
+32. NZ_LT906438
+Source: Bacillus pumilus strain NCTC10337 chromosome 1
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 671.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	CKW02_RS09655	34	505	96.52631578947368	3.04e-162
+CopciAB_420887.T0	CKW02_RS09640	43	166	97.54901960784314	3.13e-49
+
+
+
+>>
+33. NZ_PTXV01000001
+Source: Bacillus pumilus strain Ha06YP001 Contig_01, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 671.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	C5P19_RS04295	34	505	96.52631578947368	3.04e-162
+CopciAB_420887.T0	C5P19_RS04310	44	166	97.54901960784314	2.21e-49
+
+
+
+>>
+34. NZ_PVQT01000001
+Source: Bacillus pumilus strain LLTC96 NODE_1_length_629001_cov_60.9678, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 671.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	C6X95_RS01230	34	505	96.52631578947368	3.04e-162
+CopciAB_420887.T0	C6X95_RS01245	43	166	97.54901960784314	4.42e-49
+
+
+
+>>
+35. NZ_PVQU01000003
+Source: Bacillus pumilus strain NMSW10 NODE_3_length_466150_cov_46.6815, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 671.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	C6X96_RS08600	34	505	96.52631578947368	3.04e-162
+CopciAB_420887.T0	C6X96_RS08585	43	166	97.54901960784314	4.42e-49
+
+
+
+>>
+36. NZ_PVQV01000001
+Source: Bacillus pumilus strain LDZX38 NODE_1_length_1296852_cov_41.1032, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 671.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	C6X97_RS05040	34	505	96.52631578947368	3.04e-162
+CopciAB_420887.T0	C6X97_RS05055	43	166	97.54901960784314	4.42e-49
+
+
+
+>>
+37. NZ_CP011007
+Source: Bacillus pumilus strain SH-B9 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 671.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	UP12_RS09525	34	504	96.52631578947368	4.27e-162
+CopciAB_420887.T0	UP12_RS09510	44	167	97.54901960784314	1.11e-49
+
+
+
+>>
+38. NZ_CP058951
+Source: Bacillus pumilus strain UAMX chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 671.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	HZ310_RS09320	34	504	96.52631578947368	4.27e-162
+CopciAB_420887.T0	HZ310_RS09340	44	167	97.54901960784314	1.11e-49
+
+
+
+>>
+39. NZ_CP015607
+Source: Bacillus safensis strain U14-5, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 671.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+BSA145_RS18565	BSA145_RS18565	3574810	3576612	-	DNA_helicase_RecQ
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	BSA145_RS18630	33	503	96.52631578947368	1.67e-161
+CopciAB_420887.T0	BSA145_RS18610	44	168	99.01960784313727	5.55e-50
+
+
+
+>>
+40. NZ_CP060290
+Source: Bacillus sp. PAMC22265 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 671.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	H7F24_RS14940	33	503	96.52631578947368	1.67e-161
+CopciAB_420887.T0	H7F24_RS14925	44	168	99.01960784313727	3.92e-50
+
+
+
+>>
+41. NZ_SOBQ01000002
+Source: Bacillus sp. BK450 Ga0307706_102, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 671.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+EV579_RS05600	EV579_RS05600	113701	113930	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	EV579_RS05625	33	503	96.52631578947368	1.67e-161
+CopciAB_420887.T0	EV579_RS05610	44	168	99.01960784313727	3.92e-50
+
+
+
+>>
+42. NZ_VIWS01000002
+Source: Bacillus safensis strain 3300 Ga0365450_102, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 671.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	FHW57_RS05280	34	503	96.52631578947368	1.67e-161
+CopciAB_420887.T0	FHW57_RS05265	44	168	99.01960784313727	3.92e-50
+
+
+
+>>
+43. NZ_LMJV01000007
+Source: Bacillus sp. Root920 contig_2, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 671.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	ASE42_RS11570	33	503	96.52631578947368	2.34e-161
+CopciAB_420887.T0	ASE42_RS11555	44	168	99.01960784313727	3.92e-50
+
+
+
+>>
+44. NZ_FPJL01000028
+Source: Bacillus altitudinis strain RU9509.4, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 671.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	BT146_RS17580	33	501	96.52631578947368	9.12e-161
+CopciAB_420887.T0	BT146_RS17595	44	170	99.01960784313727	6.95e-51
+
+
+
+>>
+45. NZ_CP040514
+Source: Bacillus altitudinis strain GQYP101 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 671.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+BPGQ101_RS10185	BPGQ101_RS10185	1993572	1994523	+	bile_acid:sodium_symporter_family_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	BPGQ101_RS10195	33	500	96.52631578947368	1.8e-160
+CopciAB_420887.T0	BPGQ101_RS10180	44	171	99.01960784313727	4.92e-51
+
+
+
+>>
+46. NZ_CP018197
+Source: Bacillus safensis strain KCTC 12796BP chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 670.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	BSL056_RS10470	33	503	96.52631578947368	1.67e-161
+CopciAB_420887.T0	BSL056_RS10455	44	167	99.01960784313727	1.57e-49
+
+
+
+>>
+47. NZ_PVRE01000006
+Source: Bacillus sp. MZGC1 NODE_6_length_286014_cov_53.6732, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 670.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	C6Y06_RS17500	34	503	96.63157894736842	1.67e-161
+CopciAB_420887.T0	C6Y06_RS17485	44	167	97.54901960784314	7.84e-50
+
+
+
+>>
+48. NZ_CP043404
+Source: Bacillus safensis strain PgKB20 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 670.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	FX981_RS17035	33	502	96.52631578947368	3.29e-161
+CopciAB_420887.T0	FX981_RS17050	44	168	99.01960784313727	3.92e-50
+
+
+
+>>
+49. NZ_CP009108
+Source: Bacillus altitudinis strain GR-8 chromosome, complete genome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 670.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	ID12_RS14295	33	501	96.52631578947368	9.12e-161
+CopciAB_420887.T0	ID12_RS14280	43	169	99.01960784313727	2.85e-50
+
+
+
+>>
+50. NZ_CP014165
+Source: Bacillus altitudinis strain ku-bf1 chromosome
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 670.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_541099.T0	ASM07_RS09030	33	501	96.52631578947368	9.12e-161
+CopciAB_420887.T0	ASM07_RS09015	43	169	99.01960784313727	1.96e-50
+

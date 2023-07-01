@@ -1,0 +1,285 @@
+ClusterBlast scores for scaffold_12
+
+Table of genes, locations, strands and annotations of query cluster:
+CopciAB_427632.T0	413760	414914	-		
+CopciAB_438000.T0	415226	416108	-		
+CopciAB_452018.T0	416577	417433	+		
+CopciAB_27441.T0	419558	420503	+		
+CopciAB_499440.T0	421185	423994	+		
+CopciAB_372150.T0	425401	427558	+		
+CopciAB_427648.T0	427744	429244	-		
+CopciAB_507379.T0	430122	430738	+		
+CopciAB_372112.T0	431791	431987	+		
+CopciAB_372121.T0	432136	433786	-		
+CopciAB_372110.T0	434810	437081	-		
+CopciAB_1002472.T0	439457	439700	+		
+CopciAB_543742.T0	441707	443028	+		
+CopciAB_27642.T0	444225	446384	-		
+CopciAB_462682.T0	447215	447510	+		
+CopciAB_438017.T0	447822	449588	+		
+CopciAB_462684.T0	450422	452641	-		
+CopciAB_1002474.T0	455271	455550	-		
+CopciAB_1002475.T0	457353	457605	-		
+CopciAB_372143.T0	458034	458686	-		
+CopciAB_499451.T0	459297	460310	+		
+CopciAB_462689.T0	460335	461159	-		
+CopciAB_1002476.T0	462212	462474	+		
+CopciAB_27792.T0	463038	464422	+		
+CopciAB_427679.T0	464670	465341	-		
+CopciAB_372140.T0	466595	467636	+		
+CopciAB_1002477.T0	468600	469095	+		
+CopciAB_1002478.T0	469329	469770	-		
+CopciAB_438039.T0	473742	474720	+		
+CopciAB_352336.T0	475600	476021	-		
+CopciAB_118644.T0	478160	479832	+		
+CopciAB_466228.T0	482241	484311	+		
+CopciAB_442580.T0	484517	487299	-		
+CopciAB_490906.T0	488419	489289	+		
+CopciAB_432515.T0	492228	493756	-		
+CopciAB_490908.T0	497967	499010	+		
+CopciAB_454987.T0	499117	500815	-		
+CopciAB_482192.T0	501679	502723	+		
+CopciAB_545686.T0	503032	504262	-		
+
+
+Significant hits: 
+1. NW_009258208	Heterobasidion irregulare TC 32-1 unplaced genomic scaffold scaffold_12, whole genome shotgun sequence
+2. NC_035793	Pochonia chlamydosporia 170 chromosome 4, whole genome shotgun sequence
+3. NW_013550602	Rhinocladiella mackenziei CBS 650.93 unplaced genomic scaffold supercont1.3, whole genome shotgun sequence
+4. NW_020194479	Amorphotheca resinae ATCC 22711 unplaced genomic scaffold M430scaffold_9, whole genome shotgun sequence
+5. NZ_MCIP01000001	Pseudonocardia sp. Ae505_Ps2 Ae505Ps2_SC1, whole genome shotgun sequence
+6. NZ_LR594675	Variovorax sp. PBS-H4 chromosome 1
+7. NZ_CP041745	Paraburkholderia megapolitana strain LMG 23650 chromosome 2, complete sequence
+8. NZ_CADFDI010000012	Burkholderia multivorans strain BCC0149, whole genome shotgun sequence
+9. NZ_CP044054	Burkholderia multivorans strain FDAARGOS_623 chromosome 2, complete sequence
+10. NZ_CADETI010000011	Burkholderia multivorans strain BCC0115, whole genome shotgun sequence
+11. NZ_SOAT01000001	Streptomyces sp. BK161 Ga0307697_101, whole genome shotgun sequence
+12. NZ_CADFDG010000001	Burkholderia multivorans strain BCC0102, whole genome shotgun sequence
+13. NZ_RBZU01000002	Pararobbsia silviterrae strain DHC34 scaffold2, whole genome shotgun sequence
+14. NZ_CP017839	Nocardia seriolae strain EM150506 chromosome, complete genome
+
+
+Details:
+
+>>
+1. NW_009258208
+Source: Heterobasidion irregulare TC 32-1 unplaced genomic scaffold scaffold_12, whole genome shotgun sequence
+Type: NRPS-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1438.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_499440.T0	HETIRDRAFT_162919	52	493	80.7936507936508	4.25e-167
+CopciAB_499440.T0	HETIRDRAFT_162920	53	491	80.47619047619048	2.08e-166
+CopciAB_372150.T0	HETIRDRAFT_430518	35	134	82.84023668639054	1.65e-34
+CopciAB_372150.T0	HETIRDRAFT_422723	48	85	34.319526627218934	1.58e-17
+CopciAB_466228.T0	HETIRDRAFT_54234	33	235	88.69395711500975	5.22e-70
+
+
+
+>>
+2. NC_035793
+Source: Pochonia chlamydosporia 170 chromosome 4, whole genome shotgun sequence
+Type: NRPS-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 529.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_462684.T0	VFPPC_07510	32	228	92.33390119250427	3.08e-65
+CopciAB_466228.T0	VFPPC_07503	36	301	94.73684210526315	1.96e-94
+
+
+
+>>
+3. NW_013550602
+Source: Rhinocladiella mackenziei CBS 650.93 unplaced genomic scaffold supercont1.3, whole genome shotgun sequence
+Type: NRPS-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 433.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_462684.T0	Z518_04239	32	193	75.63884156729131	1.34e-52
+CopciAB_466228.T0	Z518_04243	33	240	85.7699805068226	2.04e-71
+
+
+
+>>
+4. NW_020194479
+Source: Amorphotheca resinae ATCC 22711 unplaced genomic scaffold M430scaffold_9, whole genome shotgun sequence
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 405.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_462684.T0	M430DRAFT_277810	31	221	90.28960817717207	6.82e-63
+CopciAB_466228.T0	M430DRAFT_124497	31	184	78.16764132553607	3.72e-50
+
+
+
+>>
+5. NZ_MCIP01000001
+Source: Pseudonocardia sp. Ae505_Ps2 Ae505Ps2_SC1, whole genome shotgun sequence
+Type: NRPS-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 328.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+Ae505Ps2_RS17910	Ae505Ps2_RS17910	3742062	3742699	+	IS5/IS1182_family_transposase
+Ae505Ps2_RS31275	Ae505Ps2_RS31275	3744243	3744407	+	IS5/IS1182_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_427648.T0	Ae505Ps2_RS17920	34	130	66.07142857142857	8.86e-34
+CopciAB_427648.T0	Ae505Ps2_RS17935	32	130	72.02380952380952	1.13e-33
+CopciAB_462684.T0	Ae505Ps2_RS17750	34	68	25.2129471890971	7.54e-10
+
+
+
+>>
+6. NZ_LR594675
+Source: Variovorax sp. PBS-H4 chromosome 1
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 290.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_427648.T0	WDLP6_RS29755	41	207	77.97619047619048	2.75e-63
+CopciAB_462684.T0	WDLP6_RS29715	31	83	40.20442930153322	1.16e-14
+
+
+
+>>
+7. NZ_CP041745
+Source: Paraburkholderia megapolitana strain LMG 23650 chromosome 2, complete sequence
+Type: arylpolyene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 245.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+FNZ07_RS28195	FNZ07_RS28195	3342024	3344455	-	MMPL_family_transporter
+FNZ07_RS28215	FNZ07_RS28215	3347318	3349063	-	glycosyltransferase_family_2_protein
+FNZ07_RS28280	FNZ07_RS28280	3360646	3361973	+	aspartate_aminotransferase_family_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_462684.T0	FNZ07_RS28120	34	82	41.737649063032364	1.38e-14
+CopciAB_466228.T0	FNZ07_RS28110	31	163	78.55750487329435	7.98e-43
+
+
+
+>>
+8. NZ_CADFDI010000012
+Source: Burkholderia multivorans strain BCC0149, whole genome shotgun sequence
+Type: hglE-KS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 244.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_462684.T0	HWW26_RS24165	34	100	40.03407155025553	2.64e-20
+CopciAB_466228.T0	HWW26_RS24145	32	144	62.57309941520468	9.2e-36
+
+
+
+>>
+9. NZ_CP044054
+Source: Burkholderia multivorans strain FDAARGOS_623 chromosome 2, complete sequence
+Type: hglE-KS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 243.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+FOB31_RS04590	FOB31_RS04590	428610	428875	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_462684.T0	FOB31_RS04715	34	100	40.03407155025553	2.64e-20
+CopciAB_466228.T0	FOB31_RS04695	32	143	61.59844054580896	1.27e-35
+
+
+
+>>
+10. NZ_CADETI010000011
+Source: Burkholderia multivorans strain BCC0115, whole genome shotgun sequence
+Type: hglE-KS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 242.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+HWV72_RS20405	HWV72_RS20405	208957	215188	-	SDR_family_oxidoreductase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_462684.T0	HWV72_RS20480	34	99	40.03407155025553	4.68e-20
+CopciAB_466228.T0	HWV72_RS20460	32	143	61.59844054580896	1.27e-35
+
+
+
+>>
+11. NZ_SOAT01000001
+Source: Streptomyces sp. BK161 Ga0307697_101, whole genome shotgun sequence
+Type: NRPS,T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 240.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+EV573_RS02485	EV573_RS02485	553930	554253	+	hypothetical_protein
+EV573_RS02635	EV573_RS02635	597509	597640	-	DUF2083_domain-containing_protein
+EV573_RS02640	EV573_RS02640	597687	598221	-	Hsp20/alpha_crystallin_family_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_462684.T0	EV573_RS02565	35	84	29.642248722316864	3.12e-15
+CopciAB_454987.T0	EV573_RS02585	31	156	72.21238938053098	1.94e-39
+
+
+
+>>
+12. NZ_CADFDG010000001
+Source: Burkholderia multivorans strain BCC0102, whole genome shotgun sequence
+Type: hglE-KS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 239.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_462684.T0	HWW72_RS00220	34	100	40.03407155025553	2.64e-20
+CopciAB_466228.T0	HWW72_RS00240	31	139	61.40350877192983	3.31e-34
+
+
+
+>>
+13. NZ_RBZU01000002
+Source: Pararobbsia silviterrae strain DHC34 scaffold2, whole genome shotgun sequence
+Type: resorcinol
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 232.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_462684.T0	D7S86_RS07770	33	77	39.69335604770017	1.1e-12
+CopciAB_466228.T0	D7S86_RS07775	33	155	58.28460038986355	3.45e-40
+
+
+
+>>
+14. NZ_CP017839
+Source: Nocardia seriolae strain EM150506 chromosome, complete genome
+Type: NRPS-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 152.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_27441.T0	NS506_RS24080	34	64	87.03703703703704	1.62e-11
+CopciAB_462684.T0	NS506_RS23970	32	88	42.759795570698465	2.03e-16
+

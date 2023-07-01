@@ -1,0 +1,277 @@
+ClusterBlast scores for scaffold_12
+
+Table of genes, locations, strands and annotations of query cluster:
+CopciAB_454031.T0	950617	954232	-		
+CopciAB_391177.T0	956110	956875	+		
+CopciAB_495078.T0	957103	958109	-		
+CopciAB_441179.T0	958412	959728	-		
+CopciAB_441181.T0	960502	961247	-		
+CopciAB_417341.T0	962262	964748	+		
+CopciAB_360850.T0	965222	966252	+		
+CopciAB_90622.T0	967097	967880	-		
+CopciAB_360799.T0	968800	973450	-		
+CopciAB_1002526.T0	976072	976500	-		
+CopciAB_441187.T0	976689	977368	+		
+CopciAB_90822.T0	977916	979803	+		
+CopciAB_417352.T0	980254	984983	-		
+CopciAB_454041.T0	985245	988386	-		
+CopciAB_441190.T0	988541	993401	+		
+CopciAB_417357.T0	993991	994567	+		
+CopciAB_90959.T0	995905	998090	-		
+CopciAB_1002528.T0	998761	999424	-		
+CopciAB_465124.T0	1000061	1001390	-		
+CopciAB_90982.T0	1001584	1002367	+		
+CopciAB_90984.T0	1003469	1005259	+		
+CopciAB_90979.T0	1005646	1007108	+		
+CopciAB_476094.T0	1007537	1009136	+		
+CopciAB_91028.T0	1009428	1013227	-		
+CopciAB_441197.T0	1013862	1014739	+		
+
+
+Significant hits: 
+1. NW_006267372	Agaricus bisporus var. bisporus H97 unplaced genomic scaffold AGABI2scaffold_9, whole genome shotgun sequence
+2. NW_009258208	Heterobasidion irregulare TC 32-1 unplaced genomic scaffold scaffold_12, whole genome shotgun sequence
+3. NW_020939757	Sparassis crispa DNA, contig_000011F, whole genome shotgun sequence
+4. NW_003315664	Schizophyllum commune H4-8 unplaced genomic scaffold SCHCOscaffold_9, whole genome shotgun sequence
+5. NC_003424	Schizosaccharomyces pombe chromosome I, complete sequence
+6. NW_013185619	Schizosaccharomyces octosporus yFS286 unplaced genomic scaffold supercont6.1, whole genome shotgun sequence
+7. NT_165976	Chaetomium globosum CBS 148.51 scaffold_1 genomic scaffold, whole genome shotgun sequence
+8. NW_001914859	Podospora anserina S mat+ genomic DNA chromosome 1, supercontig 1
+9. NZ_CP010407	Streptomyces vietnamensis strain GIMV4.0001 chromosome, complete genome
+10. NZ_VIUK01000008	Pseudomonas sp. SJZ080 Ga0314246_108, whole genome shotgun sequence
+11. NC_020504	Streptomyces davaonensis JCM 4913, complete genome
+12. NC_010612	Mycobacterium marinum M, complete genome
+13. NZ_CP007699	Streptomyces lydicus strain A02 chromosome, complete genome
+14. NZ_CP034185	Deinococcus sp. S14-83 strain S14-83T plasmid unnamed1, complete sequence
+
+
+Details:
+
+>>
+1. NW_006267372
+Source: Agaricus bisporus var. bisporus H97 unplaced genomic scaffold AGABI2scaffold_9, whole genome shotgun sequence
+Type: NRPS-like
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 4872.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_417341.T0	AGABI2DRAFT_120787	65	914	101.32450331125828	0.0
+CopciAB_360850.T0	AGABI2DRAFT_145143	60	174	68.68686868686868	7.41e-52
+CopciAB_360799.T0	AGABI2DRAFT_208992	63	1179	81.38847858197931	0.0
+CopciAB_417352.T0	AGABI2DRAFT_208996	65	1878	100.98554533508542	0.0
+CopciAB_90959.T0	AGABI2DRAFT_194604	58	727	98.75968992248062	1.62e-257
+
+
+
+>>
+2. NW_009258208
+Source: Heterobasidion irregulare TC 32-1 unplaced genomic scaffold scaffold_12, whole genome shotgun sequence
+Type: NRPS-like
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 3661.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_360850.T0	HETIRDRAFT_461044	62	244	90.40404040404042	3.51e-79
+CopciAB_360850.T0	HETIRDRAFT_156927	63	234	90.40404040404042	2.97e-75
+CopciAB_360799.T0	HETIRDRAFT_461040	55	1161	95.05169867060562	0.0
+CopciAB_441187.T0	HETIRDRAFT_461040	95	167	81.13207547169812	1.61e-47
+CopciAB_417352.T0	HETIRDRAFT_66316	65	1855	100.59132720105124	0.0
+
+
+
+>>
+3. NW_020939757
+Source: Sparassis crispa DNA, contig_000011F, whole genome shotgun sequence
+Type: NRPS-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1987.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_360850.T0	SCP_1101250	56	211	90.40404040404042	5e-66
+CopciAB_417352.T0	SCP_1101190	65	1776	97.50328515111694	0.0
+
+
+
+>>
+4. NW_003315664
+Source: Schizophyllum commune H4-8 unplaced genomic scaffold SCHCOscaffold_9, whole genome shotgun sequence
+Type: NRPS-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1949.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_90822.T0	SCHCODRAFT_236960	35	84	25.30541012216405	5.07e-15
+CopciAB_417352.T0	SCHCODRAFT_59997	65	1865	100.78843626806832	0.0
+
+
+
+>>
+5. NC_003424
+Source: Schizosaccharomyces pombe chromosome I, complete sequence
+Type: NRPS-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1475.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_441187.T0	SPAC15E1.03	83	181	100.0	7.91e-59
+CopciAB_417352.T0	SPAP7G5.04c	48	1294	101.24835742444151	0.0
+
+
+
+>>
+6. NW_013185619
+Source: Schizosaccharomyces octosporus yFS286 unplaced genomic scaffold supercont6.1, whole genome shotgun sequence
+Type: NRPS-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1457.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_441187.T0	SOCG_03148	83	181	100.0	3.92e-59
+CopciAB_417352.T0	SOCG_03138	48	1276	98.94875164257556	0.0
+
+
+
+>>
+7. NT_165976
+Source: Chaetomium globosum CBS 148.51 scaffold_1 genomic scaffold, whole genome shotgun sequence
+Type: NRPS-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1031.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_417352.T0	CHGG_01290	44	967	84.16557161629436	0.0
+CopciAB_476094.T0	CHGG_01293	41	64	18.32579185520362	5.79e-09
+
+
+
+>>
+8. NW_001914859
+Source: Podospora anserina S mat+ genomic DNA chromosome 1, supercontig 1
+Type: NRPS,NRPS-like,T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1013.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_360850.T0	PODANS_1_5150	50	61	27.27272727272727	7.86e-10
+CopciAB_417352.T0	PODANS_1_5110	44	952	81.6688567674113	0.0
+
+
+
+>>
+9. NZ_CP010407
+Source: Streptomyces vietnamensis strain GIMV4.0001 chromosome, complete genome
+Type: NRPS,T1PKS,butyrolactone
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 408.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+SVTN_RS03735	SVTN_RS03735	867213	867785	-	nucleotidyltransferase_family_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_360850.T0	SVTN_RS03380	33	71	84.34343434343434	1.36e-12
+CopciAB_417352.T0	SVTN_RS03430	31	337	61.4323258869908	4.01e-92
+
+
+
+>>
+10. NZ_VIUK01000008
+Source: Pseudomonas sp. SJZ080 Ga0314246_108, whole genome shotgun sequence
+Type: NRPS-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 327.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+FBY04_RS13020	FBY04_RS13020	19575	20717	-	UDP-N-acetylglucosamine_2-epimerase_(non-hydrolyzing)
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_360850.T0	FBY04_RS13070	31	65	55.55555555555556	1.3e-10
+CopciAB_417352.T0	FBY04_RS13075	32	262	41.45860709592641	1.47e-70
+
+
+
+>>
+11. NC_020504
+Source: Streptomyces davaonensis JCM 4913, complete genome
+Type: NRPS,NRPS-like,T3PKS,cyanobactin,other,terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 301.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+BN159_RS44450	BN159_RS44450	8909411	8910284	-	IS5_family_transposase
+BN159_RS46090	BN159_RS46090	8934457	8934699	-	methyltransferase_domain-containing_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_360850.T0	BN159_RS39745	35	92	91.41414141414141	2.18e-20
+CopciAB_360799.T0	BN159_RS39410	40	209	25.11078286558346	1.3e-57
+
+
+
+>>
+12. NC_010612
+Source: Mycobacterium marinum M, complete genome
+Type: NRPS,T3PKS,terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 292.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+MMAR_RS15760	MMAR_RS15760	3842684	3843109	-	IS1380_family_transposase
+MMAR_RS15785	MMAR_RS15785	3846130	3846498	+	hypothetical_protein
+MMAR_RS28550	MMAR_RS28550	3849636	3851014	-	serine_recombinase
+MMAR_RS27865	MMAR_RS27865	3851030	3851919	-	IS481_family_transposase
+MMAR_RS29420	MMAR_RS29420	3852078	3852266	-	serine_recombinase
+MMAR_RS28555	MMAR_RS28555	3852453	3852637	-	plasmid_replication_initiator_protein
+MMAR_RS15825	MMAR_RS15825	3854875	3855149	+	IS256_family_transposase
+MMAR_RS28570	MMAR_RS28570	3881339	3882186	+	IS30_family_transposase
+MMAR_RS28575	MMAR_RS28575	3883593	3883844	+	ribonuclease
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_360850.T0	MMAR_RS15790	32	86	95.95959595959596	9.97e-18
+CopciAB_360799.T0	MMAR_RS16025	40	206	25.33234859675037	1.47e-56
+
+
+
+>>
+13. NZ_CP007699
+Source: Streptomyces lydicus strain A02 chromosome, complete genome
+Type: NRPS-like,terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 199.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+T261_RS07025	T261_RS07025	1487702	1487903	+	site-specific_integrase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_360850.T0	T261_RS06995	32	97	91.91919191919192	3.88e-22
+CopciAB_90959.T0	T261_RS06930	34	102	35.1937984496124	7.28e-21
+
+
+
+>>
+14. NZ_CP034185
+Source: Deinococcus sp. S14-83 strain S14-83T plasmid unnamed1, complete sequence
+Type: T3PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 190.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_360850.T0	EHF33_RS17255	32	67	81.81818181818183	2.15e-11
+CopciAB_90959.T0	EHF33_RS17105	38	123	38.759689922480625	1.55e-27
+

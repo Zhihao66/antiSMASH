@@ -1,0 +1,68 @@
+ClusterBlast scores for scaffold_8
+
+Table of genes, locations, strands and annotations of query cluster:
+CopciAB_1001712.T0	586560	586847	-		
+CopciAB_1001713.T0	587532	587851	-		
+CopciAB_394838.T0	588442	588759	-		
+CopciAB_394836.T0	589253	591957	-		
+CopciAB_446855.T0	592682	594117	+		
+CopciAB_446854.T0	594430	594896	-		
+CopciAB_496600.T0	595458	598647	+		
+CopciAB_559321.T0	601279	602509	+		
+CopciAB_201950.T0	606898	607858	-		
+CopciAB_1001716.T0	608937	609195	-		
+CopciAB_496597.T0	611168	613550	+		
+
+
+Significant hits: 
+1. NW_006267371	Agaricus bisporus var. bisporus H97 unplaced genomic scaffold AGABI2scaffold_8, whole genome shotgun sequence
+2. NW_003315662	Schizophyllum commune H4-8 unplaced genomic scaffold SCHCOscaffold_11, whole genome shotgun sequence
+3. NW_020939760	Sparassis crispa DNA, contig_000013F, whole genome shotgun sequence
+
+
+Details:
+
+>>
+1. NW_006267371
+Source: Agaricus bisporus var. bisporus H97 unplaced genomic scaffold AGABI2scaffold_8, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1582.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_446855.T0	AGABI2DRAFT_144691	33	188	84.53159041394336	6.09e-52
+CopciAB_496600.T0	AGABI2DRAFT_152546	59	867	105.53505535055349	6.13e-307
+CopciAB_559321.T0	AGABI2DRAFT_208101	73	527	97.10144927536231	1.28e-185
+
+
+
+>>
+2. NW_003315662
+Source: Schizophyllum commune H4-8 unplaced genomic scaffold SCHCOscaffold_11, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1376.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_496600.T0	SCHCODRAFT_61044	59	821	99.0159901599016	2.79e-289
+CopciAB_559321.T0	SCHCODRAFT_17515	79	555	94.20289855072464	1.54e-198
+
+
+
+>>
+3. NW_020939760
+Source: Sparassis crispa DNA, contig_000013F, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1302.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_496600.T0	SCP_1401680	56	830	104.55104551045511	3.2e-292
+CopciAB_559321.T0	SCP_1401670	67	472	94.78260869565217	2.35e-166
+

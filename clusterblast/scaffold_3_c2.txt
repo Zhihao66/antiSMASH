@@ -1,0 +1,54 @@
+ClusterBlast scores for scaffold_3
+
+Table of genes, locations, strands and annotations of query cluster:
+CopciAB_28133.T0	1246341	1247339	+		
+CopciAB_507443.T1	1248813	1249523	+		
+CopciAB_507443.T0	1249225	1249819	+		
+CopciAB_358611.T0	1250094	1251834	-		
+CopciAB_358644.T0	1252258	1254446	-		
+CopciAB_438053.T0	1255431	1257642	-		
+CopciAB_438054.T0	1257977	1263925	+		
+
+
+Significant hits: 
+1. NW_006267366	Agaricus bisporus var. bisporus H97 unplaced genomic scaffold AGABI2scaffold_3, whole genome shotgun sequence
+2. NW_009258200	Heterobasidion irregulare TC 32-1 unplaced genomic scaffold scaffold_04, whole genome shotgun sequence
+
+
+Details:
+
+>>
+1. NW_006267366
+Source: Agaricus bisporus var. bisporus H97 unplaced genomic scaffold AGABI2scaffold_3, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 2794.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_507443.T1	AGABI2DRAFT_66531	67	135	89.0	5.06e-39
+CopciAB_507443.T0	AGABI2DRAFT_66531	59	155	93.24324324324324	6.96e-46
+CopciAB_358611.T0	AGABI2DRAFT_218205	34	222	105.6985294117647	1.33e-64
+CopciAB_358644.T0	AGABI2DRAFT_218206	55	660	100.0	7.27e-232
+CopciAB_358644.T0	AGABI2DRAFT_183956	41	441	99.51768488745981	9.58e-146
+CopciAB_438053.T0	AGABI2DRAFT_183956	59	749	98.08917197452229	2.15e-266
+CopciAB_438053.T0	AGABI2DRAFT_218206	39	432	97.77070063694268	3.72e-142
+
+
+
+>>
+2. NW_009258200
+Source: Heterobasidion irregulare TC 32-1 unplaced genomic scaffold scaffold_04, whole genome shotgun sequence
+Type: siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 2064.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_358644.T0	HETIRDRAFT_444537	47	541	100.32154340836013	1.69e-184
+CopciAB_358644.T0	HETIRDRAFT_458567	40	458	104.5016077170418	4.72e-152
+CopciAB_438053.T0	HETIRDRAFT_458567	52	649	103.98089171974523	6.1e-227
+CopciAB_438053.T0	HETIRDRAFT_444537	37	416	100.79617834394905	1.89e-135
+

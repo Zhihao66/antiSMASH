@@ -1,0 +1,1234 @@
+ClusterBlast scores for scaffold_11
+
+Table of genes, locations, strands and annotations of query cluster:
+CopciAB_371128.T0	421853	423203	+		
+CopciAB_15443.T0	423953	426878	+		
+CopciAB_371141.T0	427240	432121	+		
+CopciAB_499066.T0	433289	433957	+		
+CopciAB_462172.T0	434519	436842	+		
+CopciAB_371191.T0	438018	439147	-		
+CopciAB_371191.T1	438368	438422	-		
+CopciAB_371135.T0	439214	439628	-		
+CopciAB_1002281.T0	440768	441083	-		
+CopciAB_1002282.T0	442404	444945	+		
+CopciAB_371185.T0	445952	448093	+		
+CopciAB_437423.T0	448582	449891	-		
+CopciAB_437425.T0	450566	458706	+		
+CopciAB_1002283.T0	459534	460198	-		
+CopciAB_1002284.T0	464996	465772	-		
+CopciAB_1002285.T0	471290	472430	-		
+CopciAB_532638.T0	473318	474574	+		
+CopciAB_444333.T0	475843	479279	+		
+CopciAB_444334.T0	479365	480691	-		
+CopciAB_444335.T0	481168	485844	-		
+
+
+Significant hits: 
+1. NZ_CP020567	Kitasatospora aureofaciens strain DM-1 chromosome, complete genome
+2. NC_003155	Streptomyces avermitilis MA-4680 = NBRC 14893, complete genome
+3. NZ_LT607755	Micromonospora zamorensis strain DSM 45600 chromosome I
+4. NZ_LT607409	Micromonospora chokoriensis strain DSM 45160 chromosome I
+5. NZ_CP021748	Streptomyces alboflavus strain MDJK44 chromosome, complete genome
+6. NZ_WUTW01000006	Actinomadura rayongensis strain DSM 102126 90-285609803_CB02-ArV1_contig_5, whole genome shotgun sequence
+7. NZ_CP010849	Streptomyces cyaneogriseus subsp. noncyanogenus strain NMWT 1 chromosome, complete genome
+8. NZ_CP034550	Saccharothrix syringae strain NRRL B-16468 chromosome, complete genome
+9. NZ_CP023865	Actinoplanes teichomyceticus ATCC 31121 chromosome, complete genome
+10. NC_021191	Actinoplanes sp. N902-109, complete genome
+11. NZ_ML703348	Nocardiopsis sp. H13 Scaffold4, whole genome shotgun sequence
+12. NZ_LT607752	Micromonospora rifamycinica strain DSM 44983 chromosome I
+13. NZ_CP058322	Micromonospora carbonacea strain aurantiaca chromosome, complete genome
+14. NZ_BBVA01000002	Micromonospora sp. NBRC 110037, whole genome shotgun sequence
+15. NZ_FWXV01000001	Kibdelosporangium aridum strain DSM 43828, whole genome shotgun sequence
+16. NW_020939762	Sparassis crispa DNA, contig_000015F, whole genome shotgun sequence
+17. NZ_LT607753	Micromonospora coxensis strain DSM 45161 chromosome I
+18. NZ_CP050976	Streptomyces sp. RPA4-5 chromosome
+19. NZ_AUGH01000011	Salinispora pacifica CNS237 H303DRAFT_scaffold_5.6_C, whole genome shotgun sequence
+20. NZ_CP031264	Streptacidiphilus bronchialis strain DSM 106435 chromosome, complete genome
+21. NZ_CP022685	Streptomyces formicae strain KY5 chromosome, complete genome
+22. NC_016582	Streptomyces bingchenggensis BCW-1, complete sequence
+23. NZ_CP030865	Micromonospora sp. B006 chromosome, complete genome
+24. NZ_SNXZ01000007	Labedaea rhizosphaerae strain DSM 45361 Ga0310470_107, whole genome shotgun sequence
+25. NZ_LT607733	Micromonospora echinofusca strain DSM 43913 chromosome I
+26. NZ_CP018627	Streptomyces hygroscopicus strain XM201 chromosome, complete genome
+27. NZ_CP022545	Streptomyces sp. 11-1-2 chromosome, complete genome
+28. NZ_CP019883	Mycobacterium kansasii strain 1MK genome
+29. NZ_LT963352	Streptomyces chartreusis NRRL 3882 isolate NRRL3882 chromosome I
+30. NZ_AMPN02000002	Streptomyces sp. SM8 Scaffold_2, whole genome shotgun sequence
+31. NZ_CP054925	Amycolatopsis sp. Hca4 chromosome, complete genome
+32. NZ_CP026304	Streptomyces lunaelactis strain MM109 chromosome, complete genome
+33. NZ_CM002285	Streptomyces roseochromogenus subsp. oscitans DS 12.976 chromosome, whole genome shotgun sequence
+34. NZ_KE150468	Streptomyces sp. HPH0547 aczHZ-supercont1.1, whole genome shotgun sequence
+35. NZ_CP048875	Streptomyces albus strain CAS922 chromosome, complete genome
+36. NZ_CP012159	Chondromyces crocatus strain Cm c5 chromosome, complete genome
+37. NZ_LJSN01000002	Streptomyces noursei strain JCM 4701 scaffold2, whole genome shotgun sequence
+38. NZ_CP045803	Streptomyces rimosus R6-500 chromosome
+39. NZ_CP031264	Streptacidiphilus bronchialis strain DSM 106435 chromosome, complete genome
+40. NZ_CP031455	Streptomyces olivoreticuli subsp. olivoreticuli strain ATCC 31159 chromosome, complete genome
+41. NZ_WEGK01000001	Nocardia sp. RB20 NRB20_1, whole genome shotgun sequence
+42. NZ_CP016174	Amycolatopsis orientalis strain B-37 chromosome, complete genome
+43. NZ_KB913032	Amycolatopsis alba DSM 44262 scaffold1, whole genome shotgun sequence
+44. NC_018750	Streptomyces venezuelae ATCC 10712, complete genome
+45. NZ_CP029195	Streptomyces venezuelae strain ATCC 10595 chromosome, complete genome
+46. NZ_CP015867	Streptomyces parvulus strain 2297 plasmid pSPA1, complete sequence
+47. NZ_CP029196	Streptomyces venezuelae strain ATCC 21113 chromosome, complete genome
+48. NZ_CP054916	Streptomyces sp. NA02950 chromosome, complete genome
+49. NZ_CP036534	Streptomyces sp. VN1 chromosome, complete genome
+50. NZ_AP019620	Streptomyces antimycoticus strain NBRC 100767
+
+
+Details:
+
+>>
+1. NZ_CP020567
+Source: Kitasatospora aureofaciens strain DM-1 chromosome, complete genome
+Type: NRPS,NRPS-like,T1PKS,T3PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1110.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+B6264_RS24935	B6264_RS24935	5582127	5582882	-	zinc-binding_dehydrogenase
+B6264_RS24940	B6264_RS24940	5582888	5583408	+	transposase
+B6264_RS24980	B6264_RS24980	5590437	5591219	-	IS982_family_transposase
+B6264_RS24985	B6264_RS24985	5591243	5591518	-	transposase
+B6264_RS24990	B6264_RS24990	5591624	5591752	+	IS110_family_transposase
+B6264_RS24995	B6264_RS24995	5591774	5592477	-	transposase
+B6264_RS25010	B6264_RS25010	5595776	5595985	+	helix-turn-helix_domain-containing_protein
+B6264_RS33345	B6264_RS33345	5754049	5757381	+	SDR_family_NAD(P)-dependent_oxidoreductase
+B6264_RS33350	B6264_RS33350	5757430	5757903	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_437423.T0	B6264_RS25240	32	69	47.740112994350284	1.21e-10
+CopciAB_437425.T0	B6264_RS32050	31	367	49.473240623683104	1.34e-99
+CopciAB_437425.T0	B6264_RS25225	33	340	37.92667509481669	3.33e-91
+CopciAB_437425.T0	B6264_RS25235	32	334	37.92667509481669	1.6e-89
+
+
+
+>>
+2. NC_003155
+Source: Streptomyces avermitilis MA-4680 = NBRC 14893, complete genome
+Type: T1PKS,T2PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 972.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+SAVERM_RS14835	SAVERM_RS14835	3496180	3497429	-	MFS_transporter
+SAVERM_RS14875	SAVERM_RS14875	3507648	3509008	+	ABC_transporter_ATP-binding_protein
+SAVERM_RS41555	SAVERM_RS41555	3583517	3584326	-	polyketide_synthase
+SAVERM_RS41560	SAVERM_RS41560	3584405	3587746	-	acyltransferase_domain-containing_protein
+SAVERM_RS41565	SAVERM_RS41565	3588185	3589636	-	zinc-binding_dehydrogenase
+SAVERM_RS41570	SAVERM_RS41570	3591410	3593353	-	type_I_polyketide_synthase
+SAVERM_RS42340	SAVERM_RS42340	3608708	3609394	-	SDR_family_NAD(P)-dependent_oxidoreductase
+SAVERM_RS42345	SAVERM_RS42345	3609965	3611014	-	alcohol_dehydrogenase_catalytic_domain-containing_protein
+SAVERM_RS43295	SAVERM_RS43295	3611810	3614956	-	acyltransferase_domain-containing_protein
+SAVERM_RS41600	SAVERM_RS41600	3614966	3619531	-	SDR_family_NAD(P)-dependent_oxidoreductase
+SAVERM_RS41605	SAVERM_RS41605	3619532	3620200	-	SDR_family_NAD(P)-dependent_oxidoreductase
+SAVERM_RS43300	SAVERM_RS43300	3620495	3626419	-	acyltransferase_domain-containing_protein
+SAVERM_RS15095	SAVERM_RS15095	3636689	3637804	+	methylmalonyl-CoA_mutase
+SAVERM_RS15100	SAVERM_RS15100	3638164	3639336	-	undecaprenyl/decaprenyl-phosphate_alpha-N-acetylglucosaminyl_1-phosphate_transferase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_437423.T0	SAVERM_RS41565	31	66	55.6497175141243	9.17e-10
+CopciAB_437425.T0	SAVERM_RS41560	32	318	38.43236409608091	1.33e-87
+CopciAB_437425.T0	SAVERM_RS15055	31	298	38.39022334597556	1.59e-78
+CopciAB_437425.T0	SAVERM_RS43300	32	290	38.51664559629162	2e-76
+
+
+
+>>
+3. NZ_LT607755
+Source: Micromonospora zamorensis strain DSM 45600 chromosome I
+Type: T1PKS,betalactone
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 737.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+GA0070619_RS32245	GA0070619_RS32245	2172008	2174671	+	type_I_polyketide_synthase
+GA0070619_RS32720	GA0070619_RS32720	2176022	2179078	+	acyltransferase_domain-containing_protein
+GA0070619_RS32260	GA0070619_RS32260	2179259	2180458	+	SDR_family_NAD(P)-dependent_oxidoreductase
+GA0070619_RS32725	GA0070619_RS32725	2206844	2215471	+	SDR_family_NAD(P)-dependent_oxidoreductase
+GA0070619_RS32730	GA0070619_RS32730	2215526	2216293	+	polyketide_synthase_dehydratase_domain-containing_protein
+GA0070619_RS32735	GA0070619_RS32735	2216363	2217286	+	SDR_family_NAD(P)-dependent_oxidoreductase
+GA0070619_RS32740	GA0070619_RS32740	2217290	2217784	+	hypothetical_protein
+GA0070619_RS32745	GA0070619_RS32745	2217872	2220388	+	type_I_polyketide_synthase
+GA0070619_RS32750	GA0070619_RS32750	2220425	2220544	+	hypothetical_protein
+GA0070619_RS32755	GA0070619_RS32755	2220653	2221726	+	SDR_family_NAD(P)-dependent_oxidoreductase
+GA0070619_RS09545	GA0070619_RS09545	2236946	2249542	+	SDR_family_NAD(P)-dependent_oxidoreductase
+GA0070619_RS32295	GA0070619_RS32295	2249870	2250784	+	SDR_family_NAD(P)-dependent_oxidoreductase
+GA0070619_RS32300	GA0070619_RS32300	2250791	2251294	+	polyketide_synthase
+GA0070619_RS32305	GA0070619_RS32305	2251379	2252338	+	polyketide_synthase
+GA0070619_RS32310	GA0070619_RS32310	2252696	2253856	+	acyltransferase_domain-containing_protein
+GA0070619_RS32770	GA0070619_RS32770	2253899	2254081	+	hypothetical_protein
+GA0070619_RS32315	GA0070619_RS32315	2254493	2255131	+	KR_domain-containing_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_437423.T0	GA0070619_RS09465	32	68	60.73446327683616	2.67e-10
+CopciAB_437425.T0	GA0070619_RS09470	31	338	35.145385587863466	4.45e-91
+CopciAB_437425.T0	GA0070619_RS32765	31	331	38.2638010956595	1.34e-88
+
+
+
+>>
+4. NZ_LT607409
+Source: Micromonospora chokoriensis strain DSM 45160 chromosome I
+Type: T1PKS,betalactone
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 736.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+GA0070612_RS31970	GA0070612_RS31970	5348387	5349691	-	SDR_family_NAD(P)-dependent_oxidoreductase
+GA0070612_RS31975	GA0070612_RS31975	5350265	5352772	-	type_I_polyketide_synthase
+GA0070612_RS31980	GA0070612_RS31980	5352860	5353318	-	hypothetical_protein
+GA0070612_RS31985	GA0070612_RS31985	5353358	5354329	-	SDR_family_NAD(P)-dependent_oxidoreductase
+GA0070612_RS31990	GA0070612_RS31990	5354351	5355118	-	polyketide_synthase
+GA0070612_RS31995	GA0070612_RS31995	5355650	5359639	-	SDR_family_NAD(P)-dependent_oxidoreductase
+GA0070612_RS32000	GA0070612_RS32000	5359832	5363785	-	acyltransferase_domain-containing_protein
+GA0070612_RS24830	GA0070612_RS24830	5475771	5476082	-	HNH_endonuclease
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_437423.T0	GA0070612_RS24740	31	67	65.5367231638418	6.3e-10
+CopciAB_437425.T0	GA0070612_RS24745	31	336	38.64306784660767	4.39e-90
+CopciAB_437425.T0	GA0070612_RS24675	31	333	39.06447534766119	2.81e-89
+
+
+
+>>
+5. NZ_CP021748
+Source: Streptomyces alboflavus strain MDJK44 chromosome, complete genome
+Type: T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 716.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+SMD44_RS02250	SMD44_RS02250	472586	473068	+	nucleotidyltransferase_domain-containing_protein
+SMD44_RS02290	SMD44_RS02290	510579	517385	-	SDR_family_NAD(P)-dependent_oxidoreductase
+SMD44_RS02355	SMD44_RS02355	569559	570215	+	hypothetical_protein
+SMD44_RS02360	SMD44_RS02360	570293	571533	+	four-carbon_acid_sugar_kinase_family_protein
+SMD44_RS02365	SMD44_RS02365	571877	572614	+	hypothetical_protein
+SMD44_RS02370	SMD44_RS02370	573313	574661	+	TRAP_transporter_large_permease_subunit
+SMD44_RS02375	SMD44_RS02375	574691	574924	+	hypothetical_protein
+SMD44_RS02385	SMD44_RS02385	575237	576848	-	helix-turn-helix_domain-containing_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_437423.T0	SMD44_RS02305	31	62	56.21468926553672	2.04e-08
+CopciAB_437425.T0	SMD44_RS02300	31	333	38.43236409608091	2.66e-89
+CopciAB_437425.T0	SMD44_RS02290	31	321	38.39022334597556	7.38e-86
+
+
+
+>>
+6. NZ_WUTW01000006
+Source: Actinomadura rayongensis strain DSM 102126 90-285609803_CB02-ArV1_contig_5, whole genome shotgun sequence
+Type: NRPS,T1PKS,terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 715.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+GQ466_RS24725	GQ466_RS24725	280982	281763	+	transposase
+GQ466_RS24740	GQ466_RS24740	284479	287605	-	Tn3_family_transposase
+GQ466_RS24750	GQ466_RS24750	288416	288754	-	transposase
+GQ466_RS24765	GQ466_RS24765	290339	291116	+	recombinase_family_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_437423.T0	GQ466_RS24685	32	71	58.75706214689266	3.79e-11
+CopciAB_437425.T0	GQ466_RS24680	31	325	38.474504846186264	6.39e-88
+CopciAB_437425.T0	GQ466_RS24585	31	319	38.05309734513274	1.66e-86
+
+
+
+>>
+7. NZ_CP010849
+Source: Streptomyces cyaneogriseus subsp. noncyanogenus strain NMWT 1 chromosome, complete genome
+Type: T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 685.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+TU94_RS35345	TU94_RS35345	5246022	5247110	-	hypothetical_protein
+TU94_RS33780	TU94_RS33780	5260890	5261753	+	acyltransferase_domain-containing_protein
+TU94_RS33785	TU94_RS33785	5262339	5263109	+	SDR_family_NAD(P)-dependent_oxidoreductase
+TU94_RS33795	TU94_RS33795	5263149	5266448	+	acyltransferase_domain-containing_protein
+TU94_RS33800	TU94_RS33800	5267070	5267804	+	SDR_family_NAD(P)-dependent_oxidoreductase
+TU94_RS22435	TU94_RS22435	5315622	5322026	+	type_I_polyketide_synthase
+TU94_RS22450	TU94_RS22450	5328229	5332068	-	SDR_family_NAD(P)-dependent_oxidoreductase
+TU94_RS34800	TU94_RS34800	5332263	5332485	+	acyltransferase_domain-containing_protein
+TU94_RS22455	TU94_RS22455	5332532	5334250	-	polyketide_synthase
+TU94_RS22470	TU94_RS22470	5341344	5346973	-	SDR_family_NAD(P)-dependent_oxidoreductase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_437423.T0	TU94_RS22415	31	62	55.932203389830505	1.84e-08
+CopciAB_437425.T0	TU94_RS22420	31	320	38.853771597134426	1.95e-85
+CopciAB_437425.T0	TU94_RS22400	31	303	38.34808259587021	4.57e-81
+
+
+
+>>
+8. NZ_CP034550
+Source: Saccharothrix syringae strain NRRL B-16468 chromosome, complete genome
+Type: T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 437.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+EKG83_RS18865	EKG83_RS18865	4328199	4328369	+	transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_437423.T0	EKG83_RS18810	31	62	60.451977401129945	3.54e-08
+CopciAB_437425.T0	EKG83_RS18815	32	375	47.78761061946903	4.64e-102
+
+
+
+>>
+9. NZ_CP023865
+Source: Actinoplanes teichomyceticus ATCC 31121 chromosome, complete genome
+Type: NRPS-like,T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 414.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_437423.T0	ACTEI_RS37645	32	74	58.75706214689266	3.55e-12
+CopciAB_437425.T0	ACTEI_RS24855	31	340	41.88790560471977	2.07e-91
+
+
+
+>>
+10. NC_021191
+Source: Actinoplanes sp. N902-109, complete genome
+Type: NRPS,NRPS-like,T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 371.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_437423.T0	L083_RS14115	33	56	55.367231638418076	3.15e-06
+CopciAB_437425.T0	L083_RS14110	31	315	38.558786346396964	7.71e-84
+
+
+
+>>
+11. NZ_ML703348
+Source: Nocardiopsis sp. H13 Scaffold4, whole genome shotgun sequence
+Type: T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 368.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+FYW99_RS04510	FYW99_RS04510	400818	401336	+	ATP-binding_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_437423.T0	FYW99_RS04590	31	69	59.32203389830508	1.54e-10
+CopciAB_437425.T0	FYW99_RS04585	31	299	38.474504846186264	1.3e-79
+
+
+
+>>
+12. NZ_LT607752
+Source: Micromonospora rifamycinica strain DSM 44983 chromosome I
+Type: PKS-like,T1PKS
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 926.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+GA0070623_RS07325	GA0070623_RS07325	1775392	1776108	-	SDR_family_NAD(P)-dependent_oxidoreductase
+GA0070623_RS07330	GA0070623_RS07330	1776406	1777425	-	polyketide_synthase_dehydratase_domain-containing_protein
+GA0070623_RS30315	GA0070623_RS30315	1778857	1781853	-	SDR_family_NAD(P)-dependent_oxidoreductase
+GA0070623_RS29800	GA0070623_RS29800	1782055	1784787	-	type_I_polyketide_synthase
+GA0070623_RS29810	GA0070623_RS29810	1785591	1786301	-	SDR_family_NAD(P)-dependent_oxidoreductase
+GA0070623_RS30320	GA0070623_RS30320	1786635	1788491	-	acyltransferase_domain-containing_protein
+GA0070623_RS30325	GA0070623_RS30325	1789143	1792103	-	SDR_family_NAD(P)-dependent_oxidoreductase
+GA0070623_RS07380	GA0070623_RS07380	1792959	1793846	-	acyltransferase_domain-containing_protein
+GA0070623_RS29820	GA0070623_RS29820	1794444	1796864	-	SDR_family_NAD(P)-dependent_oxidoreductase
+GA0070623_RS30330	GA0070623_RS30330	1797651	1800635	-	acyltransferase_domain-containing_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_371185.T0	GA0070623_RS07425	35	233	80.18691588785046	2.42e-68
+CopciAB_437423.T0	GA0070623_RS07515	32	77	55.367231638418076	1.14e-13
+CopciAB_437425.T0	GA0070623_RS29800	31	323	38.64306784660767	1.74e-90
+CopciAB_437425.T0	GA0070623_RS07480	32	293	36.662452591656134	8.92e-78
+
+
+
+>>
+13. NZ_CP058322
+Source: Micromonospora carbonacea strain aurantiaca chromosome, complete genome
+Type: NRPS-like,T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1692.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+HXZ27_RS10280	HXZ27_RS10280	2360233	2360847	-	MEDS_domain-containing_protein
+HXZ27_RS10315	HXZ27_RS10315	2366439	2367174	-	class_I_SAM-dependent_methyltransferase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_437423.T0	HXZ27_RS10330	31	62	48.58757062146893	2.72e-08
+CopciAB_437425.T0	HXZ27_RS10365	31	376	48.3354403708386	2.98e-102
+CopciAB_437425.T0	HXZ27_RS10450	32	328	39.10661609776654	8.99e-88
+CopciAB_437425.T0	HXZ27_RS10475	31	316	39.94943109987358	3.84e-84
+CopciAB_437425.T0	HXZ27_RS10460	31	309	39.02233459755583	6.37e-82
+CopciAB_437425.T0	HXZ27_RS10480	31	301	39.10661609776654	5.81e-81
+
+
+
+>>
+14. NZ_BBVA01000002
+Source: Micromonospora sp. NBRC 110037, whole genome shotgun sequence
+Type: NRPS,T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1084.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+A4R25_RS02310	A4R25_RS02310	536202	550619	+	SDR_family_NAD(P)-dependent_oxidoreductase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_437423.T0	A4R25_RS02285	32	63	49.152542372881356	1.16e-08
+CopciAB_437423.T0	A4R25_RS02320	31	56	47.740112994350284	2.54e-06
+CopciAB_437425.T0	A4R25_RS02330	31	330	39.233038348082594	1.83e-88
+CopciAB_437425.T0	A4R25_RS02310	31	320	38.81163084702908	2.55e-85
+CopciAB_437425.T0	A4R25_RS02360	31	315	39.19089759797724	5.02e-84
+
+
+
+>>
+15. NZ_FWXV01000001
+Source: Kibdelosporangium aridum strain DSM 43828, whole genome shotgun sequence
+Type: PKS-like,T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1076.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+B9C43_RS00875	B9C43_RS00875	249598	264798	+	SDR_family_NAD(P)-dependent_oxidoreductase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_437423.T0	B9C43_RS00880	32	71	65.5367231638418	3.87e-11
+CopciAB_437425.T0	B9C43_RS00775	32	355	40.202275600505686	3.47e-96
+CopciAB_437425.T0	B9C43_RS00870	31	333	37.75811209439528	2.85e-89
+CopciAB_437425.T0	B9C43_RS00880	31	317	37.715971344289926	1.92e-84
+
+
+
+>>
+16. NW_020939762
+Source: Sparassis crispa DNA, contig_000015F, whole genome shotgun sequence
+Type: T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1051.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_1002282.T0	SCP_1601610	36	300	90.54820415879017	5.33e-94
+CopciAB_437425.T0	SCP_1601690	46	751	38.13737884534344	2.81e-237
+
+
+
+>>
+17. NZ_LT607753
+Source: Micromonospora coxensis strain DSM 45161 chromosome I
+Type: NRPS,T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1039.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+GA0070614_RS28305	GA0070614_RS28305	6201887	6204967	-	amino_acid_adenylation_domain-containing_protein
+GA0070614_RS28360	GA0070614_RS28360	6249837	6266639	+	SDR_family_NAD(P)-dependent_oxidoreductase
+GA0070614_RS28365	GA0070614_RS28365	6266811	6267605	+	zinc-binding_dehydrogenase
+GA0070614_RS28395	GA0070614_RS28395	6340223	6343642	+	acyltransferase_domain-containing_protein
+GA0070614_RS28400	GA0070614_RS28400	6343871	6354529	+	SDR_family_NAD(P)-dependent_oxidoreductase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_437423.T0	GA0070614_RS28325	31	63	48.58757062146893	1.16e-08
+CopciAB_437425.T0	GA0070614_RS28395	31	327	38.43236409608091	2.32e-90
+CopciAB_437425.T0	GA0070614_RS28370	32	327	38.64306784660767	8.64e-88
+CopciAB_437425.T0	GA0070614_RS28415	32	322	39.57016434892541	5.03e-86
+
+
+
+>>
+18. NZ_CP050976
+Source: Streptomyces sp. RPA4-5 chromosome
+Type: T1PKS,bacteriocin
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1034.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+HEP86_RS36930	HEP86_RS36930	8340405	8340491	+	hypothetical_protein
+HEP86_RS36935	HEP86_RS36935	8340534	8348278	+	SDR_family_NAD(P)-dependent_oxidoreductase
+HEP86_RS36940	HEP86_RS36940	8348539	8350725	+	KR_domain-containing_protein
+HEP86_RS36945	HEP86_RS36945	8351107	8352000	+	acyltransferase_domain-containing_protein
+HEP86_RS36950	HEP86_RS36950	8352916	8354118	+	SDR_family_NAD(P)-dependent_oxidoreductase
+HEP86_RS36955	HEP86_RS36955	8354239	8355933	+	type_I_polyketide_synthase
+HEP86_RS36960	HEP86_RS36960	8357089	8358114	+	beta-ketoacyl_synthase
+HEP86_RS36965	HEP86_RS36965	8358442	8362467	+	SDR_family_NAD(P)-dependent_oxidoreductase
+HEP86_RS36970	HEP86_RS36970	8363863	8364867	+	SDR_family_NAD(P)-dependent_oxidoreductase
+HEP86_RS36980	HEP86_RS36980	8370132	8371073	+	hypothetical_protein
+HEP86_RS36985	HEP86_RS36985	8371305	8377406	+	SDR_family_NAD(P)-dependent_oxidoreductase
+HEP86_RS36990	HEP86_RS36990	8377482	8381987	+	SDR_family_NAD(P)-dependent_oxidoreductase
+HEP86_RS36995	HEP86_RS36995	8382156	8383277	+	SDR_family_NAD(P)-dependent_oxidoreductase
+HEP86_RS37000	HEP86_RS37000	8383551	8383784	+	acyl_carrier_protein
+HEP86_RS37025	HEP86_RS37025	8390607	8391398	+	zinc-binding_dehydrogenase
+HEP86_RS37030	HEP86_RS37030	8391969	8394026	+	hypothetical_protein
+HEP86_RS37035	HEP86_RS37035	8394168	8395088	+	acyltransferase_domain-containing_protein
+HEP86_RS37040	HEP86_RS37040	8396001	8396576	+	SDR_family_NAD(P)-dependent_oxidoreductase
+HEP86_RS37045	HEP86_RS37045	8397057	8399825	+	type_I_polyketide_synthase
+HEP86_RS37050	HEP86_RS37050	8400597	8401874	+	SDR_family_NAD(P)-dependent_oxidoreductase
+HEP86_RS37075	HEP86_RS37075	8410872	8411354	+	SDR_family_oxidoreductase
+HEP86_RS37080	HEP86_RS37080	8411637	8418246	+	SDR_family_NAD(P)-dependent_oxidoreductase
+HEP86_RS37120	HEP86_RS37120	8425852	8426583	+	polyketide_synthase
+HEP86_RS37125	HEP86_RS37125	8426878	8427327	+	hypothetical_protein
+HEP86_RS37130	HEP86_RS37130	8427466	8428356	+	acyltransferase_domain-containing_protein
+HEP86_RS37135	HEP86_RS37135	8428408	8428761	+	acyl_carrier_protein
+HEP86_RS37140	HEP86_RS37140	8428762	8429586	+	polyketide_synthase
+HEP86_RS37145	HEP86_RS37145	8429914	8430267	+	hypothetical_protein
+HEP86_RS37150	HEP86_RS37150	8431339	8432361	+	polyketide_synthase
+HEP86_RS37155	HEP86_RS37155	8432707	8433456	+	SDR_family_NAD(P)-dependent_oxidoreductase
+HEP86_RS37160	HEP86_RS37160	8433469	8436639	+	acyltransferase_domain-containing_protein
+HEP86_RS37165	HEP86_RS37165	8436907	8438001	+	SDR_family_NAD(P)-dependent_oxidoreductase
+HEP86_RS37170	HEP86_RS37170	8438482	8440533	+	type_I_polyketide_synthase
+HEP86_RS37175	HEP86_RS37175	8441110	8442066	+	hypothetical_protein
+HEP86_RS37185	HEP86_RS37185	8446970	8449222	+	SDR_family_NAD(P)-dependent_oxidoreductase
+HEP86_RS37190	HEP86_RS37190	8449253	8451856	+	acyltransferase_domain-containing_protein
+HEP86_RS37195	HEP86_RS37195	8453816	8454265	+	modular_polyketide_synthase
+HEP86_RS37200	HEP86_RS37200	8454275	8456896	+	type_I_polyketide_synthase
+HEP86_RS37210	HEP86_RS37210	8463593	8467129	+	type_I_polyketide_synthase
+HEP86_RS37220	HEP86_RS37220	8474673	8477597	+	acyltransferase_domain-containing_protein
+HEP86_RS37225	HEP86_RS37225	8477955	8478713	+	SDR_family_NAD(P)-dependent_oxidoreductase
+HEP86_RS37230	HEP86_RS37230	8478720	8480135	+	polyketide_synthase
+HEP86_RS37235	HEP86_RS37235	8480331	8480726	+	hypothetical_protein
+HEP86_RS37240	HEP86_RS37240	8480859	8481767	+	acyltransferase_domain-containing_protein
+HEP86_RS37245	HEP86_RS37245	8481873	8482709	+	hypothetical_protein
+HEP86_RS37300	HEP86_RS37300	8505830	8507322	+	ISL3_family_transposase
+HEP86_RS37305	HEP86_RS37305	8507407	8508289	-	IS982_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_437423.T0	HEP86_RS37250	36	70	40.3954802259887	6.35e-11
+CopciAB_437423.T0	HEP86_RS37180	31	57	40.11299435028249	9.41e-07
+CopciAB_437425.T0	HEP86_RS36985	31	306	38.34808259587021	1.36e-81
+CopciAB_437425.T0	HEP86_RS37215	31	302	38.60092709650232	3.63e-80
+CopciAB_437425.T0	HEP86_RS37255	31	299	35.18752633796882	4e-79
+
+
+
+>>
+19. NZ_AUGH01000011
+Source: Salinispora pacifica CNS237 H303DRAFT_scaffold_5.6_C, whole genome shotgun sequence
+Type: T1PKS,betalactone
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1008.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+H303_RS28240	H303_RS28240	25969	28680	+	acyltransferase_domain-containing_protein
+H303_RS26720	H303_RS26720	28759	29568	+	polyketide_synthase
+H303_RS26725	H303_RS26725	30268	31041	+	zinc-binding_dehydrogenase
+H303_RS26730	H303_RS26730	31597	33420	+	polyketide_synthase
+H303_RS28245	H303_RS28245	35518	36099	+	SDR_family_NAD(P)-dependent_oxidoreductase
+H303_RS28250	H303_RS28250	36109	37437	+	polyketide_synthase
+H303_RS28255	H303_RS28255	37771	38088	+	polyketide_synthase
+H303_RS28260	H303_RS28260	38311	39237	+	acyltransferase_domain-containing_protein
+H303_RS28265	H303_RS28265	40159	41376	+	SDR_family_NAD(P)-dependent_oxidoreductase
+H303_RS24610	H303_RS24610	66036	66550	-	ISL3_family_transposase
+H303_RS26740	H303_RS26740	67064	67210	+	ISAs1_family_transposase
+H303_RS26745	H303_RS26745	67386	67600	+	ISAs1_family_transposase
+H303_RS24620	H303_RS24620	67620	67840	+	ISAs1_family_transposase
+H303_RS26750	H303_RS26750	68184	71392	+	tetratricopeptide_repeat_protein
+H303_RS0100135	H303_RS0100135	78639	78905	-	ABC_transporter_ATP-binding_protein
+H303_RS28275	H303_RS28275	79345	79488	-	IS701_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_437423.T0	H303_RS26725	32	56	40.11299435028249	5.34e-07
+CopciAB_437425.T0	H303_RS24590	31	339	38.81163084702908	3.56e-91
+CopciAB_437425.T0	H303_RS0100035	31	315	38.64306784660767	1.42e-84
+CopciAB_437425.T0	H303_RS28240	31	298	38.305941845764856	3.78e-82
+
+
+
+>>
+20. NZ_CP031264
+Source: Streptacidiphilus bronchialis strain DSM 106435 chromosome, complete genome
+Type: T1PKS,T3PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 988.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+C7M71_RS25720	C7M71_RS25720	5927590	5940213	+	SDR_family_NAD(P)-dependent_oxidoreductase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_437423.T0	C7M71_RS25725	31	69	68.64406779661016	2.11e-10
+CopciAB_437425.T0	C7M71_RS25735	31	315	38.769490096923725	2.9e-84
+CopciAB_437425.T0	C7M71_RS25825	31	310	38.39022334597556	1.66e-82
+CopciAB_437425.T0	C7M71_RS25700	31	294	38.05309734513274	1.66e-77
+
+
+
+>>
+21. NZ_CP022685
+Source: Streptomyces formicae strain KY5 chromosome, complete genome
+Type: T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 810.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+KY5_RS37065	KY5_RS37065	8509524	8509658	+	4-hydroxybenzoate_3-monooxygenase
+KY5_RS41595	KY5_RS41595	8629759	8629869	-	NUDIX_hydrolase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_437423.T0	KY5_RS37060	32	83	63.559322033898304	1.07e-15
+CopciAB_437425.T0	KY5_RS37160	31	383	48.54614412136536	1.65e-104
+CopciAB_437425.T0	KY5_RS37150	31	344	39.317319848293295	1.18e-92
+
+
+
+>>
+22. NC_016582
+Source: Streptomyces bingchenggensis BCW-1, complete sequence
+Type: NRPS,T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 782.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+SBI_RS02910	SBI_RS02910	777510	778361	-	LuxR_family_transcriptional_regulator
+SBI_RS53585	SBI_RS53585	786426	786586	+	integrase
+SBI_RS53590	SBI_RS53590	814830	814940	+	transcriptional_regulator
+SBI_RS03045	SBI_RS03045	827353	828188	-	phosphotransferase
+SBI_RS55370	SBI_RS55370	829595	829945	+	hypothetical_protein
+SBI_RS03095	SBI_RS03095	840405	848153	-	type_I_polyketide_synthase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_437423.T0	SBI_RS03095	34	74	51.69491525423729	4.85e-12
+CopciAB_437423.T0	SBI_RS03105	31	68	53.672316384180796	3.84e-10
+CopciAB_437425.T0	SBI_RS54635	31	323	38.64306784660767	3e-86
+CopciAB_437425.T0	SBI_RS54640	31	317	39.148756847871894	1.7e-84
+
+
+
+>>
+23. NZ_CP030865
+Source: Micromonospora sp. B006 chromosome, complete genome
+Type: NRPS,T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 771.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+MicB006_RS15340	MicB006_RS15340	3435768	3436478	-	FtsX-like_permease_family_protein
+MicB006_RS15430	MicB006_RS15430	3456997	3457233	+	alcohol_dehydrogenase
+MicB006_RS15450	MicB006_RS15450	3459818	3460300	-	IS110_family_transposase
+MicB006_RS15455	MicB006_RS15455	3460471	3460986	+	IS256_family_transposase
+MicB006_RS15460	MicB006_RS15460	3460914	3461203	-	hypothetical_protein
+MicB006_RS15525	MicB006_RS15525	3488856	3489404	-	IS110_family_transposase
+MicB006_RS15530	MicB006_RS15530	3489534	3490429	+	IS5_family_transposase
+MicB006_RS15535	MicB006_RS15535	3490444	3490962	-	IS110_family_transposase
+MicB006_RS15540	MicB006_RS15540	3490969	3491088	+	winged_helix-turn-helix_domain-containing_protein
+MicB006_RS15565	MicB006_RS15565	3495475	3495588	+	helix-turn-helix_domain-containing_protein
+MicB006_RS15570	MicB006_RS15570	3495725	3496472	+	ABC_transporter_ATP-binding_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_437423.T0	MicB006_RS15210	31	62	49.152542372881356	3.62e-08
+CopciAB_437423.T0	MicB006_RS15175	31	56	47.740112994350284	2.54e-06
+CopciAB_437425.T0	MicB006_RS15165	31	333	39.317319848293295	2.76e-89
+CopciAB_437425.T0	MicB006_RS15135	31	320	39.19089759797724	2.57e-85
+
+
+
+>>
+24. NZ_SNXZ01000007
+Source: Labedaea rhizosphaerae strain DSM 45361 Ga0310470_107, whole genome shotgun sequence
+Type: LAP,NRPS,T1PKS,oligosaccharide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 763.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+EV186_RS31740	EV186_RS31740	77628	80765	-	amino_acid_adenylation_domain-containing_protein
+EV186_RS39160	EV186_RS39160	140326	140760	+	alcohol_dehydrogenase_catalytic_domain-containing_protein
+EV186_RS31870	EV186_RS31870	165449	168349	+	type_I_polyketide_synthase
+EV186_RS31875	EV186_RS31875	170174	178108	+	SDR_family_NAD(P)-dependent_oxidoreductase
+EV186_RS39165	EV186_RS39165	182255	183151	+	polyketide_synthase
+EV186_RS31880	EV186_RS31880	183605	183817	+	alcohol_dehydrogenase_catalytic_domain-containing_protein
+EV186_RS31895	EV186_RS31895	212666	215455	+	type_I_polyketide_synthase
+EV186_RS31900	EV186_RS31900	215861	216577	+	SDR_family_NAD(P)-dependent_oxidoreductase
+EV186_RS31905	EV186_RS31905	216587	217081	+	hypothetical_protein
+EV186_RS31910	EV186_RS31910	217169	218392	+	polyketide_synthase
+EV186_RS31915	EV186_RS31915	218675	219376	+	acyltransferase_domain-containing_protein
+EV186_RS31920	EV186_RS31920	219746	220897	+	SDR_family_NAD(P)-dependent_oxidoreductase
+EV186_RS31925	EV186_RS31925	220961	223244	+	hypothetical_protein
+EV186_RS39170	EV186_RS39170	223190	224827	+	acyltransferase_domain-containing_protein
+EV186_RS39175	EV186_RS39175	225254	225652	+	alcohol_dehydrogenase_catalytic_domain-containing_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_437423.T0	EV186_RS31835	35	77	50.56497175141242	4.9e-13
+CopciAB_437423.T0	EV186_RS31890	32	64	45.76271186440678	8.87e-09
+CopciAB_437425.T0	EV186_RS31890	31	312	38.305941845764856	8.51e-83
+CopciAB_437425.T0	EV186_RS31850	31	310	34.344711335861774	9.88e-83
+
+
+
+>>
+25. NZ_LT607733
+Source: Micromonospora echinofusca strain DSM 43913 chromosome I
+Type: NRPS,T1PKS,siderophore
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 760.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_437423.T0	GA0070610_RS16075	31	62	49.152542372881356	2.05e-08
+CopciAB_437423.T0	GA0070610_RS16040	32	59	47.740112994350284	2.66e-07
+CopciAB_437425.T0	GA0070610_RS16050	31	323	39.35946059839865	4.32e-86
+CopciAB_437425.T0	GA0070610_RS16000	32	316	39.317319848293295	2.92e-84
+
+
+
+>>
+26. NZ_CP018627
+Source: Streptomyces hygroscopicus strain XM201 chromosome, complete genome
+Type: T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 730.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+SHXM_RS53245	SHXM_RS53245	10714455	10714541	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_437423.T0	SHXM_RS45345	32	74	57.6271186440678	3.76e-12
+CopciAB_437425.T0	SHXM_RS45360	31	329	39.10661609776654	3.91e-88
+CopciAB_437425.T0	SHXM_RS45370	31	327	39.02233459755583	1.98e-87
+
+
+
+>>
+27. NZ_CP022545
+Source: Streptomyces sp. 11-1-2 chromosome, complete genome
+Type: T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 729.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+CGL27_RS50525	CGL27_RS50525	10787880	10787966	+	hypothetical_protein
+CGL27_RS46000	CGL27_RS46000	10835197	10836596	+	APC_family_permease
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_437423.T0	CGL27_RS45890	32	74	57.6271186440678	3.76e-12
+CopciAB_437425.T0	CGL27_RS45905	31	330	39.10661609776654	2.28e-88
+CopciAB_437425.T0	CGL27_RS45915	31	325	39.02233459755583	5.83e-87
+
+
+
+>>
+28. NZ_CP019883
+Source: Mycobacterium kansasii strain 1MK genome
+Type: NRPS,NRPS-like,T1PKS,lanthipeptide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 721.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+B1T43_RS05075	B1T43_RS05075	1168166	1169198	+	transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_437423.T0	B1T43_RS05010	31	65	47.740112994350284	3.51e-09
+CopciAB_437425.T0	B1T43_RS05000	33	339	35.39823008849557	1.04e-91
+CopciAB_437425.T0	B1T43_RS05005	31	317	35.77749683944374	2.18e-85
+
+
+
+>>
+29. NZ_LT963352
+Source: Streptomyces chartreusis NRRL 3882 isolate NRRL3882 chromosome I
+Type: T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 705.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+SCNRRL3882_RS35485	SCNRRL3882_RS35485	7816901	7819699	+	type_I_polyketide_synthase
+SCNRRL3882_RS35490	SCNRRL3882_RS35490	7820552	7821799	+	SDR_family_NAD(P)-dependent_oxidoreductase
+SCNRRL3882_RS41220	SCNRRL3882_RS41220	7822421	7824112	+	acyltransferase_domain-containing_protein
+SCNRRL3882_RS41225	SCNRRL3882_RS41225	7824926	7825903	+	polyketide_synthase_dehydratase_domain-containing_protein
+SCNRRL3882_RS35505	SCNRRL3882_RS35505	7826813	7827460	+	zinc-binding_dehydrogenase
+SCNRRL3882_RS35650	SCNRRL3882_RS35650	7885037	7885800	+	alpha/beta_hydrolase
+SCNRRL3882_RS35655	SCNRRL3882_RS35655	7885910	7886736	+	helix-turn-helix_domain-containing_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_437423.T0	SCNRRL3882_RS35595	31	68	48.0225988700565	3.56e-10
+CopciAB_437425.T0	SCNRRL3882_RS35485	31	321	37.96881584492204	1.17e-89
+CopciAB_437425.T0	SCNRRL3882_RS35515	31	316	38.305941845764856	8.04e-85
+
+
+
+>>
+30. NZ_AMPN02000002
+Source: Streptomyces sp. SM8 Scaffold_2, whole genome shotgun sequence
+Type: NRPS,NRPS-like,T1PKS,lanthipeptide,transAT-PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 676.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+SM8_RS31120	SM8_RS31120	6664429	6665119	-	cholesterol_esterase
+SM8_RS31195	SM8_RS31195	6678278	6678512	+	hypothetical_protein
+SM8_RS31200	SM8_RS31200	6678613	6679047	+	hypothetical_protein
+SM8_RS31210	SM8_RS31210	6680780	6681884	+	beta-ketoacyl_synthase
+SM8_RS31215	SM8_RS31215	6681985	6698753	+	SDR_family_NAD(P)-dependent_oxidoreductase
+SM8_RS31245	SM8_RS31245	6719896	6725146	+	SDR_family_NAD(P)-dependent_oxidoreductase
+SM8_RS31250	SM8_RS31250	6725249	6732084	+	acyltransferase_domain-containing_protein
+SM8_RS31255	SM8_RS31255	6732122	6733405	+	hypothetical_protein
+SM8_RS31265	SM8_RS31265	6738034	6754680	+	SDR_family_NAD(P)-dependent_oxidoreductase
+SM8_RS31275	SM8_RS31275	6762230	6763171	+	beta-ketoacyl_synthase
+SM8_RS31280	SM8_RS31280	6763274	6767068	+	SDR_family_NAD(P)-dependent_oxidoreductase
+SM8_RS31285	SM8_RS31285	6767170	6774262	+	SDR_family_NAD(P)-dependent_oxidoreductase
+SM8_RS31335	SM8_RS31335	6797755	6798823	-	cytochrome_P450
+SM8_RS31350	SM8_RS31350	6801846	6803492	+	AAA_family_ATPase
+SM8_RS31355	SM8_RS31355	6803593	6804549	+	LuxR_family_transcriptional_regulator
+SM8_RS31360	SM8_RS31360	6804608	6806826	+	AAA_family_ATPase
+SM8_RS31370	SM8_RS31370	6808930	6809589	+	LuxR_family_transcriptional_regulator
+SM8_RS31390	SM8_RS31390	6813476	6814140	-	ATP-binding_cassette_domain-containing_protein
+SM8_RS31400	SM8_RS31400	6814945	6816965	-	branched-chain_amino_acid_ABC_transporter_permease
+SM8_RS31500	SM8_RS31500	6847086	6853025	-	amino_acid_adenylation_domain-containing_protein
+SM8_RS31505	SM8_RS31505	6853293	6853880	-	MFS_transporter
+SM8_RS31510	SM8_RS31510	6853983	6858239	-	acyltransferase_domain-containing_protein
+SM8_RS31515	SM8_RS31515	6858238	6859023	-	MFS_transporter
+SM8_RS31530	SM8_RS31530	6863053	6865822	+	AAA_family_ATPase
+SM8_RS31535	SM8_RS31535	6865977	6867676	+	AfsR_family_transcriptional_regulator
+SM8_RS31565	SM8_RS31565	6873794	6876729	+	AAA_family_ATPase
+SM8_RS31580	SM8_RS31580	6878382	6878911	-	hypothetical_protein
+SM8_RS31615	SM8_RS31615	6893773	6899043	+	SDR_family_NAD(P)-dependent_oxidoreductase
+SM8_RS31620	SM8_RS31620	6899044	6902267	+	hypothetical_protein
+SM8_RS31625	SM8_RS31625	6902306	6905404	+	amino_acid_adenylation_protein
+SM8_RS31640	SM8_RS31640	6909292	6913033	+	aminotransferase_class_I/II-fold_pyridoxal_phosphate-dependent_enzyme
+SM8_RS31710	SM8_RS31710	6925065	6925755	-	IS701_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_371128.T0	SM8_RS31170	32	68	45.47563805104408	1.64e-10
+CopciAB_437425.T0	SM8_RS31235	31	312	38.98019384745049	3.34e-83
+CopciAB_437425.T0	SM8_RS31315	31	296	35.27180783817952	1.37e-78
+
+
+
+>>
+31. NZ_CP054925
+Source: Amycolatopsis sp. Hca4 chromosome, complete genome
+Type: NRPS-like,T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 667.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+HUT10_RS01915	HUT10_RS01915	412369	413129	-	DeoR/GlpR_transcriptional_regulator
+HUT10_RS01950	HUT10_RS01950	421529	444549	+	SDR_family_NAD(P)-dependent_oxidoreductase
+HUT10_RS01955	HUT10_RS01955	444561	447182	+	type_I_polyketide_synthase
+HUT10_RS01960	HUT10_RS01960	447915	448871	+	alcohol_dehydrogenase_catalytic_domain-containing_protein
+HUT10_RS01965	HUT10_RS01965	448869	449546	+	zinc-binding_dehydrogenase
+HUT10_RS02000	HUT10_RS02000	466338	467392	-	DegT/DnrJ/EryC1/StrS_family_aminotransferase
+HUT10_RS02015	HUT10_RS02015	473064	473765	+	polyketide_synthase_dehydratase_domain-containing_protein
+HUT10_RS02020	HUT10_RS02020	474279	475001	+	SDR_family_NAD(P)-dependent_oxidoreductase
+HUT10_RS02025	HUT10_RS02025	475401	477392	+	acyltransferase_domain-containing_protein
+HUT10_RS02030	HUT10_RS02030	478152	478922	+	polyketide_synthase_dehydratase_domain-containing_protein
+HUT10_RS02035	HUT10_RS02035	479547	479792	+	alcohol_dehydrogenase_catalytic_domain-containing_protein
+HUT10_RS02040	HUT10_RS02040	480405	481001	+	SDR_family_NAD(P)-dependent_oxidoreductase
+HUT10_RS02045	HUT10_RS02045	481014	486113	+	SDR_family_NAD(P)-dependent_oxidoreductase
+HUT10_RS02050	HUT10_RS02050	486126	486623	+	polyketide_synthase
+HUT10_RS02055	HUT10_RS02055	486811	491971	+	SDR_family_NAD(P)-dependent_oxidoreductase
+HUT10_RS02060	HUT10_RS02060	492003	496019	+	polyketide_synthase_dehydratase_domain-containing_protein
+HUT10_RS02065	HUT10_RS02065	496095	496346	+	alcohol_dehydrogenase_catalytic_domain-containing_protein
+HUT10_RS02070	HUT10_RS02070	496959	497795	+	SDR_family_NAD(P)-dependent_oxidoreductase
+HUT10_RS02075	HUT10_RS02075	499287	499583	+	hypothetical_protein
+HUT10_RS02080	HUT10_RS02080	499710	502583	+	SDR_family_NAD(P)-dependent_oxidoreductase
+HUT10_RS02085	HUT10_RS02085	502632	505679	+	acyltransferase_domain-containing_protein
+HUT10_RS02090	HUT10_RS02090	507105	508010	+	zinc-binding_dehydrogenase
+HUT10_RS02100	HUT10_RS02100	518812	521525	+	type_I_polyketide_synthase
+HUT10_RS02115	HUT10_RS02115	528578	540137	+	SDR_family_NAD(P)-dependent_oxidoreductase
+HUT10_RS02155	HUT10_RS02155	549802	551188	-	lysine_2,3-aminomutase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_437423.T0	HUT10_RS01970	31	63	48.30508474576271	1.27e-08
+CopciAB_437425.T0	HUT10_RS01950	31	323	38.2638010956595	3.68e-86
+CopciAB_437425.T0	HUT10_RS02010	32	281	31.521281078803202	7.44e-76
+
+
+
+>>
+32. NZ_CP026304
+Source: Streptomyces lunaelactis strain MM109 chromosome, complete genome
+Type: NRPS,T1PKS,T2PKS,arylpolyene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 574.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_371185.T0	SLUN_RS33690	39	261	78.31775700934578	1.76e-79
+CopciAB_437425.T0	SLUN_RS33410	32	313	35.18752633796882	8.89e-87
+
+
+
+>>
+33. NZ_CM002285
+Source: Streptomyces roseochromogenus subsp. oscitans DS 12.976 chromosome, whole genome shotgun sequence
+Type: T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 563.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+M878_RS96010	M878_RS96010	445167	445349	-	hypothetical_protein
+M878_RS52540	M878_RS52540	452967	453449	+	CocE/NonD_family_hydrolase
+M878_RS52685	M878_RS52685	525569	526060	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_371185.T0	M878_RS52535	38	248	70.65420560747664	2.13e-74
+CopciAB_437425.T0	M878_RS52670	31	315	38.64306784660767	1.1e-87
+
+
+
+>>
+34. NZ_KE150468
+Source: Streptomyces sp. HPH0547 aczHZ-supercont1.1, whole genome shotgun sequence
+Type: T1PKS,T2PKS,lanthipeptide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 543.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+HMPREF1486_RS06955	HMPREF1486_RS06955	1767243	1767710	+	hypothetical_protein
+HMPREF1486_RS07170	HMPREF1486_RS07170	1810071	1810910	-	4'-phosphopantetheinyl_transferase_superfamily_protein
+HMPREF1486_RS07230	HMPREF1486_RS07230	1826971	1828148	+	amidohydrolase_family_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_371185.T0	HMPREF1486_RS06980	40	270	78.69158878504673	1.58e-82
+CopciAB_437425.T0	HMPREF1486_RS07195	31	273	31.98482932996207	2.84e-73
+
+
+
+>>
+35. NZ_CP048875
+Source: Streptomyces albus strain CAS922 chromosome, complete genome
+Type: T1PKS,T2PKS,lanthipeptide,terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 541.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+G3260_RS09015	G3260_RS09015	2187769	2188397	-	hypothetical_protein
+G3260_RS09035	G3260_RS09035	2190530	2191312	+	ABC_transporter_permease
+G3260_RS09140	G3260_RS09140	2214265	2214732	+	hypothetical_protein
+G3260_RS09255	G3260_RS09255	2237761	2238951	-	IS110_family_transposase
+G3260_RS09405	G3260_RS09405	2263475	2264308	-	4'-phosphopantetheinyl_transferase_superfamily_protein
+G3260_RS09465	G3260_RS09465	2280243	2281522	+	amidohydrolase_family_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_371185.T0	G3260_RS09165	40	268	78.69158878504673	4.39e-82
+CopciAB_437425.T0	G3260_RS09430	31	273	31.98482932996207	1.91e-73
+
+
+
+>>
+36. NZ_CP012159
+Source: Chondromyces crocatus strain Cm c5 chromosome, complete genome
+Type: NRPS,NRPS-like,T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 531.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+CMC5_RS46650	CMC5_RS46650	7166550	7167275	-	PAS_domain-containing_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_371185.T0	CMC5_RS26210	32	153	67.85046728971963	1.25e-38
+CopciAB_437425.T0	CMC5_RS26230	31	378	49.473240623683104	8.29e-104
+
+
+
+>>
+37. NZ_LJSN01000002
+Source: Streptomyces noursei strain JCM 4701 scaffold2, whole genome shotgun sequence
+Type: NRPS-like,T1PKS,terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 518.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+AOB60_RS03030	AOB60_RS03030	332225	332419	-	transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_437423.T0	AOB60_RS03145	32	73	54.80225988700565	6.34e-12
+CopciAB_437423.T0	AOB60_RS03140	31	71	58.47457627118644	5.03e-11
+CopciAB_437425.T0	AOB60_RS03140	31	374	48.37758112094395	1.11e-101
+
+
+
+>>
+38. NZ_CP045803
+Source: Streptomyces rimosus R6-500 chromosome
+Type: NRPS-like,T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 504.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+V519_RS25835	V519_RS25835	5878639	5878743	+	XRE_family_transcriptional_regulator
+V519_RS25955	V519_RS25955	5978687	5978830	-	cytochrome_P450
+V519_RS25965	V519_RS25965	5979608	5980278	-	gamma-glutamyl-gamma-aminobutyrate_hydrolase_family_protein
+V519_RS26015	V519_RS26015	5988378	5988716	-	DNA-binding_response_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_437423.T0	V519_RS25890	33	73	58.19209039548022	6.71e-12
+CopciAB_437423.T0	V519_RS25885	32	71	54.51977401129944	3.57e-11
+CopciAB_437425.T0	V519_RS25885	31	360	48.2511588706279	4.09e-98
+
+
+
+>>
+39. NZ_CP031264
+Source: Streptacidiphilus bronchialis strain DSM 106435 chromosome, complete genome
+Type: NRPS,T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 496.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+C7M71_RS24495	C7M71_RS24495	5552789	5553415	+	ATP-binding_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_371185.T0	C7M71_RS24620	34	172	62.616822429906534	3.36e-46
+CopciAB_437425.T0	C7M71_RS24590	32	324	34.850400337126004	1.95e-89
+
+
+
+>>
+40. NZ_CP031455
+Source: Streptomyces olivoreticuli subsp. olivoreticuli strain ATCC 31159 chromosome, complete genome
+Type: T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 490.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_437423.T0	DXZ73_RS36005	34	76	48.58757062146893	6.86e-13
+CopciAB_437423.T0	DXZ73_RS35995	31	76	55.6497175141243	8.48e-13
+CopciAB_437425.T0	DXZ73_RS35985	31	338	39.148756847871894	9.8e-91
+
+
+
+>>
+41. NZ_WEGK01000001
+Source: Nocardia sp. RB20 NRB20_1, whole genome shotgun sequence
+Type: NRPS,T1PKS,hglE-KS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 489.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+NRB20_RS00725	NRB20_RS00725	156865	157482	+	MBL_fold_metallo-hydrolase
+NRB20_RS01010	NRB20_RS01010	218265	219407	+	sn-glycerol-3-phosphate_ABC_transporter_ATP-binding_protein_UgpC
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_437423.T0	NRB20_RS01095	31	77	59.6045197740113	8.81e-14
+CopciAB_437425.T0	NRB20_RS01135	31	412	47.45048461862621	5.8e-114
+
+
+
+>>
+42. NZ_CP016174
+Source: Amycolatopsis orientalis strain B-37 chromosome, complete genome
+Type: NRPS-like,T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 480.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+SD37_RS42580	SD37_RS42580	2433531	2433639	+	tyrosine-type_recombinase/integrase
+SD37_RS10860	SD37_RS10860	2458772	2460771	-	carbamoyltransferase
+SD37_RS42595	SD37_RS42595	2501813	2503012	+	polyketide_synthase
+SD37_RS42600	SD37_RS42600	2506349	2508097	+	hypothetical_protein
+SD37_RS42605	SD37_RS42605	2508209	2509279	+	acyltransferase_domain-containing_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_371185.T0	SD37_RS10910	31	145	64.48598130841121	2.33e-36
+CopciAB_437425.T0	SD37_RS10815	31	335	37.50526759376317	6.79e-90
+
+
+
+>>
+43. NZ_KB913032
+Source: Amycolatopsis alba DSM 44262 scaffold1, whole genome shotgun sequence
+Type: NRPS-like,T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 465.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+AMYAL_RS50055	AMYAL_RS50055	8539960	8545233	+	AMP-binding_protein
+AMYAL_RS50060	AMYAL_RS50060	8546344	8547336	+	zinc-binding_dehydrogenase
+AMYAL_RS50065	AMYAL_RS50065	8547340	8550891	+	SDR_family_oxidoreductase
+AMYAL_RS50070	AMYAL_RS50070	8551273	8552457	+	SDR_family_NAD(P)-dependent_oxidoreductase
+AMYAL_RS47395	AMYAL_RS47395	8562646	8563111	-	transposase
+AMYAL_RS50075	AMYAL_RS50075	8564874	8564981	+	amidohydrolase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_371185.T0	AMYAL_RS0139550	31	142	64.48598130841121	5.54e-35
+CopciAB_437425.T0	AMYAL_RS50065	31	323	37.29456384323641	7.72e-89
+
+
+
+>>
+44. NC_018750
+Source: Streptomyces venezuelae ATCC 10712, complete genome
+Type: NRPS,NRPS-like,T1PKS,T3PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 457.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+SVEN_RS02385	SVEN_RS02385	550697	551591	-	IS982_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_371185.T0	SVEN_RS02330	33	152	63.55140186915887	7.65e-39
+CopciAB_437425.T0	SVEN_RS02325	31	305	38.81163084702908	3.73e-81
+
+
+
+>>
+45. NZ_CP029195
+Source: Streptomyces venezuelae strain ATCC 10595 chromosome, complete genome
+Type: NRPS,NRPS-like,T1PKS,T3PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 457.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+DEJ45_RS32680	DEJ45_RS32680	7307309	7307626	+	glycoside_hydrolase_family_15_protein
+DEJ45_RS32930	DEJ45_RS32930	7383223	7383348	+	ABC_transporter_permease
+DEJ45_RS32940	DEJ45_RS32940	7383691	7384809	-	ABC_transporter_ATP-binding_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_371185.T0	DEJ45_RS32850	33	152	63.55140186915887	7.65e-39
+CopciAB_437425.T0	DEJ45_RS32855	31	305	38.81163084702908	3.75e-81
+
+
+
+>>
+46. NZ_CP015867
+Source: Streptomyces parvulus strain 2297 plasmid pSPA1, complete sequence
+Type: NRPS,NRPS-like,T1PKS,T2PKS,betalactone,butyrolactone,other
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 455.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+Spa2297_RS35105	Spa2297_RS35105	6647	6874	-	DUF2267_domain-containing_protein
+Spa2297_RS32790	Spa2297_RS32790	187594	189282	+	acyl-CoA_dehydrogenase
+Spa2297_RS33070	Spa2297_RS33070	311892	312449	-	antibiotic_biosynthesis_protein
+Spa2297_RS33245	Spa2297_RS33245	384716	385153	+	pentachlorophenol_monooxygenase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_371185.T0	Spa2297_RS32580	32	137	68.03738317757009	3.64e-33
+CopciAB_437425.T0	Spa2297_RS32900	31	318	37.96881584492204	7.51e-86
+
+
+
+>>
+47. NZ_CP029196
+Source: Streptomyces venezuelae strain ATCC 21113 chromosome, complete genome
+Type: NRPS,NRPS-like,T1PKS,T3PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 452.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+DEJ44_RS02425	DEJ44_RS02425	561659	562093	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_371185.T0	DEJ44_RS02305	33	152	63.55140186915887	7.65e-39
+CopciAB_437425.T0	DEJ44_RS02300	31	300	38.81163084702908	1.64e-79
+
+
+
+>>
+48. NZ_CP054916
+Source: Streptomyces sp. NA02950 chromosome, complete genome
+Type: NRPS,T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 452.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+HUT19_RS00600	HUT19_RS00600	122789	123119	-	helix-turn-helix_transcriptional_regulator
+HUT19_RS00605	HUT19_RS00605	123116	124194	-	site-specific_integrase
+HUT19_RS00610	HUT19_RS00610	124247	124369	+	IS701_family_transposase
+HUT19_RS00630	HUT19_RS00630	126976	127543	+	ATP/GTP-binding_protein
+HUT19_RS00640	HUT19_RS00640	128809	129117	-	type_I-E_CRISPR-associated_protein_Cas6/Cse3/CasE
+HUT19_RS00650	HUT19_RS00650	130583	132063	+	tyrosine-type_recombinase/integrase
+HUT19_RS00655	HUT19_RS00655	132093	132851	-	IS5_family_transposase
+HUT19_RS00670	HUT19_RS00670	134140	134648	+	ABC_transporter_ATP-binding_protein
+HUT19_RS00715	HUT19_RS00715	156748	157203	+	transposase
+HUT19_RS00720	HUT19_RS00720	157244	158437	-	IS3_family_transposase
+HUT19_RS00745	HUT19_RS00745	160444	160695	+	enoyl-CoA_hydratase/isomerase_family_protein
+HUT19_RS00785	HUT19_RS00785	167639	167797	+	helix-turn-helix_domain-containing_protein
+HUT19_RS00860	HUT19_RS00860	198241	199052	-	IS5_family_transposase
+HUT19_RS00970	HUT19_RS00970	234916	235489	-	SAM-dependent_methyltransferase
+HUT19_RS00975	HUT19_RS00975	235692	235928	+	hypothetical_protein
+HUT19_RS00980	HUT19_RS00980	237150	238010	-	transposase
+HUT19_RS00985	HUT19_RS00985	238007	238738	-	MFS_transporter
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_371185.T0	HUT19_RS00945	31	139	71.40186915887851	4.04e-34
+CopciAB_437425.T0	HUT19_RS00895	32	313	36.91529709228824	1.65e-83
+
+
+
+>>
+49. NZ_CP036534
+Source: Streptomyces sp. VN1 chromosome, complete genome
+Type: NRPS,T1PKS,T3PKS,oligosaccharide,other
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 440.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+EZV63_RS00065	EZV63_RS00065	14386	16827	-	helix-turn-helix_transcriptional_regulator
+EZV63_RS00090	EZV63_RS00090	23641	23749	-	thioesterase
+EZV63_RS00150	EZV63_RS00150	53965	56637	+	type_I_polyketide_synthase
+EZV63_RS00155	EZV63_RS00155	57787	58674	+	KR_domain-containing_protein
+EZV63_RS00160	EZV63_RS00160	58753	59187	+	hypothetical_protein
+EZV63_RS00165	EZV63_RS00165	59272	60000	+	polyketide_synthase
+EZV63_RS00170	EZV63_RS00170	60322	60717	+	hypothetical_protein
+EZV63_RS00175	EZV63_RS00175	61651	62700	+	hypothetical_protein
+EZV63_RS00180	EZV63_RS00180	63217	65358	+	SDR_family_NAD(P)-dependent_oxidoreductase
+EZV63_RS00185	EZV63_RS00185	65563	65940	+	hypothetical_protein
+EZV63_RS00190	EZV63_RS00190	66166	66975	+	acyltransferase_domain-containing_protein
+EZV63_RS00195	EZV63_RS00195	67927	69399	+	SDR_family_NAD(P)-dependent_oxidoreductase
+EZV63_RS00200	EZV63_RS00200	69610	72615	+	acyltransferase_domain-containing_protein
+EZV63_RS00205	EZV63_RS00205	73447	74706	+	SDR_family_NAD(P)-dependent_oxidoreductase
+EZV63_RS00210	EZV63_RS00210	74719	75225	+	hypothetical_protein
+EZV63_RS00450	EZV63_RS00450	175527	176252	-	KR_domain-containing_protein
+EZV63_RS00455	EZV63_RS00455	177255	179702	-	type_I_polyketide_synthase
+EZV63_RS00460	EZV63_RS00460	179823	180350	-	hypothetical_protein
+EZV63_RS00465	EZV63_RS00465	180360	180968	-	SDR_family_NAD(P)-dependent_oxidoreductase
+EZV63_RS00470	EZV63_RS00470	181623	182228	-	alcohol_dehydrogenase_catalytic_domain-containing_protein
+EZV63_RS00475	EZV63_RS00475	182517	183347	-	polyketide_synthase
+EZV63_RS00480	EZV63_RS00480	183477	184385	-	acyltransferase_domain-containing_protein
+EZV63_RS00485	EZV63_RS00485	184644	186137	-	polyketide_synthase
+EZV63_RS00495	EZV63_RS00495	186973	187644	-	SDR_family_NAD(P)-dependent_oxidoreductase
+EZV63_RS00500	EZV63_RS00500	188296	188715	-	alcohol_dehydrogenase_catalytic_domain-containing_protein
+EZV63_RS00505	EZV63_RS00505	190135	192780	-	type_I_polyketide_synthase
+EZV63_RS00510	EZV63_RS00510	192886	193260	-	acyl_carrier_protein
+EZV63_RS00515	EZV63_RS00515	193417	194178	-	SDR_family_NAD(P)-dependent_oxidoreductase
+EZV63_RS00520	EZV63_RS00520	194800	198006	-	acyltransferase_domain-containing_protein
+EZV63_RS00525	EZV63_RS00525	198028	198996	-	SDR_family_NAD(P)-dependent_oxidoreductase
+EZV63_RS00530	EZV63_RS00530	199183	200313	-	polyketide_synthase
+EZV63_RS00535	EZV63_RS00535	201355	202782	-	polyketide_synthase
+EZV63_RS00540	EZV63_RS00540	202933	203100	-	acyl_carrier_protein
+EZV63_RS00545	EZV63_RS00545	203695	204063	-	acyltransferase_domain-containing_protein
+EZV63_RS00550	EZV63_RS00550	204310	204786	-	hypothetical_protein
+EZV63_RS00555	EZV63_RS00555	205057	205803	-	polyketide_synthase
+EZV63_RS00575	EZV63_RS00575	209243	210280	+	LLM_class_flavin-dependent_oxidoreductase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_371185.T0	EZV63_RS00370	31	163	67.66355140186916	1.85e-42
+CopciAB_437425.T0	EZV63_RS00455	31	277	35.608933839022335	5.25e-76
+
+
+
+>>
+50. NZ_AP019620
+Source: Streptomyces antimycoticus strain NBRC 100767
+Type: T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 434.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+GYK45_RS29785	GYK45_RS29785	7021302	7031575	+	SDR_family_NAD(P)-dependent_oxidoreductase
+GYK45_RS29795	GYK45_RS29795	7057172	7062147	+	SDR_family_NAD(P)-dependent_oxidoreductase
+GYK45_RS29800	GYK45_RS29800	7062408	7078045	+	SDR_family_NAD(P)-dependent_oxidoreductase
+GYK45_RS29810	GYK45_RS29810	7099735	7109348	+	SDR_family_NAD(P)-dependent_oxidoreductase
+GYK45_RS29815	GYK45_RS29815	7109405	7126620	+	SDR_family_NAD(P)-dependent_oxidoreductase
+GYK45_RS29820	GYK45_RS29820	7126683	7138486	+	SDR_family_NAD(P)-dependent_oxidoreductase
+GYK45_RS29865	GYK45_RS29865	7150963	7151897	+	LysR_family_transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_371128.T0	GYK45_RS29885	33	119	62.41299303944315	4.84e-28
+CopciAB_437425.T0	GYK45_RS29790	31	315	35.44037083860093	7.75e-84
+

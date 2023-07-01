@@ -1,0 +1,54 @@
+ClusterBlast scores for scaffold_6
+
+Table of genes, locations, strands and annotations of query cluster:
+CopciAB_428477.T0	2370556	2372577	+		
+CopciAB_438833.T0	2372707	2373668	-		
+CopciAB_480560.T0	2374457	2375273	+		
+CopciAB_1001446.T0	2375877	2376467	+		
+CopciAB_480561.T0	2376959	2377916	+		
+CopciAB_1001447.T0	2378477	2379191	+		
+CopciAB_428490.T0	2380004	2381205	+		
+CopciAB_452524.T0	2381623	2382747	+		
+CopciAB_438837.T0	2383115	2383322	-		
+CopciAB_43445.T0	2383610	2385775	+		
+CopciAB_43479.T0	2387165	2389957	-		
+CopciAB_544081.T0	2391341	2392573	-		
+CopciAB_438844.T0	2393830	2396768	+		
+CopciAB_1001448.T0	2398463	2400228	+		
+
+
+Significant hits: 
+1. NW_006267369	Agaricus bisporus var. bisporus H97 unplaced genomic scaffold AGABI2scaffold_6, whole genome shotgun sequence
+2. NW_003315671	Schizophyllum commune H4-8 unplaced genomic scaffold SCHCOscaffold_2, whole genome shotgun sequence
+
+
+Details:
+
+>>
+1. NW_006267369
+Source: Agaricus bisporus var. bisporus H97 unplaced genomic scaffold AGABI2scaffold_6, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 777.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_438837.T0	AGABI2DRAFT_136564	59	82	100.0	6.04e-21
+CopciAB_43445.T0	AGABI2DRAFT_50291	79	695	80.54474708171206	1.9e-250
+
+
+
+>>
+2. NW_003315671
+Source: Schizophyllum commune H4-8 unplaced genomic scaffold SCHCOscaffold_2, whole genome shotgun sequence
+Type: terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 709.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_438837.T0	SCHCODRAFT_51205	57	69	95.58823529411765	2.12e-15
+CopciAB_43445.T0	SCHCODRAFT_84687	71	640	85.01945525291829	3.16e-227
+

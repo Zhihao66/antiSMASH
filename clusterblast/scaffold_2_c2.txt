@@ -1,0 +1,882 @@
+ClusterBlast scores for scaffold_2
+
+Table of genes, locations, strands and annotations of query cluster:
+CopciAB_504759.T0	1509256	1510298	+		
+CopciAB_537377.T0	1510525	1511745	-		
+CopciAB_537378.T0	1512155	1513440	-		
+CopciAB_384835.T0	1513673	1516469	-		
+CopciAB_461698.T0	1517066	1518223	-		
+CopciAB_451236.T0	1519026	1520375	+		
+CopciAB_2218.T0	1520900	1523225	+		
+CopciAB_492579.T0	1523632	1525781	-		
+CopciAB_436846.T0	1525955	1526547	+		
+CopciAB_2422.T0	1526572	1528450	-		
+CopciAB_2409.T0	1528581	1531800	+		
+CopciAB_483887.T0	1532016	1537237	-		
+CopciAB_461705.T0	1537347	1537914	+		
+CopciAB_354233.T0	1537957	1545917	-		
+CopciAB_492586.T0	1546654	1548569	+		
+CopciAB_411041.T0	1548867	1549655	+		
+CopciAB_451244.T0	1549751	1556369	-		
+CopciAB_2587.T0	1556658	1557807	-		
+CopciAB_492590.T0	1558077	1559177	+		
+CopciAB_353895.T0	1559378	1560921	+		
+CopciAB_492592.T0	1561059	1564721	-		
+CopciAB_2714.T0	1564919	1565171	+		
+CopciAB_354058.T0	1565167	1565693	-		
+CopciAB_353952.T0	1565806	1569136	+		
+CopciAB_436853.T0	1569318	1570506	+		
+CopciAB_461716.T0	1571129	1572388	+		
+CopciAB_1000404.T0	1573184	1573358	+		
+
+
+Significant hits: 
+1. CM008251	Phellinus noxius strain FFPRI411160 chromosome 1, whole genome shotgun sequence
+2. NZ_CP039374	Halomonas titanicae strain ANRCS81 chromosome, complete genome
+3. NZ_JPUA01000034	Halomonas campaniensis strain SK03 Sundar_PE_Contig_35, whole genome shotgun sequence
+4. NZ_CP048812	Halomonas socia strain CKY01 chromosome, complete genome
+5. NZ_CP046622	Variovorax paradoxus strain CSUSB chromosome, complete genome
+6. NZ_CP010415	Azotobacter chroococcum NCIMB 8003 chromosome, complete genome
+7. NZ_SMMU01000004	Azotobacter chroococcum strain DSM 2286 Ga0310512_104, whole genome shotgun sequence
+8. NW_001939252	Pyrenophora tritici-repentis Pt-1C-BFP supercont1.9, whole genome shotgun sequence
+9. NZ_AP022821	Halomonas meridiana strain Slthf1
+10. NZ_CP011052	Halomonas sp. KO116 chromosome, complete genome
+11. NZ_VNFE01000002	Halomonas titanicae strain SM1922 HT_scaffold2, whole genome shotgun sequence
+12. NC_014640	Achromobacter xylosoxidans A8, complete sequence
+13. NZ_CP022286	Halomonas sp. N3-2A genome
+14. NZ_CP027736	Pseudomonas chlororaphis subsp. piscium strain PCL1391 chromosome, complete genome
+15. NZ_CP027710	Pseudomonas chlororaphis subsp. piscium strain SLPH10 chromosome, complete genome
+16. NZ_CP027737	Pseudomonas chlororaphis subsp. piscium strain PCL1607 chromosome, complete genome
+17. NZ_CP027740	Pseudomonas chlororaphis subsp. piscium strain ChPhzS140 chromosome, complete genome
+18. NZ_CP025261	Pseudomonas sp. 09C 129 chromosome
+19. NZ_CP049045	Pseudomonas sp. BIOMIG1BAC chromosome, complete genome
+20. NZ_CP011110	Pseudomonas chlororaphis strain PCL1606 chromosome, complete genome
+21. NZ_FYEA01000001	Pseudomonas sp. Irchel 3H7 isolate Pseudomonas sp. Irchel 3H7, whole genome shotgun sequence
+22. NZ_QUMR01000005	Pseudomonas sp. OV221 Ga0215798_105, whole genome shotgun sequence
+23. NZ_CM001561	Pseudomonas fluorescens R124 chromosome, whole genome shotgun sequence
+24. NZ_CP029608	Pseudomonas kribbensis strain 46-2 chromosome, complete genome
+25. NZ_CP035088	Pseudomonas sp. 11K1 chromosome, complete genome
+26. NZ_FYDH01000002	Pseudomonas sp. Irchel s3h9 isolate Pseudomonas sp. Irchel s3h9, whole genome shotgun sequence
+27. NZ_NEHJ01000010	Pseudomonas sp. R43(2017) R43_10, whole genome shotgun sequence
+28. NZ_CABVHX010000001	Pseudomonas fluorescens isolate PS718, whole genome shotgun sequence
+29. NZ_CP014135	Pseudomonas agarici strain NCPPB 2472 chromosome
+30. NZ_CP045302	Azotobacter salinestris strain KACC 13899 chromosome, complete genome
+31. NZ_CP054880	Pseudomonas sp. 43A chromosome, complete genome
+32. NZ_CP048408	Pseudomonas fluorescens strain DR397 chromosome, complete genome
+33. NZ_CP015225	Pseudomonas fluorescens strain FW300-N2E2 chromosome
+34. NZ_FMUJ01000002	Variovorax sp. EL159, whole genome shotgun sequence
+35. NZ_MOBU01000010	Pseudomonas fluorescens strain 24D3 24D3_contig_12, whole genome shotgun sequence
+36. NZ_FOCU01000005	Pseudomonas sp. ok266, whole genome shotgun sequence
+37. NZ_NEJA01000006	Pseudomonas sp. B34(2017) B34_6, whole genome shotgun sequence
+38. NZ_KN639174	Pseudomonas fluorescens strain PA3G8 Scaffold2, whole genome shotgun sequence
+39. NZ_LT629746	Pseudomonas lini strain DSM 16768 chromosome I
+40. NZ_FYDN01000002	Pseudomonas sp. Irchel s3a12 isolate Pseudomonas sp. Irchel s3a12, whole genome shotgun sequence
+41. NZ_ARVC01000020	Pseudomonas sp. LAIL14HWK12:I2 F638DRAFT_scaffold00009.9, whole genome shotgun sequence
+42. NZ_FOYE01000003	Pseudomonas sp. NFIX49, whole genome shotgun sequence
+43. NZ_MOBD01000002	Pseudomonas brassicacearum strain 36B7 36B7_contig_2, whole genome shotgun sequence
+44. NZ_MOBR01000020	Pseudomonas frederiksbergensis strain 38F7 38F7_contig_25, whole genome shotgun sequence
+45. NZ_QRAV01000013	Pseudomonas jessenii strain E2333 Ga0222391_113, whole genome shotgun sequence
+46. NZ_CDMF01000001	Pseudomonas fluorescens isolate SRM1, whole genome shotgun sequence
+47. NC_022247	Variovorax paradoxus B4 chromosome 1, complete sequence
+48. NZ_CM002330	Pseudomonas moraviensis R28-S chromosome, whole genome shotgun sequence
+49. NZ_LT707063	Pseudomonas sp. B10 chromosome I
+50. NZ_CABVIC010000001	Pseudomonas fluorescens isolate PS847, whole genome shotgun sequence
+
+
+Details:
+
+>>
+1. CM008251
+Source: Phellinus noxius strain FFPRI411160 chromosome 1, whole genome shotgun sequence
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 3413.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_461705.T0	PNOK_0065900	53	166	101.17647058823529	7.01e-51
+CopciAB_354233.T0	PNOK_0065800	36	1391	108.51239669421489	0.0
+CopciAB_492586.T0	PNOK_0065700	34	339	122.87822878228782	4.35e-107
+CopciAB_411041.T0	PNOK_0065600	73	240	100.0	4.65e-80
+CopciAB_451244.T0	PNOK_0065500	41	1277	106.5329218106996	0.0
+
+
+
+>>
+2. NZ_CP039374
+Source: Halomonas titanicae strain ANRCS81 chromosome, complete genome
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 741.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+E8A47_RS05060	E8A47_RS05060	1133523	1133717	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	E8A47_RS04995	31	240	26.694214876033058	3.74e-61
+CopciAB_492586.T0	E8A47_RS05025	33	254	97.41697416974169	7.07e-77
+CopciAB_492586.T0	E8A47_RS05035	32	247	97.41697416974169	2.22e-74
+
+
+
+>>
+3. NZ_JPUA01000034
+Source: Halomonas campaniensis strain SK03 Sundar_PE_Contig_35, whole genome shotgun sequence
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 717.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+JI62_RS14440	JI62_RS14440	443557	443930	-	hypothetical_protein
+JI62_RS14450	JI62_RS14450	444449	445658	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	JI62_RS14390	32	243	24.958677685950413	3.15e-62
+CopciAB_354233.T0	JI62_RS14400	32	222	20.578512396694215	1.11e-55
+CopciAB_492586.T0	JI62_RS14420	33	252	97.41697416974169	3.77e-76
+
+
+
+>>
+4. NZ_CP048812
+Source: Halomonas socia strain CKY01 chromosome, complete genome
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 716.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+G3568_RS01080	G3568_RS01080	229126	230052	+	siderophore-interacting_protein
+G3568_RS01105	G3568_RS01105	232929	233344	+	transcriptional_regulator
+G3568_RS01195	G3568_RS01195	274987	275852	-	formyltetrahydrofolate_deformylase
+G3568_RS01220	G3568_RS01220	281853	283135	-	TRAP_transporter_large_permease
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	G3568_RS01150	31	246	26.48760330578512	4.82e-63
+CopciAB_354233.T0	G3568_RS01135	31	239	25.90909090909091	3.06e-62
+CopciAB_492586.T0	G3568_RS01120	31	231	97.41697416974169	3.72e-68
+
+
+
+>>
+5. NZ_CP046622
+Source: Variovorax paradoxus strain CSUSB chromosome, complete genome
+Type: NRPS,T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 702.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+GOQ09_RS19030	GOQ09_RS19030	4075902	4080039	+	filamentous_hemagglutinin_N-terminal_domain-containing_protein
+GOQ09_RS19160	GOQ09_RS19160	4122995	4123297	+	LysR_family_transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	GOQ09_RS19095	32	237	26.198347107438018	1.82e-60
+CopciAB_354233.T0	GOQ09_RS19085	31	226	25.123966942148762	7.61e-58
+CopciAB_492586.T0	GOQ09_RS19025	32	239	97.60147601476015	5.61e-71
+
+
+
+>>
+6. NZ_CP010415
+Source: Azotobacter chroococcum NCIMB 8003 chromosome, complete genome
+Type: NRPS,T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 685.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	Achr_RS19570	32	223	26.033057851239672	1.8e-56
+CopciAB_354233.T0	Achr_RS19575	31	223	27.39669421487603	4.6e-56
+CopciAB_492586.T0	Achr_RS19635	32	239	98.33948339483395	2.98e-71
+
+
+
+>>
+7. NZ_SMMU01000004
+Source: Azotobacter chroococcum strain DSM 2286 Ga0310512_104, whole genome shotgun sequence
+Type: NRPS,T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 684.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	EV691_RS05820	32	221	26.033057851239672	9.45e-56
+CopciAB_354233.T0	EV691_RS05815	31	222	27.231404958677686	1.35e-55
+CopciAB_492586.T0	EV691_RS05755	32	241	98.33948339483395	7.91e-72
+
+
+
+>>
+8. NW_001939252
+Source: Pyrenophora tritici-repentis Pt-1C-BFP supercont1.9, whole genome shotgun sequence
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 536.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	PTRG_08278	31	292	28.429752066115704	7.15e-79
+CopciAB_492586.T0	PTRG_08274	34	244	100.7380073800738	4.29e-72
+
+
+
+>>
+9. NZ_AP022821
+Source: Halomonas meridiana strain Slthf1
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 500.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+HMSLTHF_RS03915	HMSLTHF_RS03915	793213	794654	+	hypothetical_protein
+HMSLTHF_RS04020	HMSLTHF_RS04020	837698	839731	-	TonB-dependent_siderophore_receptor
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	HMSLTHF_RS04010	32	242	26.198347107438018	1.12e-61
+CopciAB_492586.T0	HMSLTHF_RS04025	34	258	98.1549815498155	2.29e-78
+
+
+
+>>
+10. NZ_CP011052
+Source: Halomonas sp. KO116 chromosome, complete genome
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 493.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+KO116_RS24735	KO116_RS24735	3648654	3648824	-	siderophore-iron_reductase_FhuF
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	KO116_RS16850	32	238	26.65289256198347	1.44e-60
+CopciAB_492586.T0	KO116_RS16820	33	255	97.41697416974169	2.55e-77
+
+
+
+>>
+11. NZ_VNFE01000002
+Source: Halomonas titanicae strain SM1922 HT_scaffold2, whole genome shotgun sequence
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 492.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	FQP89_RS06835	31	239	24.75206611570248	5.31e-61
+CopciAB_492586.T0	FQP89_RS06800	33	253	97.41697416974169	1.96e-76
+
+
+
+>>
+12. NC_014640
+Source: Achromobacter xylosoxidans A8, complete sequence
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 486.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	AXYL_RS12910	31	249	25.90909090909091	3.04e-64
+CopciAB_492586.T0	AXYL_RS12925	32	237	98.33948339483395	1.42e-70
+
+
+
+>>
+13. NZ_CP022286
+Source: Halomonas sp. N3-2A genome
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 482.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+CEK60_RS10360	CEK60_RS10360	2206190	2211478	-	amino_acid_adenylation_domain-containing_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	CEK60_RS10360	32	236	24.545454545454547	4.11e-60
+CopciAB_492586.T0	CEK60_RS10335	32	246	97.41697416974169	8.63e-74
+
+
+
+>>
+14. NZ_CP027736
+Source: Pseudomonas chlororaphis subsp. piscium strain PCL1391 chromosome, complete genome
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 479.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	C4K33_RS20595	31	229	24.586776859504134	1.03e-57
+CopciAB_492586.T0	C4K33_RS20535	32	250	99.2619926199262	2.16e-75
+
+
+
+>>
+15. NZ_CP027710
+Source: Pseudomonas chlororaphis subsp. piscium strain SLPH10 chromosome, complete genome
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 479.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	C4K35_RS21810	31	229	24.586776859504134	1.03e-57
+CopciAB_492586.T0	C4K35_RS21750	32	250	99.2619926199262	2.16e-75
+
+
+
+>>
+16. NZ_CP027737
+Source: Pseudomonas chlororaphis subsp. piscium strain PCL1607 chromosome, complete genome
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 479.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	C4K32_RS20955	31	229	24.586776859504134	1.03e-57
+CopciAB_492586.T0	C4K32_RS20895	32	250	99.2619926199262	2.16e-75
+
+
+
+>>
+17. NZ_CP027740
+Source: Pseudomonas chlororaphis subsp. piscium strain ChPhzS140 chromosome, complete genome
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 479.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	C4K29_RS21630	31	229	24.586776859504134	1.03e-57
+CopciAB_492586.T0	C4K29_RS21570	32	250	99.2619926199262	2.16e-75
+
+
+
+>>
+18. NZ_CP025261
+Source: Pseudomonas sp. 09C 129 chromosome
+Type: NRPS,resorcinol
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 478.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	CXQ81_RS22530	31	224	26.239669421487605	3.08e-56
+CopciAB_492586.T0	CXQ81_RS22465	33	254	99.2619926199262	5.14e-77
+
+
+
+>>
+19. NZ_CP049045
+Source: Pseudomonas sp. BIOMIG1BAC chromosome, complete genome
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 475.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	ATY02_RS25425	33	232	24.793388429752067	1.61e-58
+CopciAB_492586.T0	ATY02_RS25350	31	243	98.1549815498155	9.92e-73
+
+
+
+>>
+20. NZ_CP011110
+Source: Pseudomonas chlororaphis strain PCL1606 chromosome, complete genome
+Type: NRPS,resorcinol
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 474.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	PCL1606_RS10255	31	223	27.31404958677686	1.02e-55
+CopciAB_492586.T0	PCL1606_RS10320	32	251	99.07749077490774	7.78e-76
+
+
+
+>>
+21. NZ_FYEA01000001
+Source: Pseudomonas sp. Irchel 3H7 isolate Pseudomonas sp. Irchel 3H7, whole genome shotgun sequence
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 473.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	CKW38_RS03035	33	233	25.041322314049587	9.81e-60
+CopciAB_492586.T0	CKW38_RS02965	31	240	100.92250922509226	1.45e-71
+
+
+
+>>
+22. NZ_QUMR01000005
+Source: Pseudomonas sp. OV221 Ga0215798_105, whole genome shotgun sequence
+Type: NRPS,terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 470.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	C7533_RS13875	32	231	25.16528925619835	2.28e-59
+CopciAB_492586.T0	C7533_RS13945	31	239	98.8929889298893	2.85e-71
+
+
+
+>>
+23. NZ_CM001561
+Source: Pseudomonas fluorescens R124 chromosome, whole genome shotgun sequence
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 469.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	I1A_RS09210	33	233	25.16528925619835	9.81e-60
+CopciAB_492586.T0	I1A_RS09280	31	236	98.70848708487084	4.27e-70
+
+
+
+>>
+24. NZ_CP029608
+Source: Pseudomonas kribbensis strain 46-2 chromosome, complete genome
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 467.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	DLD99_RS10060	31	228	25.578512396694215	3.75e-58
+CopciAB_492586.T0	DLD99_RS10130	31	239	98.70848708487084	4.11e-71
+
+
+
+>>
+25. NZ_CP035088
+Source: Pseudomonas sp. 11K1 chromosome, complete genome
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 467.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	EPZ47_RS19825	31	222	24.710743801652892	1.29e-55
+CopciAB_492586.T0	EPZ47_RS19730	32	245	99.07749077490774	1.77e-73
+
+
+
+>>
+26. NZ_FYDH01000002
+Source: Pseudomonas sp. Irchel s3h9 isolate Pseudomonas sp. Irchel s3h9, whole genome shotgun sequence
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 466.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	CKW26_RS04760	33	228	25.16528925619835	3.75e-58
+CopciAB_492586.T0	CKW26_RS04690	31	238	98.70848708487084	1.55e-70
+
+
+
+>>
+27. NZ_NEHJ01000010
+Source: Pseudomonas sp. R43(2017) R43_10, whole genome shotgun sequence
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 466.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	CAG02_RS25615	31	225	25.6198347107438	2.66e-57
+CopciAB_492586.T0	CAG02_RS25685	31	241	98.70848708487084	5.4e-72
+
+
+
+>>
+28. NZ_CABVHX010000001
+Source: Pseudomonas fluorescens isolate PS718, whole genome shotgun sequence
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 465.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+F8N17_RS01585	F8N17_RS01585	364787	364897	+	serine/arginine_repetitive_matrix_1
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	F8N17_RS01565	32	229	25.24793388429752	9.24e-59
+CopciAB_492586.T0	F8N17_RS01640	31	236	100.92250922509226	8.4e-70
+
+
+
+>>
+29. NZ_CP014135
+Source: Pseudomonas agarici strain NCPPB 2472 chromosome
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 465.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	AWM79_RS12920	32	226	26.157024793388427	5.37e-57
+CopciAB_492586.T0	AWM79_RS12855	32	239	99.07749077490774	5.77e-71
+
+
+
+>>
+30. NZ_CP045302
+Source: Azotobacter salinestris strain KACC 13899 chromosome, complete genome
+Type: NRPS,T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 465.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+GCU53_RS13710	GCU53_RS13710	2964838	2965461	-	TolC_family_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	GCU53_RS13650	33	221	24.710743801652892	1.6e-55
+CopciAB_492586.T0	GCU53_RS13600	32	244	98.5239852398524	3.74e-73
+
+
+
+>>
+31. NZ_CP054880
+Source: Pseudomonas sp. 43A chromosome, complete genome
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 464.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+HUW52_RS13980	HUW52_RS13980	3132112	3132222	+	AAA_family_ATPase
+HUW52_RS30110	HUW52_RS30110	3147871	3154308	+	amino_acid_adenylation_domain-containing_protein
+HUW52_RS30115	HUW52_RS30115	3157369	3160644	+	amino_acid_adenylation_domain-containing_protein
+HUW52_RS30120	HUW52_RS30120	3173409	3176615	+	amino_acid_adenylation_domain-containing_protein
+HUW52_RS30125	HUW52_RS30125	3182996	3184735	+	AMP-binding_protein
+HUW52_RS30130	HUW52_RS30130	3185882	3186196	+	hypothetical_protein
+HUW52_RS30135	HUW52_RS30135	3187484	3189094	+	amino_acid_adenylation_domain-containing_protein
+HUW52_RS30140	HUW52_RS30140	3189254	3192370	+	amino_acid_adenylation_domain-containing_protein
+HUW52_RS14065	HUW52_RS14065	3195964	3196875	-	IS3_family_transposase
+HUW52_RS14070	HUW52_RS14070	3196865	3197218	+	transcription_elongation_factor_GreB
+HUW52_RS14120	HUW52_RS14120	3208479	3208697	-	FAD-binding_oxidoreductase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	HUW52_RS30135	35	241	20.909090909090907	2.55e-66
+CopciAB_492586.T0	HUW52_RS14010	31	223	99.2619926199262	7.4e-65
+
+
+
+>>
+32. NZ_CP048408
+Source: Pseudomonas fluorescens strain DR397 chromosome, complete genome
+Type: NRPS,terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 464.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	GZH78_RS10760	32	225	25.24793388429752	2.01e-57
+CopciAB_492586.T0	GZH78_RS10830	31	239	98.70848708487084	2.93e-71
+
+
+
+>>
+33. NZ_CP015225
+Source: Pseudomonas fluorescens strain FW300-N2E2 chromosome
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 464.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+TK06_RS00020	TK06_RS00020	14454	27997	+	amino_acid_adenylation_domain-containing_protein
+TK06_RS31380	TK06_RS31380	40736	40867	-	formylglycine-generating_enzyme_family_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	TK06_RS00015	32	223	24.87603305785124	5.74e-56
+CopciAB_492586.T0	TK06_RS00105	31	241	98.8929889298893	1.03e-71
+
+
+
+>>
+34. NZ_FMUJ01000002
+Source: Variovorax sp. EL159, whole genome shotgun sequence
+Type: NRPS,T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 464.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+BLQ28_RS10575	BLQ28_RS10575	957701	959323	-	AMP-binding_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	BLQ28_RS10490	34	220	20.826446280991735	1.63e-55
+CopciAB_492586.T0	BLQ28_RS10520	34	244	97.7859778597786	5.11e-73
+
+
+
+>>
+35. NZ_MOBU01000010
+Source: Pseudomonas fluorescens strain 24D3 24D3_contig_12, whole genome shotgun sequence
+Type: NRPS,terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 463.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	BK671_RS16020	32	229	25.28925619834711	1.22e-58
+CopciAB_492586.T0	BK671_RS15950	31	234	98.8929889298893	3.24e-69
+
+
+
+>>
+36. NZ_FOCU01000005
+Source: Pseudomonas sp. ok266, whole genome shotgun sequence
+Type: NRPS,terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 463.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	BMY54_RS10675	32	225	25.16528925619835	2.01e-57
+CopciAB_492586.T0	BMY54_RS10745	31	238	98.70848708487084	7.88e-71
+
+
+
+>>
+37. NZ_NEJA01000006
+Source: Pseudomonas sp. B34(2017) B34_6, whole genome shotgun sequence
+Type: NRPS,terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 463.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	CAF80_RS21375	32	225	25.413223140495866	2.01e-57
+CopciAB_492586.T0	CAF80_RS21305	31	238	98.70848708487084	1.59e-70
+
+
+
+>>
+38. NZ_KN639174
+Source: Pseudomonas fluorescens strain PA3G8 Scaffold2, whole genome shotgun sequence
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 463.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+AW34_RS20335	AW34_RS20335	2116933	2117445	+	SDR_family_NAD(P)-dependent_oxidoreductase
+AW34_RS20345	AW34_RS20345	2118265	2119251	+	GlxA_family_transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	AW34_RS20375	32	222	24.87603305785124	1.9e-56
+CopciAB_492586.T0	AW34_RS20450	31	241	98.70848708487084	7.57e-72
+
+
+
+>>
+39. NZ_LT629746
+Source: Pseudomonas lini strain DSM 16768 chromosome I
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 463.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+BLU65_RS14130	BLU65_RS14130	3111377	3111889	+	SDR_family_NAD(P)-dependent_oxidoreductase
+BLU65_RS14140	BLU65_RS14140	3112709	3113695	+	GlxA_family_transcriptional_regulator
+BLU65_RS14155	BLU65_RS14155	3116645	3117933	-	flavodoxin-dependent_(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate_synthase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	BLU65_RS14210	32	222	25.123966942148762	2.51e-56
+CopciAB_492586.T0	BLU65_RS14285	31	241	98.70848708487084	7.57e-72
+
+
+
+>>
+40. NZ_FYDN01000002
+Source: Pseudomonas sp. Irchel s3a12 isolate Pseudomonas sp. Irchel s3a12, whole genome shotgun sequence
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 462.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	CKW14_RS04925	33	224	25.16528925619835	3.51e-57
+CopciAB_492586.T0	CKW14_RS04855	31	238	98.70848708487084	1.1e-70
+
+
+
+>>
+41. NZ_ARVC01000020
+Source: Pseudomonas sp. LAIL14HWK12:I2 F638DRAFT_scaffold00009.9, whole genome shotgun sequence
+Type: NRPS,terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 462.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	F638_RS28470	32	224	25.24793388429752	4.65e-57
+CopciAB_492586.T0	F638_RS28540	31	238	98.70848708487084	1.59e-70
+
+
+
+>>
+42. NZ_FOYE01000003
+Source: Pseudomonas sp. NFIX49, whole genome shotgun sequence
+Type: NRPS,terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 462.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	BMZ46_RS10280	32	224	25.413223140495866	4.65e-57
+CopciAB_492586.T0	BMZ46_RS10210	31	238	98.70848708487084	1.59e-70
+
+
+
+>>
+43. NZ_MOBD01000002
+Source: Pseudomonas brassicacearum strain 36B7 36B7_contig_2, whole genome shotgun sequence
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 462.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	BK653_RS10700	31	221	24.50413223140496	3.77e-55
+CopciAB_492586.T0	BK653_RS10780	31	241	98.8929889298893	7.37e-72
+
+
+
+>>
+44. NZ_MOBR01000020
+Source: Pseudomonas frederiksbergensis strain 38F7 38F7_contig_25, whole genome shotgun sequence
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 459.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+BK667_RS21510	BK667_RS21510	15314	15712	-	GFA_family_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	BK667_RS21605	31	223	25.950413223140494	5.72e-56
+CopciAB_492586.T0	BK667_RS21700	31	236	98.70848708487084	8.62e-70
+
+
+
+>>
+45. NZ_QRAV01000013
+Source: Pseudomonas jessenii strain E2333 Ga0222391_113, whole genome shotgun sequence
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 458.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+DEU51_RS19885	DEU51_RS19885	120744	120964	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	DEU51_RS19815	31	224	25.28925619834711	6.14e-57
+CopciAB_492586.T0	DEU51_RS19745	31	234	100.92250922509226	3.24e-69
+
+
+
+>>
+46. NZ_CDMF01000001
+Source: Pseudomonas fluorescens isolate SRM1, whole genome shotgun sequence
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 456.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+SRM1_RS09455	SRM1_RS09455	2108609	2109635	+	helix-turn-helix_domain-containing_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	SRM1_RS09490	31	223	25.28925619834711	1.07e-56
+CopciAB_492586.T0	SRM1_RS09560	31	233	100.92250922509226	8.93e-69
+
+
+
+>>
+47. NC_022247
+Source: Variovorax paradoxus B4 chromosome 1, complete sequence
+Type: NRPS,T1PKS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 456.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	VAPA_RS19110	31	221	26.28099173553719	1.61e-55
+CopciAB_492586.T0	VAPA_RS19080	32	235	97.7859778597786	1.38e-69
+
+
+
+>>
+48. NZ_CM002330
+Source: Pseudomonas moraviensis R28-S chromosome, whole genome shotgun sequence
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 449.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	PMO01_RS09050	32	223	25.206611570247933	1.42e-56
+CopciAB_492586.T0	PMO01_RS09120	31	226	100.36900369003689	3.96e-66
+
+
+
+>>
+49. NZ_LT707063
+Source: Pseudomonas sp. B10 chromosome I
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 449.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	BXA01_RS25285	32	221	25.24793388429752	3.28e-56
+CopciAB_492586.T0	BXA01_RS25355	31	228	100.36900369003689	1.03e-66
+
+
+
+>>
+50. NZ_CABVIC010000001
+Source: Pseudomonas fluorescens isolate PS847, whole genome shotgun sequence
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 448.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+F8N23_RS09245	F8N23_RS09245	2058560	2058652	-	metal_ABC_transporter_ATP-binding_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+CopciAB_354233.T0	F8N23_RS09195	32	220	25.206611570247933	1e-55
+CopciAB_492586.T0	F8N23_RS09125	31	228	100.36900369003689	1.03e-66
+
